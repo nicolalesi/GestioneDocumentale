@@ -9,7 +9,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Pistoia"/>
+        <Provincia nome="Provincia di Pistoia"/>
         <Provincia nome="Provincia di Pistoia">
           <Città nome="Buggiano"/>
           <Città nome="Chiesina Uzzanese"/>
@@ -36,7 +36,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Pistoia"/>
+        <Provincia nome="Provincia di Pistoia"/>
         <Provincia nome="Provincia di Pistoia">
           <Città nome="Buggiano"/>
           <Città nome="Chiesina Uzzanese"/>
@@ -63,7 +63,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Pistoia"/>
+        <Provincia nome="Provincia of Pistoia"/>
         <Provincia nome="Provincia di Pistoia">
           <Città nome="Buggiano"/>
           <Città nome="Chiesina Uzzanese"/>
@@ -90,7 +90,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Canaiolo Nero', Vitigno 'Canaiolo', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Pistoia"/>
+        <Provincia nome="Provincia of Pistoia"/>
         <Provincia nome="Provincia di Pistoia">
           <Città nome="Buggiano"/>
           <Città nome="Chiesina Uzzanese"/>
@@ -117,7 +117,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Canaiolo Nero', Vitigno 'Canaiolo', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Pistoia"/>
+        <Provincia nome="Provincia di Pistoia"/>
         <Provincia nome="Provincia di Pistoia">
           <Città nome="Buggiano"/>
           <Città nome="Chiesina Uzzanese"/>
@@ -144,7 +144,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Pistoia"/>
+        <Provincia nome="Provincia di Pistoia"/>
         <Provincia nome="Provincia di Pistoia">
           <Città nome="Buggiano"/>
           <Città nome="Chiesina Uzzanese"/>
@@ -171,8 +171,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -191,8 +191,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -211,8 +211,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -231,8 +231,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -253,8 +253,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -275,8 +275,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -295,8 +295,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -317,8 +317,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -337,8 +337,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -357,8 +357,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -379,8 +379,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -399,8 +399,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -421,8 +421,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -443,8 +443,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Isola di Sicilia">
-        <Provincia nome="Province of Agrigento"/>
-        <Provincia nome="Province of Palermo"/>
+        <Provincia nome="Provincia di Agrigento"/>
+        <Provincia nome="Provincia di Palermo"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Menfi"/>
           <Città nome="Montevago"/>
@@ -1031,7 +1031,7 @@
           <Città nome="Sirmione"/>
           <Città nome="Toscolano-Maderno"/>
         </Provincia>
-        <Provincia nome="Province of Brescia"/>
+        <Provincia nome="Provincia di Brescia"/>
       </Regione>
       <Regione nome="Sconosciuto">
         <Provincia nome="Sconosciuta">
@@ -1070,7 +1070,7 @@
           <Città nome="Sirmione"/>
           <Città nome="Toscolano-Maderno"/>
         </Provincia>
-        <Provincia nome="Province of Brescia"/>
+        <Provincia nome="Provincia di Brescia"/>
       </Regione>
       <Regione nome="Sconosciuto">
         <Provincia nome="Sconosciuta">
@@ -1109,7 +1109,7 @@
           <Città nome="Sirmione"/>
           <Città nome="Toscolano-Maderno"/>
         </Provincia>
-        <Provincia nome="Province of Brescia"/>
+        <Provincia nome="Provincia di Brescia"/>
       </Regione>
       <Regione nome="Sconosciuto">
         <Provincia nome="Sconosciuta">
@@ -1148,7 +1148,7 @@
           <Città nome="Sirmione"/>
           <Città nome="Toscolano-Maderno"/>
         </Provincia>
-        <Provincia nome="Province of Brescia"/>
+        <Provincia nome="Provincia di Brescia"/>
       </Regione>
       <Regione nome="Sconosciuto">
         <Provincia nome="Sconosciuta">
@@ -1187,7 +1187,7 @@
           <Città nome="Sirmione"/>
           <Città nome="Toscolano-Maderno"/>
         </Provincia>
-        <Provincia nome="Province of Brescia"/>
+        <Provincia nome="Provincia di Brescia"/>
       </Regione>
       <Regione nome="Sconosciuto">
         <Provincia nome="Sconosciuta">
@@ -1226,7 +1226,7 @@
           <Città nome="Sirmione"/>
           <Città nome="Toscolano-Maderno"/>
         </Provincia>
-        <Provincia nome="Province of Brescia"/>
+        <Provincia nome="Provincia di Brescia"/>
       </Regione>
       <Regione nome="Sconosciuto">
         <Provincia nome="Sconosciuta">
@@ -1265,7 +1265,7 @@
           <Città nome="Sirmione"/>
           <Città nome="Toscolano-Maderno"/>
         </Provincia>
-        <Provincia nome="Province of Brescia"/>
+        <Provincia nome="Provincia di Brescia"/>
       </Regione>
       <Regione nome="Sconosciuto">
         <Provincia nome="Sconosciuta">
@@ -1304,7 +1304,7 @@
           <Città nome="Sirmione"/>
           <Città nome="Toscolano-Maderno"/>
         </Provincia>
-        <Provincia nome="Province of Brescia"/>
+        <Provincia nome="Provincia di Brescia"/>
       </Regione>
       <Regione nome="Sconosciuto">
         <Provincia nome="Sconosciuta">
@@ -1343,7 +1343,7 @@
           <Città nome="Sirmione"/>
           <Città nome="Toscolano-Maderno"/>
         </Provincia>
-        <Provincia nome="Province of Brescia"/>
+        <Provincia nome="Provincia di Brescia"/>
       </Regione>
       <Regione nome="Sconosciuto">
         <Provincia nome="Sconosciuta">
@@ -1382,7 +1382,7 @@
           <Città nome="Sirmione"/>
           <Città nome="Toscolano-Maderno"/>
         </Provincia>
-        <Provincia nome="Province of Brescia"/>
+        <Provincia nome="Provincia di Brescia"/>
       </Regione>
       <Regione nome="Sconosciuto">
         <Provincia nome="Sconosciuta">
@@ -1576,9 +1576,9 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Aleatico', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Bombino Nero', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Lambrusco Maestri', Vitigno 'Lambrusco', Vitigno 'Malbech', Vitigno 'Malvasia Nera Di Brindisi', Vitigno 'Malvasia Nera Di Lecce', Vitigno 'Merlot', Vitigno 'Negroamaro Precoce Cannellino', Vitigno 'Negroamaro', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero', Vitigno 'Primitivo', Vitigno 'Refosco Dal Peduncolo Rosso', Vitigno 'Sangiovese', Vitigno 'Susumaniello', Vitigno 'Syrah', Vitigno 'Uva Di Troia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1604,9 +1604,9 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Bianco Di Alessano', Vitigno 'Bombino Bianco', Vitigno 'Chardonnay', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco Bianco', Vitigno 'Greco', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca', Vitigno 'Montonico', Vitigno 'Moscatello Selvatico', Vitigno 'Moscato Bianco', Vitigno 'Pampanuto', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Sauvignon', Vitigno 'Semillon', Vitigno 'Sylvaner Verde', Vitigno 'Verdeca', Vitigno 'Verdicchio', Vitigno 'Vermentino'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1630,9 +1630,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1656,9 +1656,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1684,9 +1684,9 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Aleatico', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Bombino Nero', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Lambrusco Maestri', Vitigno 'Lambrusco', Vitigno 'Malbech', Vitigno 'Malvasia Nera Di Brindisi', Vitigno 'Malvasia Nera Di Lecce', Vitigno 'Merlot', Vitigno 'Negroamaro Precoce Cannellino', Vitigno 'Negroamaro', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero', Vitigno 'Primitivo', Vitigno 'Refosco Dal Peduncolo Rosso', Vitigno 'Sangiovese', Vitigno 'Susumaniello', Vitigno 'Syrah', Vitigno 'Uva Di Troia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1712,9 +1712,9 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Bianco Di Alessano', Vitigno 'Bombino Bianco', Vitigno 'Chardonnay', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco Bianco', Vitigno 'Greco', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca', Vitigno 'Montonico', Vitigno 'Moscatello Selvatico', Vitigno 'Moscato Bianco', Vitigno 'Pampanuto', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Sauvignon', Vitigno 'Semillon', Vitigno 'Sylvaner Verde', Vitigno 'Verdeca', Vitigno 'Verdicchio', Vitigno 'Vermentino'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1738,9 +1738,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1764,9 +1764,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1790,9 +1790,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1816,9 +1816,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1843,9 +1843,9 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Aleatico', Vitigno 'Barbera', Vitigno 'Bombino Nero', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Lambrusco Maestri', Vitigno 'Lambrusco', Vitigno 'Malbech', Vitigno 'Malvasia Nera Di Brindisi', Vitigno 'Malvasia Nera Di Lecce', Vitigno 'Merlot', Vitigno 'Negroamaro Precoce Cannellino', Vitigno 'Negroamaro', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero', Vitigno 'Primitivo', Vitigno 'Refosco Dal Peduncolo Rosso', Vitigno 'Sangiovese', Vitigno 'Susumaniello', Vitigno 'Syrah', Vitigno 'Uva Di Troia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1871,9 +1871,9 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Bianco Di Alessano', Vitigno 'Bombino Bianco', Vitigno 'Chardonnay', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco Bianco', Vitigno 'Greco', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca', Vitigno 'Montonico', Vitigno 'Moscatello Selvatico', Vitigno 'Moscato Bianco', Vitigno 'Pampanuto', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Sauvignon', Vitigno 'Semillon', Vitigno 'Sylvaner Verde', Vitigno 'Verdeca', Vitigno 'Verdicchio', Vitigno 'Vermentino'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1897,9 +1897,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1923,9 +1923,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1951,9 +1951,9 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Bianco Di Alessano', Vitigno 'Bombino Bianco', Vitigno 'Chardonnay', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco Bianco', Vitigno 'Greco', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca', Vitigno 'Montonico', Vitigno 'Moscatello Selvatico', Vitigno 'Moscato Bianco', Vitigno 'Pampanuto', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Sauvignon', Vitigno 'Semillon', Vitigno 'Sylvaner Verde', Vitigno 'Verdeca', Vitigno 'Verdicchio', Vitigno 'Vermentino'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -1979,9 +1979,9 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Aleatico', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Bombino Nero', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Lambrusco Maestri', Vitigno 'Lambrusco', Vitigno 'Malbech', Vitigno 'Malvasia Nera Di Brindisi', Vitigno 'Malvasia Nera Di Lecce', Vitigno 'Merlot', Vitigno 'Negroamaro Precoce Cannellino', Vitigno 'Negroamaro', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero', Vitigno 'Primitivo', Vitigno 'Refosco Dal Peduncolo Rosso', Vitigno 'Sangiovese', Vitigno 'Susumaniello', Vitigno 'Syrah', Vitigno 'Uva Di Troia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -2005,9 +2005,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -2033,9 +2033,9 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Bianco Di Alessano', Vitigno 'Bombino Bianco', Vitigno 'Chardonnay', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco Bianco', Vitigno 'Greco', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca', Vitigno 'Montonico', Vitigno 'Moscatello Selvatico', Vitigno 'Moscato Bianco', Vitigno 'Pampanuto', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Sauvignon', Vitigno 'Semillon', Vitigno 'Sylvaner Verde', Vitigno 'Verdeca', Vitigno 'Verdicchio', Vitigno 'Vermentino'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -2059,9 +2059,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -2085,9 +2085,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -2111,9 +2111,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -2139,9 +2139,9 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Aleatico', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Bombino Nero', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Lambrusco Maestri', Vitigno 'Lambrusco', Vitigno 'Malbech', Vitigno 'Malvasia Nera Di Brindisi', Vitigno 'Malvasia Nera Di Lecce', Vitigno 'Merlot', Vitigno 'Negroamaro Precoce Cannellino', Vitigno 'Negroamaro', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero', Vitigno 'Primitivo', Vitigno 'Refosco Dal Peduncolo Rosso', Vitigno 'Sangiovese', Vitigno 'Susumaniello', Vitigno 'Syrah', Vitigno 'Uva Di Troia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -2165,9 +2165,9 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Puglia">
-        <Provincia nome="Province of Bari"/>
-        <Provincia nome="Province of Brindisi"/>
-        <Provincia nome="Province of Taranto"/>
+        <Provincia nome="Provincia di Bari"/>
+        <Provincia nome="Provincia di Brindisi"/>
+        <Provincia nome="Provincia di Taranto"/>
         <Provincia nome="Provincia di Brindisi">
           <Città nome="Ceglie Messapica"/>
           <Città nome="Cisternino"/>
@@ -2193,7 +2193,7 @@
     <MateriaPrima>Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cannonau', Vitigno 'Carignano', Vitigno 'Girò'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Cagliari"/>
+        <Provincia nome="Provincia di Cagliari"/>
         <Provincia nome="Provincia del Sud Sardegna">
           <Città nome="Giba, Sardinia"/>
           <Città nome="Masainas"/>
@@ -2208,7 +2208,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Carbonia-Iglesias"/>
+        <Provincia nome="Provincia di Carbonia-Iglesias"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2219,7 +2219,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Cagliari"/>
+        <Provincia nome="Provincia di Cagliari"/>
         <Provincia nome="Provincia del Sud Sardegna">
           <Città nome="Giba, Sardinia"/>
           <Città nome="Masainas"/>
@@ -2234,7 +2234,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Carbonia-Iglesias"/>
+        <Provincia nome="Provincia di Carbonia-Iglesias"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2247,7 +2247,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia', Vitigno 'Monica', Vitigno 'Moscato', Vitigno 'Nasco', Vitigno 'Nuragus', Vitigno 'Semidano', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione', Vitigno 'Vermentino', Vitigno 'Vernaccia'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Cagliari"/>
+        <Provincia nome="Provincia di Cagliari"/>
         <Provincia nome="Provincia del Sud Sardegna">
           <Città nome="Giba, Sardinia"/>
           <Città nome="Masainas"/>
@@ -2262,7 +2262,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Carbonia-Iglesias"/>
+        <Provincia nome="Provincia di Carbonia-Iglesias"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2273,7 +2273,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Cagliari"/>
+        <Provincia nome="Provincia di Cagliari"/>
         <Provincia nome="Provincia del Sud Sardegna">
           <Città nome="Giba, Sardinia"/>
           <Città nome="Masainas"/>
@@ -2288,7 +2288,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Carbonia-Iglesias"/>
+        <Provincia nome="Provincia di Carbonia-Iglesias"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2301,7 +2301,7 @@
     <MateriaPrima>Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cannonau', Vitigno 'Carignano', Vitigno 'Girò'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Cagliari"/>
+        <Provincia nome="Provincia di Cagliari"/>
         <Provincia nome="Provincia del Sud Sardegna">
           <Città nome="Giba, Sardinia"/>
           <Città nome="Masainas"/>
@@ -2316,7 +2316,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Carbonia-Iglesias"/>
+        <Provincia nome="Provincia di Carbonia-Iglesias"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2327,7 +2327,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Cagliari"/>
+        <Provincia nome="Provincia di Cagliari"/>
         <Provincia nome="Provincia del Sud Sardegna">
           <Città nome="Giba, Sardinia"/>
           <Città nome="Masainas"/>
@@ -2342,7 +2342,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Carbonia-Iglesias"/>
+        <Provincia nome="Provincia di Carbonia-Iglesias"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2353,7 +2353,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Cagliari"/>
+        <Provincia nome="Provincia di Cagliari"/>
         <Provincia nome="Provincia del Sud Sardegna">
           <Città nome="Giba, Sardinia"/>
           <Città nome="Masainas"/>
@@ -2368,7 +2368,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Carbonia-Iglesias"/>
+        <Provincia nome="Provincia di Carbonia-Iglesias"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2381,7 +2381,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia', Vitigno 'Monica', Vitigno 'Moscato', Vitigno 'Nasco', Vitigno 'Nuragus', Vitigno 'Semidano', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione', Vitigno 'Vermentino', Vitigno 'Vernaccia'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Cagliari"/>
+        <Provincia nome="Provincia di Cagliari"/>
         <Provincia nome="Provincia del Sud Sardegna">
           <Città nome="Giba, Sardinia"/>
           <Città nome="Masainas"/>
@@ -2396,7 +2396,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Carbonia-Iglesias"/>
+        <Provincia nome="Provincia di Carbonia-Iglesias"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2407,7 +2407,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Cagliari"/>
+        <Provincia nome="Provincia di Cagliari"/>
         <Provincia nome="Provincia del Sud Sardegna">
           <Città nome="Giba, Sardinia"/>
           <Città nome="Masainas"/>
@@ -2422,7 +2422,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Carbonia-Iglesias"/>
+        <Provincia nome="Provincia di Carbonia-Iglesias"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2433,7 +2433,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Cagliari"/>
+        <Provincia nome="Provincia di Cagliari"/>
         <Provincia nome="Provincia del Sud Sardegna">
           <Città nome="Giba, Sardinia"/>
           <Città nome="Masainas"/>
@@ -2448,7 +2448,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Carbonia-Iglesias"/>
+        <Provincia nome="Provincia di Carbonia-Iglesias"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2459,7 +2459,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Cagliari"/>
+        <Provincia nome="Provincia di Cagliari"/>
         <Provincia nome="Provincia del Sud Sardegna">
           <Città nome="Giba, Sardinia"/>
           <Città nome="Masainas"/>
@@ -2474,7 +2474,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Carbonia-Iglesias"/>
+        <Provincia nome="Provincia di Carbonia-Iglesias"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2487,7 +2487,7 @@
     <MateriaPrima>Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cannonau', Vitigno 'Carignano', Vitigno 'Girò'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Cagliari"/>
+        <Provincia nome="Provincia di Cagliari"/>
         <Provincia nome="Provincia del Sud Sardegna">
           <Città nome="Giba, Sardinia"/>
           <Città nome="Masainas"/>
@@ -2502,7 +2502,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Carbonia-Iglesias"/>
+        <Provincia nome="Provincia di Carbonia-Iglesias"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2515,10 +2515,10 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Nebbiolo'</MateriaPrima>
     <Luogo>
       <Regione nome="Piemonte">
-        <Provincia nome="Province of Verbano Cusio Ossola">
+        <Provincia nome="Provincia di Verbano Cusio Ossola">
           <Città nome="Domodossola"/>
         </Provincia>
-        <Provincia nome="Province of Verbano-Cusio-Ossola"/>
+        <Provincia nome="Provincia di Verbano-Cusio-Ossola"/>
         <Provincia nome="Provincia del Verbano-Cusio-Ossola">
           <Città nome="Beura-Cardezza"/>
           <Città nome="Bognanco"/>
@@ -2548,10 +2548,10 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Croatina', Vitigno 'Merlot', Vitigno 'Nebbiolo'</MateriaPrima>
     <Luogo>
       <Regione nome="Piemonte">
-        <Provincia nome="Province of Verbano Cusio Ossola">
+        <Provincia nome="Provincia di Verbano Cusio Ossola">
           <Città nome="Domodossola"/>
         </Provincia>
-        <Provincia nome="Province of Verbano-Cusio-Ossola"/>
+        <Provincia nome="Provincia di Verbano-Cusio-Ossola"/>
         <Provincia nome="Provincia del Verbano-Cusio-Ossola">
           <Città nome="Beura-Cardezza"/>
           <Città nome="Bognanco"/>
@@ -2581,10 +2581,10 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Nebbiolo'</MateriaPrima>
     <Luogo>
       <Regione nome="Piemonte">
-        <Provincia nome="Province of Verbano Cusio Ossola">
+        <Provincia nome="Provincia di Verbano Cusio Ossola">
           <Città nome="Domodossola"/>
         </Provincia>
-        <Provincia nome="Province of Verbano-Cusio-Ossola"/>
+        <Provincia nome="Provincia di Verbano-Cusio-Ossola"/>
         <Provincia nome="Provincia del Verbano-Cusio-Ossola">
           <Città nome="Beura-Cardezza"/>
           <Città nome="Bognanco"/>
@@ -2614,10 +2614,10 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay'</MateriaPrima>
     <Luogo>
       <Regione nome="Piemonte">
-        <Provincia nome="Province of Verbano Cusio Ossola">
+        <Provincia nome="Provincia di Verbano Cusio Ossola">
           <Città nome="Domodossola"/>
         </Provincia>
-        <Provincia nome="Province of Verbano-Cusio-Ossola"/>
+        <Provincia nome="Provincia di Verbano-Cusio-Ossola"/>
         <Provincia nome="Provincia del Verbano-Cusio-Ossola">
           <Città nome="Beura-Cardezza"/>
           <Città nome="Bognanco"/>
@@ -2647,7 +2647,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Corvina', Vitigno 'Corvinone'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
         <Provincia nome="Provincia di Verona">
           <Città nome="Cazzano di Tramigna"/>
           <Città nome="Cerro Veronese"/>
@@ -2676,7 +2676,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Corvina', Vitigno 'Corvinone'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
         <Provincia nome="Provincia di Verona">
           <Città nome="Cazzano di Tramigna"/>
           <Città nome="Cerro Veronese"/>
@@ -2705,7 +2705,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Corvina', Vitigno 'Corvinone'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
         <Provincia nome="Provincia di Verona">
           <Città nome="Cazzano di Tramigna"/>
           <Città nome="Cerro Veronese"/>
@@ -2734,7 +2734,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Corvina', Vitigno 'Corvinone'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
         <Provincia nome="Provincia di Verona">
           <Città nome="Cazzano di Tramigna"/>
           <Città nome="Cerro Veronese"/>
@@ -2763,7 +2763,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Coda Di Volpe', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Moscato'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2776,7 +2776,7 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Cabernet Sauvignon', Vitigno 'Merlot', Vitigno 'Piedirosso', Vitigno 'Sangiovese', Vitigno 'Sciascinoso'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2787,7 +2787,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2798,7 +2798,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2809,7 +2809,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2822,7 +2822,7 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Cabernet Sauvignon', Vitigno 'Merlot', Vitigno 'Piedirosso', Vitigno 'Sangiovese', Vitigno 'Sciascinoso'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2833,7 +2833,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2844,7 +2844,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2857,7 +2857,7 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Cabernet Sauvignon', Vitigno 'Merlot', Vitigno 'Piedirosso', Vitigno 'Sangiovese', Vitigno 'Sciascinoso'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2870,7 +2870,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Coda Di Volpe', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Moscato'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2881,7 +2881,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2892,7 +2892,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2903,7 +2903,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2916,7 +2916,7 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Cabernet Sauvignon', Vitigno 'Merlot', Vitigno 'Piedirosso', Vitigno 'Sangiovese', Vitigno 'Sciascinoso'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2927,7 +2927,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Coda Di Volpe', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Moscato'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2938,7 +2938,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Benevento"/>
+        <Provincia nome="Provincia di Benevento"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -2951,7 +2951,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Corvina', Vitigno 'Corvinone', Vitigno 'Rondinella'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
         <Provincia nome="Provincia di Verona">
           <Città nome="Cazzano di Tramigna"/>
           <Città nome="Cerro Veronese"/>
@@ -2980,7 +2980,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Corvina', Vitigno 'Corvinone', Vitigno 'Rondinella'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
         <Provincia nome="Provincia di Verona">
           <Città nome="Cazzano di Tramigna"/>
           <Città nome="Cerro Veronese"/>
@@ -3009,7 +3009,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Corvina', Vitigno 'Corvinone', Vitigno 'Rondinella'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
         <Provincia nome="Provincia di Verona">
           <Città nome="Cazzano di Tramigna"/>
           <Città nome="Cerro Veronese"/>
@@ -3038,7 +3038,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Corvina', Vitigno 'Corvinone', Vitigno 'Rondinella'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
         <Provincia nome="Provincia di Verona">
           <Città nome="Cazzano di Tramigna"/>
           <Città nome="Cerro Veronese"/>
@@ -3067,7 +3067,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Avanà', Vitigno 'Barbera', Vitigno 'Dolcetto', Vitigno 'Neretta Cuneese'</MateriaPrima>
     <Luogo>
       <Regione nome="Piemonte">
-        <Provincia nome="Province of Turin"/>
+        <Provincia nome="Provincia di Turin"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Almese"/>
           <Città nome="Borgone Susa"/>
@@ -3097,7 +3097,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Avanà', Vitigno 'Barbera', Vitigno 'Dolcetto', Vitigno 'Neretta Cuneese'</MateriaPrima>
     <Luogo>
       <Regione nome="Piemonte">
-        <Provincia nome="Province of Turin"/>
+        <Provincia nome="Provincia di Turin"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Almese"/>
           <Città nome="Borgone Susa"/>
@@ -3367,7 +3367,7 @@
           <Città nome="Bedizzole"/>
           <Città nome="Desenzano del Garda"/>
         </Provincia>
-        <Provincia nome="Province of Brescia"/>
+        <Provincia nome="Provincia di Brescia"/>
       </Regione>
       <Regione nome="Sconosciuto">
         <Provincia nome="Sconosciuta">
@@ -3399,7 +3399,7 @@
           <Città nome="Bedizzole"/>
           <Città nome="Desenzano del Garda"/>
         </Provincia>
-        <Provincia nome="Province of Brescia"/>
+        <Provincia nome="Provincia di Brescia"/>
       </Regione>
       <Regione nome="Sconosciuto">
         <Provincia nome="Sconosciuta">
@@ -3425,7 +3425,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Bergamo"/>
+        <Provincia nome="Provincia di Bergamo"/>
         <Provincia nome="Provincia di Bergamo">
           <Città nome="Adrara San Rocco"/>
           <Città nome="Almenno San Bartolomeo"/>
@@ -3514,7 +3514,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Bergamo"/>
+        <Provincia nome="Provincia di Bergamo"/>
         <Provincia nome="Provincia di Bergamo">
           <Città nome="Adrara San Rocco"/>
           <Città nome="Almenno San Bartolomeo"/>
@@ -3603,7 +3603,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Bergamo"/>
+        <Provincia nome="Provincia di Bergamo"/>
         <Provincia nome="Provincia di Bergamo">
           <Città nome="Adrara San Rocco"/>
           <Città nome="Almenno San Bartolomeo"/>
@@ -3694,7 +3694,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Bergamo"/>
+        <Provincia nome="Provincia di Bergamo"/>
         <Provincia nome="Provincia di Bergamo">
           <Città nome="Adrara San Rocco"/>
           <Città nome="Almenno San Bartolomeo"/>
@@ -3785,7 +3785,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Bergamo"/>
+        <Provincia nome="Provincia di Bergamo"/>
         <Provincia nome="Provincia di Bergamo">
           <Città nome="Adrara San Rocco"/>
           <Città nome="Almenno San Bartolomeo"/>
@@ -3874,7 +3874,7 @@
     <MateriaPrima>Vitigno 'Moscato Di Scanzo'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Bergamo"/>
+        <Provincia nome="Provincia di Bergamo"/>
         <Provincia nome="Provincia di Bergamo">
           <Città nome="Adrara San Rocco"/>
           <Città nome="Almenno San Bartolomeo"/>
@@ -3963,7 +3963,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Bergamo"/>
+        <Provincia nome="Provincia di Bergamo"/>
         <Provincia nome="Provincia di Bergamo">
           <Città nome="Adrara San Rocco"/>
           <Città nome="Almenno San Bartolomeo"/>
@@ -4052,7 +4052,7 @@
     <MateriaPrima>Vitigno 'Moscato Di Scanzo'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Bergamo"/>
+        <Provincia nome="Provincia di Bergamo"/>
         <Provincia nome="Provincia di Bergamo">
           <Città nome="Adrara San Rocco"/>
           <Città nome="Almenno San Bartolomeo"/>
@@ -4238,8 +4238,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Ancellotta', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Carmenere', Vitigno 'CarmèNere', Vitigno 'Franconia', Vitigno 'Malbech', Vitigno 'Marzemino', Vitigno 'Merlot', Vitigno 'Merzemina Bianca', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero (Anche Vinificato In Bianco)', Vitigno 'Raboso Piave', Vitigno 'Raboso Veronese', Vitigno 'Rebo', Vitigno 'Refosco Dal Peduncolo Rosso', Vitigno 'Syrah'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4252,8 +4252,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Malvasia Istriana', Vitigno 'Manzoni Moscato', Vitigno 'Manzoni Rosa', Vitigno 'Muller Thurgau', Vitigno 'MüLler Thurgau', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Sauvignon', Vitigno 'Tocai Friulano', Vitigno 'Traminer Aromatico', Vitigno 'Verduzzo Friulano', Vitigno 'Verduzzo Trevigiano'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4266,8 +4266,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Ancellotta', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Carmenere', Vitigno 'CarmèNere', Vitigno 'Franconia', Vitigno 'Malbech', Vitigno 'Marzemino', Vitigno 'Merlot', Vitigno 'Merzemina Bianca', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero (Anche Vinificato In Bianco)', Vitigno 'Raboso Piave', Vitigno 'Raboso Veronese', Vitigno 'Rebo', Vitigno 'Refosco Dal Peduncolo Rosso', Vitigno 'Syrah'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4278,8 +4278,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per Le Province'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4290,8 +4290,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per Le Province'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4302,8 +4302,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per Le Province'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4316,8 +4316,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Malvasia Istriana', Vitigno 'Manzoni Moscato', Vitigno 'Manzoni Rosa', Vitigno 'Muller Thurgau', Vitigno 'MüLler Thurgau', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Sauvignon', Vitigno 'Tocai Friulano', Vitigno 'Traminer Aromatico', Vitigno 'Verduzzo Friulano', Vitigno 'Verduzzo Trevigiano'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4330,8 +4330,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Ancellotta', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Carmenere', Vitigno 'CarmèNere', Vitigno 'Franconia', Vitigno 'Malbech', Vitigno 'Marzemino', Vitigno 'Merlot', Vitigno 'Merzemina Bianca', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero (Anche Vinificato In Bianco)', Vitigno 'Raboso Piave', Vitigno 'Raboso Veronese', Vitigno 'Rebo', Vitigno 'Refosco Dal Peduncolo Rosso', Vitigno 'Syrah'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4342,8 +4342,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per Le Province'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4356,8 +4356,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Ancellotta', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Carmenere', Vitigno 'CarmèNere', Vitigno 'Franconia', Vitigno 'Malbech', Vitigno 'Marzemino', Vitigno 'Merlot', Vitigno 'Merzemina Bianca', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero (Anche Vinificato In Bianco)', Vitigno 'Raboso Piave', Vitigno 'Raboso Veronese', Vitigno 'Rebo', Vitigno 'Refosco Dal Peduncolo Rosso', Vitigno 'Syrah'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4370,8 +4370,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Malvasia Istriana', Vitigno 'Manzoni Moscato', Vitigno 'Manzoni Rosa', Vitigno 'Muller Thurgau', Vitigno 'MüLler Thurgau', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Sauvignon', Vitigno 'Tocai Friulano', Vitigno 'Traminer Aromatico', Vitigno 'Verduzzo Friulano', Vitigno 'Verduzzo Trevigiano'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4384,8 +4384,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Malvasia Istriana', Vitigno 'Manzoni Moscato', Vitigno 'Manzoni Rosa', Vitigno 'Muller Thurgau', Vitigno 'MüLler Thurgau', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Sauvignon', Vitigno 'Tocai Friulano', Vitigno 'Traminer Aromatico', Vitigno 'Verduzzo Friulano', Vitigno 'Verduzzo Trevigiano'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4396,8 +4396,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per Le Province'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4408,8 +4408,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per Le Province'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4422,8 +4422,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Ancellotta', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Carmenere', Vitigno 'CarmèNere', Vitigno 'Franconia', Vitigno 'Malbech', Vitigno 'Marzemino', Vitigno 'Merlot', Vitigno 'Merzemina Bianca', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero (Anche Vinificato In Bianco)', Vitigno 'Raboso Piave', Vitigno 'Raboso Veronese', Vitigno 'Rebo', Vitigno 'Refosco Dal Peduncolo Rosso', Vitigno 'Syrah'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4436,8 +4436,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Ancellotta', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Carmenere', Vitigno 'CarmèNere', Vitigno 'Franconia', Vitigno 'Malbech', Vitigno 'Marzemino', Vitigno 'Merlot', Vitigno 'Merzemina Bianca', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero (Anche Vinificato In Bianco)', Vitigno 'Raboso Piave', Vitigno 'Raboso Veronese', Vitigno 'Rebo', Vitigno 'Refosco Dal Peduncolo Rosso', Vitigno 'Syrah'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -4448,8 +4448,8 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per Le Province'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Treviso"/>
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Treviso"/>
+        <Provincia nome="Provincia di Venice"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -5704,7 +5704,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Merlot'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Venice"/>
         <Provincia nome="Provincia di Treviso">
           <Città nome="Treviso"/>
         </Provincia>
@@ -5720,7 +5720,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Raboso Piave', Vitigno 'Raboso Veronese'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Venice"/>
         <Provincia nome="Provincia di Treviso">
           <Città nome="Treviso"/>
         </Provincia>
@@ -5736,7 +5736,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Pinot Grigio'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Venice"/>
         <Provincia nome="Provincia di Treviso">
           <Città nome="Treviso"/>
         </Provincia>
@@ -5752,7 +5752,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Sauvignon'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Venice"/>
         <Provincia nome="Provincia di Treviso">
           <Città nome="Treviso"/>
         </Provincia>
@@ -5768,7 +5768,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Venice"/>
         <Provincia nome="Provincia di Treviso">
           <Città nome="Treviso"/>
         </Provincia>
@@ -5784,7 +5784,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Franc'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Venice"/>
         <Provincia nome="Provincia di Treviso">
           <Città nome="Treviso"/>
         </Provincia>
@@ -5800,7 +5800,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Merlot'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Venice"/>
         <Provincia nome="Provincia di Treviso">
           <Città nome="Treviso"/>
         </Provincia>
@@ -5816,7 +5816,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Glera', Vitigno 'Verduzzo Friulano', Vitigno 'Verduzzo Trevigiano'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Venice"/>
         <Provincia nome="Provincia di Treviso">
           <Città nome="Treviso"/>
         </Provincia>
@@ -5832,7 +5832,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Raboso Piave', Vitigno 'Raboso Veronese'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Venice"/>
         <Provincia nome="Provincia di Treviso">
           <Città nome="Treviso"/>
         </Provincia>
@@ -5848,7 +5848,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Raboso Piave', Vitigno 'Raboso Veronese'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Venice"/>
         <Provincia nome="Provincia di Treviso">
           <Città nome="Treviso"/>
         </Provincia>
@@ -5864,7 +5864,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Glera', Vitigno 'Verduzzo Friulano', Vitigno 'Verduzzo Trevigiano'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Venice"/>
+        <Provincia nome="Provincia di Venice"/>
         <Provincia nome="Provincia di Treviso">
           <Città nome="Treviso"/>
         </Provincia>
@@ -5880,7 +5880,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Verdicchio'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Macerata"/>
+        <Provincia nome="Provincia di Macerata"/>
         <Provincia nome="Provincia di Ancona">
           <Città nome="Arcevia"/>
           <Città nome="Belvedere Ostrense"/>
@@ -5906,7 +5906,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Ancona"/>
+        <Provincia nome="Provincia di Ancona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -5919,7 +5919,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Verdicchio'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Macerata"/>
+        <Provincia nome="Provincia di Macerata"/>
         <Provincia nome="Provincia di Ancona">
           <Città nome="Arcevia"/>
           <Città nome="Belvedere Ostrense"/>
@@ -5945,7 +5945,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Ancona"/>
+        <Provincia nome="Provincia di Ancona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -5958,7 +5958,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Verdicchio'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Macerata"/>
+        <Provincia nome="Provincia di Macerata"/>
         <Provincia nome="Provincia di Ancona">
           <Città nome="Arcevia"/>
           <Città nome="Belvedere Ostrense"/>
@@ -5984,7 +5984,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Ancona"/>
+        <Provincia nome="Provincia di Ancona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -5997,7 +5997,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Verdicchio'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Macerata"/>
+        <Provincia nome="Provincia di Macerata"/>
         <Provincia nome="Provincia di Ancona">
           <Città nome="Arcevia"/>
           <Città nome="Belvedere Ostrense"/>
@@ -6023,7 +6023,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Ancona"/>
+        <Provincia nome="Provincia di Ancona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6036,7 +6036,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Verdicchio'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Macerata"/>
+        <Provincia nome="Provincia di Macerata"/>
         <Provincia nome="Provincia di Ancona">
           <Città nome="Arcevia"/>
           <Città nome="Belvedere Ostrense"/>
@@ -6062,7 +6062,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Ancona"/>
+        <Provincia nome="Provincia di Ancona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6075,7 +6075,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Verdicchio Bianco'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Macerata"/>
+        <Provincia nome="Provincia di Macerata"/>
         <Provincia nome="Provincia di Ancona">
           <Città nome="Fabriano"/>
         </Provincia>
@@ -6089,7 +6089,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Ancona"/>
+        <Provincia nome="Provincia di Ancona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6102,7 +6102,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Verdicchio'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Macerata"/>
+        <Provincia nome="Provincia di Macerata"/>
         <Provincia nome="Provincia di Ancona">
           <Città nome="Fabriano"/>
         </Provincia>
@@ -6116,7 +6116,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Ancona"/>
+        <Provincia nome="Provincia di Ancona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6129,7 +6129,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Verdicchio'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Macerata"/>
+        <Provincia nome="Provincia di Macerata"/>
         <Provincia nome="Provincia di Ancona">
           <Città nome="Fabriano"/>
         </Provincia>
@@ -6143,7 +6143,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Ancona"/>
+        <Provincia nome="Provincia di Ancona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6156,7 +6156,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Verdicchio'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Macerata"/>
+        <Provincia nome="Provincia di Macerata"/>
         <Provincia nome="Provincia di Ancona">
           <Città nome="Fabriano"/>
         </Provincia>
@@ -6170,7 +6170,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Ancona"/>
+        <Provincia nome="Provincia di Ancona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6200,7 +6200,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Sassari"/>
+        <Provincia nome="Provincia di Sassari"/>
         <Provincia nome="Provincia di Sassari">
           <Città nome="Aggius"/>
           <Città nome="Aglientu"/>
@@ -6221,7 +6221,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Olbia-Tempio"/>
+        <Provincia nome="Provincia di Olbia-Tempio"/>
         <Provincia nome="Provincia di Sassari">
           <Città nome="Telti"/>
         </Provincia>
@@ -6237,7 +6237,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Sassari"/>
+        <Provincia nome="Provincia di Sassari"/>
         <Provincia nome="Provincia di Sassari">
           <Città nome="Aggius"/>
           <Città nome="Aglientu"/>
@@ -6258,7 +6258,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Olbia-Tempio"/>
+        <Provincia nome="Provincia di Olbia-Tempio"/>
         <Provincia nome="Provincia di Sassari">
           <Città nome="Telti"/>
         </Provincia>
@@ -6274,7 +6274,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Sassari"/>
+        <Provincia nome="Provincia di Sassari"/>
         <Provincia nome="Provincia di Sassari">
           <Città nome="Aggius"/>
           <Città nome="Aglientu"/>
@@ -6295,7 +6295,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Olbia-Tempio"/>
+        <Provincia nome="Provincia di Olbia-Tempio"/>
         <Provincia nome="Provincia di Sassari">
           <Città nome="Telti"/>
         </Provincia>
@@ -6311,7 +6311,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Sassari"/>
+        <Provincia nome="Provincia di Sassari"/>
         <Provincia nome="Provincia di Sassari">
           <Città nome="Aggius"/>
           <Città nome="Aglientu"/>
@@ -6332,7 +6332,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Olbia-Tempio"/>
+        <Provincia nome="Provincia di Olbia-Tempio"/>
         <Provincia nome="Provincia di Sassari">
           <Città nome="Telti"/>
         </Provincia>
@@ -6348,7 +6348,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Sassari"/>
+        <Provincia nome="Provincia di Sassari"/>
         <Provincia nome="Provincia di Sassari">
           <Città nome="Aggius"/>
           <Città nome="Aglientu"/>
@@ -6369,7 +6369,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Olbia-Tempio"/>
+        <Provincia nome="Provincia di Olbia-Tempio"/>
         <Provincia nome="Provincia di Sassari">
           <Città nome="Telti"/>
         </Provincia>
@@ -6385,7 +6385,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Sassari"/>
+        <Provincia nome="Provincia di Sassari"/>
         <Provincia nome="Provincia di Sassari">
           <Città nome="Aggius"/>
           <Città nome="Aglientu"/>
@@ -6406,7 +6406,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Olbia-Tempio"/>
+        <Provincia nome="Provincia di Olbia-Tempio"/>
         <Provincia nome="Provincia di Sassari">
           <Città nome="Telti"/>
         </Provincia>
@@ -6420,7 +6420,7 @@
     <MateriaPrima>Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Perugia"/>
+        <Provincia nome="Provincia di Perugia"/>
       </Regione>
       <Regione nome="Umbria">
         <Provincia nome="Provincia di Perugia">
@@ -6436,7 +6436,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Perugia"/>
+        <Provincia nome="Provincia di Perugia"/>
       </Regione>
       <Regione nome="Umbria">
         <Provincia nome="Provincia di Perugia">
@@ -6452,7 +6452,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Perugia"/>
+        <Provincia nome="Provincia di Perugia"/>
       </Regione>
       <Regione nome="Umbria">
         <Provincia nome="Provincia di Perugia">
@@ -6468,7 +6468,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Perugia"/>
+        <Provincia nome="Provincia di Perugia"/>
       </Regione>
       <Regione nome="Umbria">
         <Provincia nome="Provincia di Perugia">
@@ -6486,7 +6486,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Perugia"/>
+        <Provincia nome="Provincia di Perugia"/>
       </Regione>
       <Regione nome="Umbria">
         <Provincia nome="Provincia di Perugia">
@@ -6502,7 +6502,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Perugia"/>
+        <Provincia nome="Provincia di Perugia"/>
       </Regione>
       <Regione nome="Umbria">
         <Provincia nome="Provincia di Perugia">
@@ -6518,7 +6518,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Perugia"/>
+        <Provincia nome="Provincia di Perugia"/>
       </Regione>
       <Regione nome="Umbria">
         <Provincia nome="Provincia di Perugia">
@@ -6536,7 +6536,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Perugia"/>
+        <Provincia nome="Provincia di Perugia"/>
       </Regione>
       <Regione nome="Umbria">
         <Provincia nome="Provincia di Perugia">
@@ -6552,7 +6552,7 @@
     <MateriaPrima>Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Perugia"/>
+        <Provincia nome="Provincia di Perugia"/>
       </Regione>
       <Regione nome="Umbria">
         <Provincia nome="Provincia di Perugia">
@@ -6568,7 +6568,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Perugia"/>
+        <Provincia nome="Provincia di Perugia"/>
       </Regione>
       <Regione nome="Umbria">
         <Provincia nome="Provincia di Perugia">
@@ -6799,7 +6799,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Carmenere', Vitigno 'CarmèNere', Vitigno 'Corvina', Vitigno 'Corvinone', Vitigno 'Gosen', Vitigno 'Merlot', Vitigno 'Oseleta', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero (Anche Vinificato In Bianco)', Vitigno 'Rebo', Vitigno 'Rossignola', Vitigno 'Sennen', Vitigno 'Syrah', Vitigno 'Teroldego'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6810,7 +6810,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6823,7 +6823,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Garganega', Vitigno 'Goldtraminer', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling', Vitigno 'Sauvignon', Vitigno 'Tocai Friulano', Vitigno 'Trebbiano Di Soave', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6834,7 +6834,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6847,7 +6847,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Garganega', Vitigno 'Goldtraminer', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling', Vitigno 'Sauvignon', Vitigno 'Tocai Friulano', Vitigno 'Trebbiano Di Soave', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6860,7 +6860,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Carmenere', Vitigno 'CarmèNere', Vitigno 'Corvina', Vitigno 'Corvinone', Vitigno 'Gosen', Vitigno 'Merlot', Vitigno 'Oseleta', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero (Anche Vinificato In Bianco)', Vitigno 'Rebo', Vitigno 'Rossignola', Vitigno 'Sennen', Vitigno 'Syrah', Vitigno 'Teroldego'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6871,7 +6871,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6882,7 +6882,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6895,7 +6895,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Carmenere', Vitigno 'CarmèNere', Vitigno 'Corvina', Vitigno 'Corvinone', Vitigno 'Gosen', Vitigno 'Merlot', Vitigno 'Oseleta', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero (Anche Vinificato In Bianco)', Vitigno 'Rebo', Vitigno 'Rossignola', Vitigno 'Sennen', Vitigno 'Syrah', Vitigno 'Teroldego'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6906,7 +6906,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6919,7 +6919,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Carmenere', Vitigno 'CarmèNere', Vitigno 'Corvina', Vitigno 'Corvinone', Vitigno 'Gosen', Vitigno 'Merlot', Vitigno 'Oseleta', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero (Anche Vinificato In Bianco)', Vitigno 'Rebo', Vitigno 'Rossignola', Vitigno 'Sennen', Vitigno 'Syrah', Vitigno 'Teroldego'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6930,7 +6930,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6941,7 +6941,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6954,7 +6954,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Carmenere', Vitigno 'CarmèNere', Vitigno 'Corvina', Vitigno 'Corvinone', Vitigno 'Gosen', Vitigno 'Merlot', Vitigno 'Oseleta', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero (Anche Vinificato In Bianco)', Vitigno 'Rebo', Vitigno 'Rossignola', Vitigno 'Sennen', Vitigno 'Syrah', Vitigno 'Teroldego'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6967,7 +6967,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Carmenere', Vitigno 'CarmèNere', Vitigno 'Corvina', Vitigno 'Corvinone', Vitigno 'Gosen', Vitigno 'Merlot', Vitigno 'Oseleta', Vitigno 'Petit Verdot', Vitigno 'Pinot Nero (Anche Vinificato In Bianco)', Vitigno 'Rebo', Vitigno 'Rossignola', Vitigno 'Sennen', Vitigno 'Syrah', Vitigno 'Teroldego'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6980,7 +6980,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Garganega', Vitigno 'Goldtraminer', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling', Vitigno 'Sauvignon', Vitigno 'Tocai Friulano', Vitigno 'Trebbiano Di Soave', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -6993,7 +6993,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Garganega', Vitigno 'Goldtraminer', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling', Vitigno 'Sauvignon', Vitigno 'Tocai Friulano', Vitigno 'Trebbiano Di Soave', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -7006,7 +7006,7 @@
     <MateriaPrima>Vitigno 'Coda Di Volpe (Localmente Detto Caprettone O Crapettone)', Vitigno 'Falanghina', Vitigno 'Greco', Vitigno 'Verdeca'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Naples"/>
+        <Provincia nome="Provincia di Naples"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Boscoreale"/>
           <Città nome="Boscotrecase"/>
@@ -7037,7 +7037,7 @@
     <MateriaPrima>Vitigno 'Coda Di Volpe (Localmente Detto Caprettone O Crapettone)', Vitigno 'Falanghina', Vitigno 'Greco', Vitigno 'Verdeca'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Naples"/>
+        <Provincia nome="Provincia di Naples"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Boscoreale"/>
           <Città nome="Boscotrecase"/>
@@ -7068,7 +7068,7 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Piedirosso (Localmente Detto Palombina)', Vitigno 'Sciascinoso (Localmente Detto Olivella)'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Naples"/>
+        <Provincia nome="Provincia di Naples"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Boscoreale"/>
           <Città nome="Boscotrecase"/>
@@ -7099,7 +7099,7 @@
     <MateriaPrima>Vitigno 'Coda Di Volpe (Localmente Detto Caprettone O Crapettone)', Vitigno 'Falanghina', Vitigno 'Greco', Vitigno 'Verdeca'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Naples"/>
+        <Provincia nome="Provincia di Naples"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Boscoreale"/>
           <Città nome="Boscotrecase"/>
@@ -7130,7 +7130,7 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Piedirosso (Localmente Detto Palombina)', Vitigno 'Sciascinoso (Localmente Detto Olivella)'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Naples"/>
+        <Provincia nome="Provincia di Naples"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Boscoreale"/>
           <Città nome="Boscotrecase"/>
@@ -7161,7 +7161,7 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Piedirosso (Localmente Detto Palombina)', Vitigno 'Sciascinoso (Localmente Detto Olivella)'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Naples"/>
+        <Provincia nome="Provincia di Naples"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Boscoreale"/>
           <Città nome="Boscotrecase"/>
@@ -7192,7 +7192,7 @@
     <MateriaPrima>Vitigno 'Coda Di Volpe (Localmente Detto Caprettone O Crapettone)', Vitigno 'Falanghina', Vitigno 'Greco', Vitigno 'Verdeca'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Naples"/>
+        <Provincia nome="Provincia di Naples"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Boscoreale"/>
           <Città nome="Boscotrecase"/>
@@ -7223,7 +7223,7 @@
     <MateriaPrima>Vitigno 'Aglianico', Vitigno 'Piedirosso (Localmente Detto Palombina)', Vitigno 'Sciascinoso (Localmente Detto Olivella)'</MateriaPrima>
     <Luogo>
       <Regione nome="Campania">
-        <Provincia nome="Province of Naples"/>
+        <Provincia nome="Provincia di Naples"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Boscoreale"/>
           <Città nome="Boscotrecase"/>
@@ -9724,7 +9724,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Ciliegiolo', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Latium">
-        <Provincia nome="Province of Viterbo"/>
+        <Provincia nome="Provincia di Viterbo"/>
         <Provincia nome="Provincia di Viterbo">
           <Città nome="Bassano in Teverina"/>
           <Città nome="Corchiano"/>
@@ -9749,7 +9749,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Latium">
-        <Provincia nome="Province of Viterbo"/>
+        <Provincia nome="Provincia di Viterbo"/>
         <Provincia nome="Provincia di Viterbo">
           <Città nome="Bassano in Teverina"/>
           <Città nome="Corchiano"/>
@@ -9774,7 +9774,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Latium">
-        <Provincia nome="Province of Viterbo"/>
+        <Provincia nome="Provincia di Viterbo"/>
         <Provincia nome="Provincia di Viterbo">
           <Città nome="Bassano in Teverina"/>
           <Città nome="Corchiano"/>
@@ -9799,7 +9799,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Greco B.'</MateriaPrima>
     <Luogo>
       <Regione nome="Latium">
-        <Provincia nome="Province of Viterbo"/>
+        <Provincia nome="Provincia di Viterbo"/>
         <Provincia nome="Provincia di Viterbo">
           <Città nome="Bassano in Teverina"/>
           <Città nome="Corchiano"/>
@@ -9824,7 +9824,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Greco B.'</MateriaPrima>
     <Luogo>
       <Regione nome="Latium">
-        <Provincia nome="Province of Viterbo"/>
+        <Provincia nome="Provincia di Viterbo"/>
         <Provincia nome="Provincia di Viterbo">
           <Città nome="Bassano in Teverina"/>
           <Città nome="Corchiano"/>
@@ -9849,7 +9849,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Ciliegiolo', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Latium">
-        <Provincia nome="Province of Viterbo"/>
+        <Provincia nome="Provincia di Viterbo"/>
         <Provincia nome="Provincia di Viterbo">
           <Città nome="Bassano in Teverina"/>
           <Città nome="Corchiano"/>
@@ -9874,7 +9874,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Bianca Di Candia E/O Malvasia Bianca Lunga', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Latium">
-        <Provincia nome="Province of Viterbo"/>
+        <Provincia nome="Provincia di Viterbo"/>
         <Provincia nome="Provincia di Viterbo">
           <Città nome="Bassano in Teverina"/>
           <Città nome="Corchiano"/>
@@ -9899,7 +9899,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Ciliegiolo', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Latium">
-        <Provincia nome="Province of Viterbo"/>
+        <Provincia nome="Provincia di Viterbo"/>
         <Provincia nome="Provincia di Viterbo">
           <Città nome="Bassano in Teverina"/>
           <Città nome="Corchiano"/>
@@ -9924,7 +9924,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Greco B.'</MateriaPrima>
     <Luogo>
       <Regione nome="Latium">
-        <Provincia nome="Province of Viterbo"/>
+        <Provincia nome="Provincia di Viterbo"/>
         <Provincia nome="Provincia di Viterbo">
           <Città nome="Bassano in Teverina"/>
           <Città nome="Corchiano"/>
@@ -10055,7 +10055,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10074,7 +10074,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10091,7 +10091,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10110,7 +10110,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10128,7 +10128,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10145,7 +10145,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10164,7 +10164,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10183,7 +10183,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10200,7 +10200,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10219,7 +10219,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10238,7 +10238,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10255,7 +10255,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10274,7 +10274,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10291,7 +10291,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10310,7 +10310,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10329,7 +10329,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10346,7 +10346,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10365,7 +10365,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10384,7 +10384,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10403,7 +10403,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10422,7 +10422,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10440,7 +10440,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10457,7 +10457,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10476,7 +10476,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10493,7 +10493,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10512,7 +10512,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10531,7 +10531,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10548,7 +10548,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10567,7 +10567,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10584,7 +10584,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10603,7 +10603,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10622,7 +10622,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10641,7 +10641,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10660,7 +10660,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Belluno"/>
+        <Provincia nome="Provincia di Belluno"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10673,7 +10673,7 @@
     <MateriaPrima>Vitigno 'Barbera', Vitigno 'Bonarda', Vitigno 'Freisa', Vitigno 'Nebbiolo'</MateriaPrima>
     <Luogo>
       <Regione nome="Piemonte">
-        <Provincia nome="Province of Asti"/>
+        <Provincia nome="Provincia di Asti"/>
         <Provincia nome="Provincia di Asti">
           <Città nome="Albugnano"/>
           <Città nome="Castelnuovo Don Bosco"/>
@@ -10690,7 +10690,7 @@
     <MateriaPrima>Vitigno 'Biancame', Vitigno 'Malvasia Bianca Lunga'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Pesaro e Urbino">
+        <Provincia nome="Provincia di Pesaro e Urbino">
           <Città nome="Cartoceto"/>
           <Città nome="Fano"/>
           <Città nome="Fermignano"/>
@@ -10723,7 +10723,7 @@
     <MateriaPrima>Vitigno 'Biancame', Vitigno 'Malvasia Bianca Lunga'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Pesaro e Urbino">
+        <Provincia nome="Provincia di Pesaro e Urbino">
           <Città nome="Cartoceto"/>
           <Città nome="Fano"/>
           <Città nome="Fermignano"/>
@@ -10756,7 +10756,7 @@
     <MateriaPrima>Vitigno 'Biancame', Vitigno 'Malvasia Bianca Lunga'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Pesaro e Urbino">
+        <Provincia nome="Provincia di Pesaro e Urbino">
           <Città nome="Cartoceto"/>
           <Città nome="Fano"/>
           <Città nome="Fermignano"/>
@@ -10789,7 +10789,7 @@
     <MateriaPrima>Vitigno 'Biancame', Vitigno 'Malvasia Bianca Lunga'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Pesaro e Urbino">
+        <Provincia nome="Provincia di Pesaro e Urbino">
           <Città nome="Cartoceto"/>
           <Città nome="Fano"/>
           <Città nome="Fermignano"/>
@@ -10856,13 +10856,13 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Florence"/>
+        <Provincia nome="Provincia di Florence"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Tavarnelle Val di Pesa"/>
         </Provincia>
       </Regione>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Siena"/>
+        <Provincia nome="Provincia di Siena"/>
         <Provincia nome="Provincia di Siena">
           <Città nome="Castellina in Chianti"/>
           <Città nome="Castelnuovo Berardenga"/>
@@ -10886,13 +10886,13 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Florence"/>
+        <Provincia nome="Provincia di Florence"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Tavarnelle Val di Pesa"/>
         </Provincia>
       </Regione>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Siena"/>
+        <Provincia nome="Provincia di Siena"/>
         <Provincia nome="Provincia di Siena">
           <Città nome="Castellina in Chianti"/>
           <Città nome="Castelnuovo Berardenga"/>
@@ -10916,7 +10916,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Arezzo"/>
+        <Provincia nome="Provincia di Arezzo"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -10929,7 +10929,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Arezzo"/>
+        <Provincia nome="Provincia di Arezzo"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -11060,7 +11060,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Pisa"/>
+        <Provincia nome="Provincia di Pisa"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -11073,7 +11073,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Pisa"/>
+        <Provincia nome="Provincia di Pisa"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -11086,10 +11086,10 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Florence"/>
+        <Provincia nome="Provincia di Florence"/>
       </Regione>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Pistoia"/>
+        <Provincia nome="Provincia di Pistoia"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -11102,10 +11102,10 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Florence"/>
+        <Provincia nome="Provincia di Florence"/>
       </Regione>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Pistoia"/>
+        <Provincia nome="Provincia di Pistoia"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -11194,8 +11194,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Arezzo"/>
-        <Provincia nome="Province of Florence"/>
+        <Provincia nome="Provincia di Arezzo"/>
+        <Provincia nome="Provincia di Florence"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Arezzo"/>
           <Città nome="Casciana Terme"/>
@@ -11211,10 +11211,10 @@
         </Provincia>
       </Regione>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Pisa"/>
-        <Provincia nome="Province of Pistoia"/>
-        <Provincia nome="Province of Prato"/>
-        <Provincia nome="Province of Siena"/>
+        <Provincia nome="Provincia di Pisa"/>
+        <Provincia nome="Provincia di Pistoia"/>
+        <Provincia nome="Provincia di Prato"/>
+        <Provincia nome="Provincia di Siena"/>
         <Provincia nome="Provincia di Arezzo">
           <Città nome="Bucine"/>
           <Città nome="Capolona"/>
@@ -11312,8 +11312,8 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Arezzo"/>
-        <Provincia nome="Province of Florence"/>
+        <Provincia nome="Provincia di Arezzo"/>
+        <Provincia nome="Provincia di Florence"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Arezzo"/>
           <Città nome="Casciana Terme"/>
@@ -11329,10 +11329,10 @@
         </Provincia>
       </Regione>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Pisa"/>
-        <Provincia nome="Province of Pistoia"/>
-        <Provincia nome="Province of Prato"/>
-        <Provincia nome="Province of Siena"/>
+        <Provincia nome="Provincia di Pisa"/>
+        <Provincia nome="Provincia di Pistoia"/>
+        <Provincia nome="Provincia di Prato"/>
+        <Provincia nome="Provincia di Siena"/>
         <Provincia nome="Provincia di Arezzo">
           <Città nome="Bucine"/>
           <Città nome="Capolona"/>
@@ -11466,7 +11466,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Prato"/>
+        <Provincia nome="Provincia di Prato"/>
         <Provincia nome="Provincia di Prato">
           <Città nome="Carmignano"/>
           <Città nome="Poggio a Caiano"/>
@@ -11483,7 +11483,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Sangiovese'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Prato"/>
+        <Provincia nome="Provincia di Prato"/>
         <Provincia nome="Provincia di Prato">
           <Città nome="Carmignano"/>
           <Città nome="Poggio a Caiano"/>
@@ -11500,7 +11500,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Prato"/>
+        <Provincia nome="Provincia di Prato"/>
         <Provincia nome="Provincia di Prato">
           <Città nome="Carmignano"/>
           <Città nome="Poggio a Caiano"/>
@@ -11517,7 +11517,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Prato"/>
+        <Provincia nome="Provincia di Prato"/>
         <Provincia nome="Provincia di Prato">
           <Città nome="Carmignano"/>
           <Città nome="Poggio a Caiano"/>
@@ -11610,8 +11610,8 @@
         <Provincia nome="Libero consorzio comunale di Siracusa">
           <Città nome="Priolo Gargallo"/>
         </Provincia>
-        <Provincia nome="Province of Caltanissetta"/>
-        <Provincia nome="Province of Ragusa"/>
+        <Provincia nome="Provincia di Caltanissetta"/>
+        <Provincia nome="Provincia di Ragusa"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Favara, Sicily"/>
         </Provincia>
@@ -11641,7 +11641,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Catania"/>
+        <Provincia nome="Provincia di Catania"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Caltagirone"/>
           <Città nome="Mazzarino"/>
@@ -11661,8 +11661,8 @@
         <Provincia nome="Libero consorzio comunale di Siracusa">
           <Città nome="Priolo Gargallo"/>
         </Provincia>
-        <Provincia nome="Province of Caltanissetta"/>
-        <Provincia nome="Province of Ragusa"/>
+        <Provincia nome="Provincia di Caltanissetta"/>
+        <Provincia nome="Provincia di Ragusa"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Favara, Sicily"/>
         </Provincia>
@@ -11692,7 +11692,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Catania"/>
+        <Provincia nome="Provincia di Catania"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Caltagirone"/>
           <Città nome="Mazzarino"/>
@@ -11713,8 +11713,8 @@
         <Provincia nome="Libero consorzio comunale di Siracusa">
           <Città nome="Priolo Gargallo"/>
         </Provincia>
-        <Provincia nome="Province of Caltanissetta"/>
-        <Provincia nome="Province of Ragusa"/>
+        <Provincia nome="Provincia di Caltanissetta"/>
+        <Provincia nome="Provincia di Ragusa"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Favara, Sicily"/>
         </Provincia>
@@ -11744,7 +11744,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Catania"/>
+        <Provincia nome="Provincia di Catania"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Caltagirone"/>
           <Città nome="Mazzarino"/>
@@ -11765,8 +11765,8 @@
         <Provincia nome="Libero consorzio comunale di Siracusa">
           <Città nome="Priolo Gargallo"/>
         </Provincia>
-        <Provincia nome="Province of Caltanissetta"/>
-        <Provincia nome="Province of Ragusa"/>
+        <Provincia nome="Provincia di Caltanissetta"/>
+        <Provincia nome="Provincia di Ragusa"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Favara, Sicily"/>
         </Provincia>
@@ -11796,7 +11796,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Catania"/>
+        <Provincia nome="Provincia di Catania"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Caltagirone"/>
           <Città nome="Mazzarino"/>
@@ -11817,8 +11817,8 @@
         <Provincia nome="Libero consorzio comunale di Siracusa">
           <Città nome="Priolo Gargallo"/>
         </Provincia>
-        <Provincia nome="Province of Caltanissetta"/>
-        <Provincia nome="Province of Ragusa"/>
+        <Provincia nome="Provincia di Caltanissetta"/>
+        <Provincia nome="Provincia di Ragusa"/>
         <Provincia nome="Provincia di Agrigento">
           <Città nome="Favara, Sicily"/>
         </Provincia>
@@ -11848,7 +11848,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Catania"/>
+        <Provincia nome="Provincia di Catania"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Caltagirone"/>
           <Città nome="Mazzarino"/>
@@ -12077,7 +12077,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Cortese'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12135,7 +12135,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Croatina', Vitigno 'Pinot Nero', Vitigno 'Uva Rara', Vitigno 'Vespolina (Ughetta)'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12193,7 +12193,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Cortese'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12251,7 +12251,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12309,7 +12309,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Croatina', Vitigno 'Pinot Nero', Vitigno 'Uva Rara', Vitigno 'Vespolina (Ughetta)'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12367,7 +12367,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12425,7 +12425,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Di Candia Aromatica'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12483,7 +12483,7 @@
     <MateriaPrima>Vitigno 'Chardonnay', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Pinot Nero'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12541,7 +12541,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Sauvignon'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12599,7 +12599,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Croatina', Vitigno 'Pinot Nero', Vitigno 'Uva Rara', Vitigno 'Vespolina (Ughetta)'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12657,7 +12657,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12715,7 +12715,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12773,7 +12773,7 @@
     <MateriaPrima>Vitigno 'Chardonnay', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Pinot Nero'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12831,7 +12831,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12889,7 +12889,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Cortese'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -12947,7 +12947,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Di Candia Aromatica'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13005,7 +13005,7 @@
     <MateriaPrima>Vitigno 'Malvasia Di Candia Aromatica', Vitigno 'Moscato Bianco'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13063,7 +13063,7 @@
     <MateriaPrima>Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Pinot Nero', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13121,7 +13121,7 @@
     <MateriaPrima>Vitigno 'Malvasia Di Candia Aromatica', Vitigno 'Moscato Bianco'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13179,7 +13179,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13237,7 +13237,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Sauvignon'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13295,7 +13295,7 @@
     <MateriaPrima>Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Pinot Nero', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13353,7 +13353,7 @@
     <MateriaPrima>Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Pinot Nero', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13411,7 +13411,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Croatina', Vitigno 'Pinot Nero', Vitigno 'Uva Rara', Vitigno 'Vespolina (Ughetta)'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13469,7 +13469,7 @@
     <MateriaPrima>Vitigno 'Malvasia Di Candia Aromatica', Vitigno 'Moscato Bianco'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13527,7 +13527,7 @@
     <MateriaPrima>Vitigno 'Malvasia Di Candia Aromatica', Vitigno 'Moscato Bianco'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13585,7 +13585,7 @@
     <MateriaPrima>Vitigno 'Chardonnay', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Pinot Nero'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13643,7 +13643,7 @@
     <MateriaPrima>Vitigno 'Chardonnay', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Pinot Nero'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13701,7 +13701,7 @@
     <MateriaPrima>Vitigno 'Chardonnay', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Pinot Nero'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13759,7 +13759,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Pinot Nero', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13817,7 +13817,7 @@
     <MateriaPrima>Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Pinot Nero', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13875,7 +13875,7 @@
     <MateriaPrima>Vitigno 'Malvasia Di Candia Aromatica', Vitigno 'Moscato Bianco'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13933,7 +13933,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Sauvignon'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -13991,7 +13991,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Di Candia Aromatica'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -14049,7 +14049,7 @@
     <MateriaPrima>Vitigno 'Chardonnay', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Pinot Nero'</MateriaPrima>
     <Luogo>
       <Regione nome="Consiglio regionale della Lombardia">
-        <Provincia nome="Province of Pavia"/>
+        <Provincia nome="Provincia di Pavia"/>
         <Provincia nome="Provincia di Pavia">
           <Città nome="Borgo Priolo"/>
           <Città nome="Borgoratto Mormorolo"/>
@@ -14216,7 +14216,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Corvina', Vitigno 'Corvinone', Vitigno 'Rondinella'</MateriaPrima>
     <Luogo>
       <Regione nome="Toscana">
-        <Provincia nome="Province of Siena"/>
+        <Provincia nome="Provincia di Siena"/>
       </Regione>
       <Regione nome="Veneto">
         <Provincia nome="Provincia di Verona">
@@ -14234,7 +14234,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Moscato Bianco', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Florence"/>
+        <Provincia nome="Provincia di Florence"/>
       </Regione>
       <Regione nome="Toscana">
         <Provincia nome="Sconosciuta">
@@ -14256,7 +14256,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Trebbiano Toscano'</MateriaPrima>
     <Luogo>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Florence"/>
+        <Provincia nome="Provincia di Florence"/>
       </Regione>
       <Regione nome="Toscana">
         <Provincia nome="Sconosciuta">
@@ -14276,8 +14276,8 @@
     <MateriaPrima>Vitigno 'Moscato Bianco'</MateriaPrima>
     <Luogo>
       <Regione nome="Piemonte">
-        <Provincia nome="Province of Asti"/>
-        <Provincia nome="Province of Cuneo"/>
+        <Provincia nome="Provincia di Asti"/>
+        <Provincia nome="Provincia di Cuneo"/>
         <Provincia nome="Provincia di Asti">
           <Città nome="Bubbio"/>
           <Città nome="Calamandrana"/>
@@ -14370,7 +14370,7 @@
     <MateriaPrima>Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cannonau', Vitigno 'Carignano', Vitigno 'Girò'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Oristano"/>
+        <Provincia nome="Provincia di Oristano"/>
         <Provincia nome="Provincia di Oristano">
           <Città nome="Baratili San Pietro"/>
           <Città nome="Cabras, Sardinia"/>
@@ -14400,7 +14400,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Oristano"/>
+        <Provincia nome="Provincia di Oristano"/>
         <Provincia nome="Provincia di Oristano">
           <Città nome="Baratili San Pietro"/>
           <Città nome="Cabras, Sardinia"/>
@@ -14430,7 +14430,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Oristano"/>
+        <Provincia nome="Provincia di Oristano"/>
         <Provincia nome="Provincia di Oristano">
           <Città nome="Baratili San Pietro"/>
           <Città nome="Cabras, Sardinia"/>
@@ -14462,7 +14462,7 @@
     <MateriaPrima>Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cannonau', Vitigno 'Carignano', Vitigno 'Girò'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Oristano"/>
+        <Provincia nome="Provincia di Oristano"/>
         <Provincia nome="Provincia di Oristano">
           <Città nome="Baratili San Pietro"/>
           <Città nome="Cabras, Sardinia"/>
@@ -14492,7 +14492,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Oristano"/>
+        <Provincia nome="Provincia di Oristano"/>
         <Provincia nome="Provincia di Oristano">
           <Città nome="Baratili San Pietro"/>
           <Città nome="Cabras, Sardinia"/>
@@ -14522,7 +14522,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Oristano"/>
+        <Provincia nome="Provincia di Oristano"/>
         <Provincia nome="Provincia di Oristano">
           <Città nome="Baratili San Pietro"/>
           <Città nome="Cabras, Sardinia"/>
@@ -14554,7 +14554,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia', Vitigno 'Monica', Vitigno 'Moscato', Vitigno 'Nasco', Vitigno 'Nuragus', Vitigno 'Semidano', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione', Vitigno 'Vermentino', Vitigno 'Vernaccia'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Oristano"/>
+        <Provincia nome="Provincia di Oristano"/>
         <Provincia nome="Provincia di Oristano">
           <Città nome="Baratili San Pietro"/>
           <Città nome="Cabras, Sardinia"/>
@@ -14584,7 +14584,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Oristano"/>
+        <Provincia nome="Provincia di Oristano"/>
         <Provincia nome="Provincia di Oristano">
           <Città nome="Baratili San Pietro"/>
           <Città nome="Cabras, Sardinia"/>
@@ -14614,7 +14614,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Oristano"/>
+        <Provincia nome="Provincia di Oristano"/>
         <Provincia nome="Provincia di Oristano">
           <Città nome="Baratili San Pietro"/>
           <Città nome="Cabras, Sardinia"/>
@@ -14646,7 +14646,7 @@
     <MateriaPrima>Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cannonau', Vitigno 'Carignano', Vitigno 'Girò'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Oristano"/>
+        <Provincia nome="Provincia di Oristano"/>
         <Provincia nome="Provincia di Oristano">
           <Città nome="Baratili San Pietro"/>
           <Città nome="Cabras, Sardinia"/>
@@ -14676,7 +14676,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Oristano"/>
+        <Provincia nome="Provincia di Oristano"/>
         <Provincia nome="Provincia di Oristano">
           <Città nome="Baratili San Pietro"/>
           <Città nome="Cabras, Sardinia"/>
@@ -14708,7 +14708,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia', Vitigno 'Monica', Vitigno 'Moscato', Vitigno 'Nasco', Vitigno 'Nuragus', Vitigno 'Semidano', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione', Vitigno 'Vermentino', Vitigno 'Vernaccia'</MateriaPrima>
     <Luogo>
       <Regione nome="Sardegna (isola)">
-        <Provincia nome="Province of Oristano"/>
+        <Provincia nome="Provincia di Oristano"/>
         <Provincia nome="Provincia di Oristano">
           <Città nome="Baratili San Pietro"/>
           <Città nome="Cabras, Sardinia"/>
@@ -15431,7 +15431,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Lagrein', Vitigno 'Lambrusco A Foglia Frastagliata', Vitigno 'Marzemino', Vitigno 'Merlot', Vitigno 'Negrara', Vitigno 'Pinot Nero', Vitigno 'Schiava Gentile', Vitigno 'Schiava Grigia', Vitigno 'Schiava Grossa', Vitigno 'Teroldego'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15444,7 +15444,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Lagrein', Vitigno 'Lambrusco A Foglia Frastagliata', Vitigno 'Marzemino', Vitigno 'Merlot', Vitigno 'Negrara', Vitigno 'Pinot Nero', Vitigno 'Schiava Gentile', Vitigno 'Schiava Grigia', Vitigno 'Schiava Grossa', Vitigno 'Teroldego'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15455,7 +15455,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15466,7 +15466,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15477,7 +15477,7 @@
     <MateriaPrima>Vitigno 'Bianchetta Trevigiana', Vitigno 'Chardonnay', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Moscato Giallo', Vitigno 'Muller Thurgau', Vitigno 'MüLler Thurgau', Vitigno 'Nosiola', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Trebbiano Toscano', Vitigno 'Veltliner'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15488,7 +15488,7 @@
     <MateriaPrima>Vitigno 'Bianchetta Trevigiana', Vitigno 'Chardonnay', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Moscato Giallo', Vitigno 'Muller Thurgau', Vitigno 'MüLler Thurgau', Vitigno 'Nosiola', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Trebbiano Toscano', Vitigno 'Veltliner'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15501,7 +15501,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Bianchetta Trevigiana', Vitigno 'Chardonnay', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Moscato Giallo', Vitigno 'Muller Thurgau', Vitigno 'MüLler Thurgau', Vitigno 'Nosiola', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Trebbiano Toscano', Vitigno 'Veltliner'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15512,7 +15512,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15523,7 +15523,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15536,7 +15536,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Lagrein', Vitigno 'Lambrusco A Foglia Frastagliata', Vitigno 'Marzemino', Vitigno 'Merlot', Vitigno 'Negrara', Vitigno 'Pinot Nero', Vitigno 'Schiava Gentile', Vitigno 'Schiava Grigia', Vitigno 'Schiava Grossa', Vitigno 'Teroldego'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15547,7 +15547,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15558,7 +15558,7 @@
     <MateriaPrima>Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Lagrein', Vitigno 'Lambrusco A Foglia Frastagliata', Vitigno 'Marzemino', Vitigno 'Merlot', Vitigno 'Negrara', Vitigno 'Pinot Nero', Vitigno 'Schiava Gentile', Vitigno 'Schiava Grigia', Vitigno 'Schiava Grossa', Vitigno 'Teroldego'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15569,7 +15569,7 @@
     <MateriaPrima>Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Lagrein', Vitigno 'Lambrusco A Foglia Frastagliata', Vitigno 'Marzemino', Vitigno 'Merlot', Vitigno 'Negrara', Vitigno 'Pinot Nero', Vitigno 'Schiava Gentile', Vitigno 'Schiava Grigia', Vitigno 'Schiava Grossa', Vitigno 'Teroldego'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15580,7 +15580,7 @@
     <MateriaPrima>Vitigno 'Cabernet Franc', Vitigno 'Cabernet Sauvignon', Vitigno 'Lagrein', Vitigno 'Lambrusco A Foglia Frastagliata', Vitigno 'Marzemino', Vitigno 'Merlot', Vitigno 'Negrara', Vitigno 'Pinot Nero', Vitigno 'Schiava Gentile', Vitigno 'Schiava Grigia', Vitigno 'Schiava Grossa', Vitigno 'Teroldego'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15591,7 +15591,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15602,7 +15602,7 @@
     <MateriaPrima>Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Provincia'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15615,7 +15615,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Bianchetta Trevigiana', Vitigno 'Chardonnay', Vitigno 'Incrocio Manzoni 6.0.13', Vitigno 'Moscato Giallo', Vitigno 'Muller Thurgau', Vitigno 'MüLler Thurgau', Vitigno 'Nosiola', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Trebbiano Toscano', Vitigno 'Veltliner'</MateriaPrima>
     <Luogo>
       <Regione nome="Veneto">
-        <Provincia nome="Province of Verona"/>
+        <Provincia nome="Provincia di Verona"/>
       </Regione>
     </Luogo>
   </Vino>
@@ -15643,7 +15643,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Montu'', Vitigno 'Montù'</MateriaPrima>
     <Luogo>
       <Regione nome="Emilia">
-        <Provincia nome="Province of Modena"/>
+        <Provincia nome="Provincia di Modena"/>
         <Provincia nome="Provincia di Modena">
           <Città nome="Castelfranco Emilia"/>
           <Città nome="Nonantola"/>
@@ -15661,7 +15661,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Bologna"/>
+        <Provincia nome="Provincia di Bologna"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Bazzano"/>
           <Città nome="Crespellano"/>
@@ -15678,7 +15678,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Montu'', Vitigno 'Montù'</MateriaPrima>
     <Luogo>
       <Regione nome="Emilia">
-        <Provincia nome="Province of Modena"/>
+        <Provincia nome="Provincia di Modena"/>
         <Provincia nome="Provincia di Modena">
           <Città nome="Castelfranco Emilia"/>
           <Città nome="Nonantola"/>
@@ -15696,7 +15696,7 @@
         </Provincia>
       </Regione>
       <Regione nome="Sconosciuto">
-        <Provincia nome="Province of Bologna"/>
+        <Provincia nome="Provincia di Bologna"/>
         <Provincia nome="Sconosciuta">
           <Città nome="Bazzano"/>
           <Città nome="Crespellano"/>
@@ -15716,7 +15716,7 @@
         <Provincia nome="Pesaro e Urbino">
           <Città nome="Gradara"/>
         </Provincia>
-        <Provincia nome="Province of Pesaro e Urbino">
+        <Provincia nome="Provincia di Pesaro e Urbino">
           <Città nome="Cagli"/>
           <Città nome="Cartoceto"/>
           <Città nome="Colbordolo"/>
@@ -15768,7 +15768,7 @@
         <Provincia nome="Pesaro e Urbino">
           <Città nome="Gradara"/>
         </Provincia>
-        <Provincia nome="Province of Pesaro e Urbino">
+        <Provincia nome="Provincia di Pesaro e Urbino">
           <Città nome="Cagli"/>
           <Città nome="Cartoceto"/>
           <Città nome="Colbordolo"/>
@@ -15820,7 +15820,7 @@
         <Provincia nome="Pesaro e Urbino">
           <Città nome="Gradara"/>
         </Provincia>
-        <Provincia nome="Province of Pesaro e Urbino">
+        <Provincia nome="Provincia di Pesaro e Urbino">
           <Città nome="Cagli"/>
           <Città nome="Cartoceto"/>
           <Città nome="Colbordolo"/>
@@ -15872,7 +15872,7 @@
         <Provincia nome="Pesaro e Urbino">
           <Città nome="Gradara"/>
         </Provincia>
-        <Provincia nome="Province of Pesaro e Urbino">
+        <Provincia nome="Provincia di Pesaro e Urbino">
           <Città nome="Cagli"/>
           <Città nome="Cartoceto"/>
           <Città nome="Colbordolo"/>
@@ -15924,7 +15924,7 @@
         <Provincia nome="Pesaro e Urbino">
           <Città nome="Gradara"/>
         </Provincia>
-        <Provincia nome="Province of Pesaro e Urbino">
+        <Provincia nome="Provincia di Pesaro e Urbino">
           <Città nome="Cagli"/>
           <Città nome="Cartoceto"/>
           <Città nome="Colbordolo"/>
@@ -15973,7 +15973,7 @@
     <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Biancame', Vitigno 'Chardonnay', Vitigno 'Pinot Bianco', Vitigno 'Pinot Grigio', Vitigno 'Pinot Nero Da Vinificare In Bianco', Vitigno 'Riesling Italico', Vitigno 'Sauvignon', Vitigno 'Trebbiano Toscano (Localmente Chiamato Albanella)', Vitigno 'Verdicchio'</MateriaPrima>
     <Luogo>
       <Regione nome="Marche">
-        <Provincia nome="Province of Pesaro e Urbino">
+        <Provincia nome="Provincia di Pesaro e Urbino">
           <Città nome="Cagli"/>
           <Città nome="Colbordolo"/>
           <Città nome="Fano"/>
