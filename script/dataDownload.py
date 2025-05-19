@@ -40,7 +40,7 @@ WHERE {
                OPTIONAL { ?materiaPrima rdfs:label ?materiaPrimaLabel . FILTER(!langMatches(lang(?materiaPrimaLabel), "en")) } }
   }
 }
-LIMIT 10000
+LIMIT 30000
 """
 
 # Funzione per ottenere la provincia da DBpedia
@@ -88,6 +88,7 @@ def get_provincia_from_dbpedia(luogo_uri):
 try:
     sparql = SPARQLWrapper(endpoint_url)
     sparql.setQuery(sparql_query)
+    sparql.setTimeout(300)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()["results"]["bindings"]
 
@@ -122,6 +123,7 @@ try:
             luogo_regioni[luogo] = None
 
     dbpedia_sparql = SPARQLWrapper(dbpedia_url)
+    dbpedia_sparql.setTimeout(300)
     for luogo in luogo_regioni:
         try:
             query = f"""
