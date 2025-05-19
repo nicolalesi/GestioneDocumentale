@@ -1,0 +1,24 @@
+<!ELEMENT Vini (Vino+)> <!-- Radice -->
+<!-- Contenitore Vino, con tag -->
+<!ELEMENT Vino (Tipologia, Denominazione, Descrizione, ValoreMinimo?, ValoreMassimo?, MateriaPrima?, Luogo)>
+<!-- "?"non in tutti ci sono-->
+<!ATTLIST Vino nome CDATA #REQUIRED>
+
+<!-- Singole voci contenitore vino -->
+<!ELEMENT Tipologia (#PCDATA)>
+<!ELEMENT Denominazione (#PCDATA)>
+<!ELEMENT Descrizione (#PCDATA)>
+<!ELEMENT ValoreMassimo (#PCDATA)>
+<!ELEMENT ValoreMinimo (#PCDATA)>
+<!ELEMENT MateriaPrima (#PCDATA)>
+
+<!ELEMENT Luogo (Regione+)> <!-- In alcuni + di una regione-->
+<!-- Regione, con tag -->
+<!ELEMENT Regione (Provincia+)> 
+<!ATTLIST Regione nome CDATA #REQUIRED>
+<!-- Provincia, con tag -->
+<!ELEMENT Provincia (Città*)> <!-- In alcuni non c'è città-->
+<!ATTLIST Provincia nome CDATA #REQUIRED>
+<!-- Città, con tag -->
+<!ELEMENT Città EMPTY>
+<!ATTLIST Città nome CDATA #REQUIRED>
