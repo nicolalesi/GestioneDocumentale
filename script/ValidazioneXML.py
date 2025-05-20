@@ -3,7 +3,7 @@ from lxml import etree
 dtd_filename = "../dati/DTD_ViniXML.dtd"
 xml_filename = "../dati/vini.xml"
 
-dtd_file = open(dtd_filename, 'r')
+dtd_file = open(dtd_filename, 'r',encoding='utf-8')
 # Controlla se il file DTD esiste
 if dtd_file:
     print("File DTD aperto correttamente")
@@ -15,7 +15,7 @@ if xml_filename:
 else:
     print("File XML non trovato")
 
-xml_file = open(xml_filename, 'r')
+xml_file = open(xml_filename, 'r', encoding='utf-8')
 
 xml_root = etree.parse(xml_filename)
 
