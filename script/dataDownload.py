@@ -40,7 +40,7 @@ WHERE {
                OPTIONAL { ?materiaPrima rdfs:label ?materiaPrimaLabel . FILTER(!langMatches(lang(?materiaPrimaLabel), "en")) } }
   }
 }
-LIMIT 30000
+LIMIT 50000
 """
 
 # Funzione per ottenere la provincia da DBpedia
@@ -108,17 +108,17 @@ try:
 
         if vino not in vini_map:
             vini_map[vino] = {
-                "Tipologie": set(), "Denominazioni": set(), "Luoghi": set(),
-                "Descrizioni": set(), "ValoriMinimi": set(), "ValoriMassimi": set(), "MateriePrime": set()
+                "Tipologia": set(), "Denominazione": set(), "LuogoProduzione": set(),
+                "Descrizione": set(), "ValoreMinimo": set(), "ValoreMassimo": set(), "MateriaPrima": set()
             }
 
-        if tipologia: vini_map[vino]["Tipologie"].add(tipologia)
-        if denominazione: vini_map[vino]["Denominazioni"].add(denominazione)
-        if luogo: vini_map[vino]["Luoghi"].add(luogo)
-        if descrizione: vini_map[vino]["Descrizioni"].add(descrizione)
-        if valoreMinimo: vini_map[vino]["ValoriMinimi"].add(valoreMinimo)
-        if valoreMassimo: vini_map[vino]["ValoriMassimi"].add(valoreMassimo)
-        if materiaPrima: vini_map[vino]["MateriePrime"].add(materiaPrima)
+        if tipologia: vini_map[vino]["Tipologia"].add(tipologia)
+        if denominazione: vini_map[vino]["Denominazione"].add(denominazione)
+        if luogo: vini_map[vino]["LuogoProduzione"].add(luogo)
+        if descrizione: vini_map[vino]["Descrizione"].add(descrizione)
+        if valoreMinimo: vini_map[vino]["ValoreMinimo"].add(valoreMinimo)
+        if valoreMassimo: vini_map[vino]["ValoreMassimo"].add(valoreMassimo)
+        if materiaPrima: vini_map[vino]["MateriaPrima"].add(materiaPrima)
         if luogo and luogo not in luogo_regioni:
             luogo_regioni[luogo] = None
 
@@ -170,17 +170,17 @@ try:
 
     for vino, dati in vini_map.items():
         vino_elem = etree.SubElement(root, "Vino", nome=vino)
-        for tag in ["Tipologie", "Denominazioni", "Descrizioni", "ValoriMinimi", "ValoriMassimi", "MateriePrime"]:
+        for tag in ["Tipologia", "Denominazione", "Descrizione", "ValoreMinimo", "ValoreMassimo", "MateriaPrima"]:
             elementi = dati[tag]
             if elementi:
                 elem = etree.SubElement(vino_elem, tag)
                 elem.text = ", ".join(sorted(elementi))
 
-        if dati["Luoghi"]:
-            luoghi_elem = etree.SubElement(vino_elem, "Luoghi")
+        if dati["LuogoProduzione"]:
+            LuogoProduzione_elem = etree.SubElement(vino_elem, "LuogoProduzione")
             regioni_locali = {}
 
-            for l in dati["Luoghi"]:
+            for l in dati["LuogoProduzione"]:
                 regione = luogo_regioni.get(l, "Sconosciuto")
                 nome_luogo = l.split("/")[-1].replace("_", " ")
                 is_provincia = "Province_of" in l
@@ -203,7 +203,7 @@ try:
                     regioni_locali[regione][provincia_nome].add(nome_luogo)
 
             for regione, province in sorted(regioni_locali.items()):
-                regione_elem = etree.SubElement(luoghi_elem, "Regione", nome=regione)
+                regione_elem = etree.SubElement(LuogoProduzione_elem, "Regione", nome=regione)
                 for provincia, citta in sorted(province.items()):
                     provincia_elem = etree.SubElement(regione_elem, "Provincia", nome=provincia)
                     for nome_citta in sorted(citta):
