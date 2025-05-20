@@ -1,23 +1,22 @@
 from lxml import etree
-
-DIR_PATH = "./Validazione/"
-
-
-DTD_FILENAME = "../DTD_ViniXML"
-XML_FILENAME = "../vini_ITA_Singolare.xml"
-
-dtd_filename = DIR_PATH + DTD_FILENAME
-xml_filename = DIR_PATH + XML_FILENAME
+#SU PC RZ
+dtd_filename = "../dati/DTD_ViniXML.dtd"
+xml_filename = "../dati/vini.xml"
 
 dtd_file = open(dtd_filename, 'r')
+# Controlla se il file DTD esiste
+if dtd_file:
+    print("File DTD aperto correttamente")
+else:
+    print("File DTD non trovato")
+# Controlla se il file XML esiste
+if xml_filename:
+    print("File XML aperto correttamente")  
+else:
+    print("File XML non trovato")
+
 xml_file = open(xml_filename, 'r')
 
-# Nota: assumiamo che il file XML
-#       in input sia ben formato
-#
-# Nota 2: in questo caso il documento XML
-#         è stato caricato da file ma può
-#         essere generato anche da una stringa o programmaticamente
 xml_root = etree.parse(xml_filename)
 
 
