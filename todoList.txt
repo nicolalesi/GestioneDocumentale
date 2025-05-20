@@ -1,0 +1,15 @@
+- Ogni regione è cliccabile
+- In ogni pagina della regione c'è : Titolo, foto, nomi … 
+- Nella mappa dell'Italia scarichiamo tutto, dobbiamo preparare il file json oltre ad xml e csv
+- Scaricare dati solo per una regione, xml o json o csv, all'interno della stessa regione 
+
+- index.html con report delle varie funzionalità, indice collegato e spiegazione
+	file, report e collegamento alla nostra pagina
+- css
+- microdata
+
+- scrivere il report
+
+____________________________________________________________________
+
+- Guardare i nomi delle regioni dell'xml e capire se corrispondono a quelli del file html

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Dettagli Regione</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      background-color: #f0f0f0;
+    }
+    h1, h2 {
+      color: #333;
+    }
+    ul {
+      padding-left: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+  <h1 id="titolo">Caricamento...</h1>
+  <h2>Tipologie trovate:</h2>
+  <ul id="lista-tipologie"></ul>
+
+  <script>
+    // Leggi parametro 'regione' dalla URL
+    const params = new URLSearchParams(window.location.search);
+    const regioneParam = params.get("regione");
+    const titolo = document.getElementById("titolo");
+    const lista = document.getElementById("lista-tipologie");
+
+    if (!regioneParam) {
+      titolo.textContent = "Nessuna regione specificata.";
+    } else {
+      titolo.textContent = `Regione selezionata: ${regioneParam}`;
+
+      // Carica e analizza il file XML
+      fetch("../dati/vini.xml")
+        .then(response => {
+          if (!response.ok) throw new Error("Errore nel caricamento del file XML");
+          return response.text();
+        })
+        .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+        .then(xml => {
+          const vini = xml.getElementsByTagName("Vino");
+
+          let trovate = 0;
+
+          for (let vino of vini) {
+            const luogo = vino.getElementsByTagName("Luogo")[0];
+            if (!luogo) continue;
+
+            const regioni = luogo.getElementsByTagName("Regione");
+            for (let regione of regioni) {
+              const nome = regione.getAttribute("nome");
+              if (nome && nome.toLowerCase() === regioneParam.toLowerCase()) {
+                const tipologia = vino.getElementsByTagName("Tipologia")[0];
+                if (tipologia) {
+                  const li = document.createElement("li");
+                  li.textContent = tipologia.textContent;
+                  lista.appendChild(li);
+                  trovate++;
+                }
+              }
+            }
+          }
+
+          if (trovate === 0) {
+            lista.innerHTML = "<li>Nessuna tipologia trovata per questa regione.</li>";
+          }
+        })
+        .catch(err => {
+          console.error(err);
+          lista.innerHTML = "<li>Errore nella lettura del file XML.</li>";
+        });
+    }
+  </script>
+
+</body>
+</html>

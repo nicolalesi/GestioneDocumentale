@@ -4,7 +4,27 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vini d'Italia</title>
-  
+  <script>
+  // Funzione per gestire il click su tutti i <path>
+  document.addEventListener("DOMContentLoaded", () => {
+    // Seleziona tutti i tag <path> con attributo title
+    const paths = document.querySelectorAll("path[title]");
+
+    paths.forEach(path => {
+      path.addEventListener("click", () => {
+        // Legge l'attributo title
+        const regione = path.getAttribute("title");
+
+        // Codifica il parametro (es: spazi, caratteri speciali)
+        const regioneEncoded = encodeURIComponent(regione);
+
+        // Apre una nuova pagina con il parametro
+        window.location.href = `regionWine.html?regione=${regioneEncoded}`;
+         });
+      });
+   });
+   </script>
+
   <style>
     body {
       font-family: Arial, sans-serif;
