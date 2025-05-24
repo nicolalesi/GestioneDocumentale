@@ -4,7 +4,7 @@ import os
 WORKING_DIR = "D:/Magistrale/DiIorio/GestioneDocumentale/"
 INPUT_FILENAME = "dati/vini.xml"
 INPUT_PATH = WORKING_DIR + INPUT_FILENAME
-OUTPUT_DIR = WORKING_DIR + "src/regioni2/"
+OUTPUT_DIR = WORKING_DIR + "src/regioni/"
 
 # Assicurati che la cartella esista
 os.makedirs(OUTPUT_DIR, exist_ok=True)
