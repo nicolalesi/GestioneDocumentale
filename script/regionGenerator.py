@@ -1,7 +1,26 @@
 from lxml import etree
 import os
+import re
+import hashlib
 
-WORKING_DIR = "D:/Magistrale/DiIorio/GestioneDocumentale/"
+def format_filename_hash(vino_nome, max_length=100):
+    # Pulisci il nome: sostituisci spazi con underscore e rimuovi caratteri strani
+    nome_pulito = vino_nome.strip().replace(" ", "_")
+
+    # Calcola hash md5 della stringa originale
+    hash_md5 = hashlib.md5(vino_nome.encode('utf-8')).hexdigest()
+
+    # Usa i primi 10 caratteri del nome pulito come prefisso
+    prefix = nome_pulito[:10]
+
+    # Componi nome file: prefisso + __ + hash
+    filename = f"{prefix}__{hash_md5}.jpg"
+
+    # Tronca se troppo lungo (dovrebbe andare bene così)
+    return filename[:max_length]
+
+
+WORKING_DIR = "../"
 INPUT_FILENAME = "dati/vini.xml"
 INPUT_PATH = WORKING_DIR + INPUT_FILENAME
 OUTPUT_DIR = WORKING_DIR + "src/regioni/"
@@ -47,7 +66,34 @@ for vino in vine_dom:
 
         h1 = etree.Element("h2")
         h1.text = vino.get("nome")
-        vinoDiv.append(h1)
+        h1.set("class", "vino-title")
+
+        # Ottieni il nome del vino e normalizzalo per file
+        nome_vino = vino.get("nome")  # es: "Amarone della Valpolicella Classico Rosso Classico"
+
+        nome_file = format_filename_hash(nome_vino)
+
+        # Costruisci il path immagine
+        img_path = f"../../img/immagini_vini/{nome_file}"
+
+
+        # Crea elemento immagine
+        # Crea elemento immagine
+        img_element = etree.Element("img")
+        img_element.set("src", img_path)
+        img_element.set("alt", nome_vino)
+        img_element.set("class", "vino-image")  # per personalizzare con CSS
+
+        # Crea il div contenitore dell'immagine
+        img_div = etree.Element("div")
+        img_div.set("class", "imgDiv")
+        img_div.append(img_element)
+
+        # Inserisci imgDiv come primo figlio di vinoDiv
+
+        infoDiv = etree.Element("div")
+        infoDiv.set("class", "infoDiv")
+        infoDiv.append(h1)
 
         tipologyContainer = etree.Element("div")
         tipologyContainer.set("class", "row-container")
@@ -57,7 +103,8 @@ for vino in vine_dom:
         tipologia.text = vino[0].text
         tipologyContainer.append(tipologyLabel)
         tipologyContainer.append(tipologia)
-        vinoDiv.append(tipologyContainer)
+
+        infoDiv.append(tipologyContainer)
 
         denominationContainer = etree.Element("div")
         denominationContainer.set("class", "row-container")
@@ -67,7 +114,8 @@ for vino in vine_dom:
         denominazione.text = vino[1].text
         denominationContainer.append(denominationLabel)
         denominationContainer.append(denominazione)
-        vinoDiv.append(denominationContainer)
+        
+        infoDiv.append(denominationContainer)
 
         descriptionContainer = etree.Element("div")
         descriptionContainer.set("class", "row-container")
@@ -77,7 +125,8 @@ for vino in vine_dom:
         descrizione.text = vino[2].text
         descriptionContainer.append(descriptionLabel)
         descriptionContainer.append(descrizione)
-        vinoDiv.append(descriptionContainer)
+        
+        infoDiv.append(descriptionContainer)
 
         try:
             minValueContainer = etree.Element("div")
@@ -88,7 +137,8 @@ for vino in vine_dom:
             valoreMinimo.text = vino[3].text
             minValueContainer.append(minValueLabel)
             minValueContainer.append(valoreMinimo)
-            vinoDiv.append(minValueContainer)
+            
+            infoDiv.append(minValueContainer)
         except:
             print("Non esiste il valore minimo")
 
@@ -101,7 +151,8 @@ for vino in vine_dom:
             valoreMassimo.text = vino[4].text
             maxValueContainer.append(maxValueLabel)
             maxValueContainer.append(valoreMassimo)
-            vinoDiv.append(maxValueContainer)
+            
+            infoDiv.append(maxValueContainer)
         except:
             print("Non esiste il valore massimo")
 
@@ -115,6 +166,8 @@ for vino in vine_dom:
             materiaPrimaContainer.append(materiaPrimaLabel)
             materiaPrimaContainer.append(materiaPrima)
             vinoDiv.append(materiaPrimaContainer)
+
+            infoDiv.append(materiaPrimaContainer)
         except:
             print("Non esiste la materia prima")
 
@@ -157,8 +210,9 @@ for vino in vine_dom:
 
                 provinceContainer.append(singleProvinceContainer)
 
-
-            vinoDiv.append(provinceContainer)
+            infoDiv.append(provinceContainer)
+            vinoDiv.append(infoDiv)
+            vinoDiv.append(img_div)
         except:
             print("Non esistono province/città")
 

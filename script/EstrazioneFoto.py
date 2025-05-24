@@ -3,10 +3,28 @@ import re
 import time
 from lxml import etree
 from icrawler.builtin import BingImageCrawler
+import hashlib
+
+def nome_file_hash(nome, max_len=100):
+    # Pulisci il nome (es. sostituisci spazi con underscore)
+    nome_pulito = nome.strip().replace(" ", "_")
+
+    # Calcola hash md5 (stringa esadecimale)
+    hash_md5 = hashlib.md5(nome.encode('utf-8')).hexdigest()
+
+    # Combina hash con una parte del nome pulito (ad esempio primi 10 caratteri)
+    prefix = nome_pulito[:10]
+
+    # Componi nome file finale
+    filename = f"{prefix}__{hash_md5}.jpg"
+
+    # Taglia se troppo lungo (in realtà non serve, è abbastanza corto)
+    return filename[:max_len]
+
 
 # === CONFIG ===
-xml_file = "vini.xml"
-output_dir = "immagini_vini"
+xml_file = "../dati/vini.xml"
+output_dir = "../img/immagini_vini/"
 immagini_per_vino = 1
 delay = 1  # secondi tra i download
 
@@ -26,7 +44,7 @@ def pulisci_nome(nome, max_len=100):
 # === SCARICA IMMAGINI E RINOMINA ===
 for i, nome in enumerate(nomi_vini):
     query = nome + " bottiglia vino"
-    nome_file = f"{pulisci_nome(nome)}.jpg"
+    nome_file = nome_file_hash(nome)
     path_file = os.path.join(output_dir, nome_file)
 
     print(f"\n🔍 {i+1}/{len(nomi_vini)} Cerco immagine per: {nome}")

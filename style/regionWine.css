@@ -38,16 +38,30 @@ h1 {
   gap: 2rem;
   margin-top: 2rem;
 }
-
 .vino-card {
-  background-color: rgba(224, 209, 184, 0.7); /* 50% trasparente */
+  position: relative;
+  background-color: rgba(224, 209, 184, 0.7);
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   width: 100%;
   padding: 1.5rem;
   box-sizing: border-box;
-  max-width: 100%; /* massima estensione possibile */
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
 }
+
+.vino-title {
+  font-family: 'SocheliaDEMO', sans-serif;
+  color: #8b0000;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 80%;
+  z-index: 2;
+}
+
 .vino-card h2 {
   font-family: 'SocheliaDEMO', sans-serif;
   color: #8b0000;
@@ -62,19 +76,17 @@ h1 {
   flex-wrap: nowrap; /* impedisce il wrap delle immagini */
 }
 .vino-image {
-  width: 250px;
-  height: auto;
-  max-width: 100%;
-  max-height: 100%;
-  display: inline-block;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
-  object-position: center;
-  aspect-ratio: 1 / 1;
   border-radius: 10px;
-  flex-shrink: 0;
   background-color: #ddd;
-  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
 }
+
 
 .vino-image:not(img) {
   display: flex;
@@ -93,8 +105,8 @@ h1 {
 .vino-details {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
   flex: 1;
+  margin-top: 1rem;
 }
 
 .vino-details p {
@@ -106,6 +118,7 @@ h1 {
 .vino-details strong {
   color: #000;
 }
+
 
 .province,
 .citta {
