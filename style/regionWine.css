@@ -1,0 +1,48 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  margin: 0;
+  padding: 2rem;
+}
+
+h1 {
+  text-align: center;
+  color: #8b0000;
+}
+
+.vino-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.vino-card {
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 1.5rem;
+  width: 320px;
+  transition: transform 0.2s;
+}
+
+.vino-card:hover {
+  transform: translateY(-5px);
+}
+
+.vino-card h2 {
+  color: #b22222;
+  margin-bottom: 0.5rem;
+}
+
+.vino-card p {
+  margin: 0.3rem 0;
+}
+
+.province,
+.citta {
+  font-size: 0.9rem;
+  color: #555;
+}

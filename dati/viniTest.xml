@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE Vini SYSTEM "DTD_ViniXML.dtd">
+<Vini>
+  <Vino nome="Vino 'Valdinievole' Bianco Superiore">
+    <Tipologia>vino 'Bianco Superiore'</Tipologia>
+    <Denominazione>DOC vino 'Valdinievole'</Denominazione>
+    <Descrizione>Vitigno 'Altre Varietà A Bacca Bianca': massimo (&lt;=) 30%, Vitigno 'Trebbiano Toscano': minimo (&gt;=) 70%</Descrizione>
+    <ValoreMinimo>70%</ValoreMinimo>
+    <ValoreMassimo>30%</ValoreMassimo>
+    <Luogo>
+      <Regione nome="Toscana">
+        <Provincia nome="Provincia di Pistoia" />
+        <Provincia nome="Provincia di Pistoia">
+          <Città nome="Buggiano" />
+          <Città nome="Chiesina Uzzanese" />
+          <Città nome="Lamporecchio" />
+          <Città nome="Larciano" />
+          <Città nome="Marliana" />
+          <Città nome="Massa e Cozzile" />
+          <Città nome="Monsummano Terme" />
+          <Città nome="Montecatini Terme" />
+          <Città nome="Pescia" />
+          <Città nome="Pieve a Nievole" />
+          <Città nome="Ponte Buggianese" />
+          <Città nome="Uzzano" />
+        </Provincia>
+      </Regione>
+    </Luogo>
+  </Vino>
+  <Vino nome="Vino 'Valdinievole' Bianco">
+    <Tipologia>vino 'Bianco'</Tipologia>
+    <Denominazione>DOC vino 'Valdinievole'</Denominazione>
+    <Descrizione>Vitigno 'Altre Varietà A Bacca Bianca': massimo (&lt;=) 30%, Vitigno 'Trebbiano Toscano': minimo (&gt;=) 70%</Descrizione>
+    <ValoreMinimo>70%</ValoreMinimo>
+    <ValoreMassimo>30%</ValoreMassimo>
+    <MateriaPrima>Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Trebbiano Toscano'</MateriaPrima>
+    <Luogo>
+      <Regione nome="Toscana">
+        <Provincia nome="Provincia di Pistoia" />
+        <Provincia nome="Provincia di Pistoia">
+          <Città nome="Buggiano" />
+          <Città nome="Chiesina Uzzanese" />
+          <Città nome="Lamporecchio" />
+          <Città nome="Larciano" />
+          <Città nome="Marliana" />
+          <Città nome="Massa e Cozzile" />
+          <Città nome="Monsummano Terme" />
+          <Città nome="Montecatini Terme" />
+          <Città nome="Pescia" />
+          <Città nome="Pieve a Nievole" />
+          <Città nome="Ponte Buggianese" />
+          <Città nome="Uzzano" />
+        </Provincia>
+      </Regione>
+    </Luogo>
+  </Vino>
+</Vini>
