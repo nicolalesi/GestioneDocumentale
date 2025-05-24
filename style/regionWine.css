@@ -119,9 +119,65 @@ h1 {
   color: #000;
 }
 
-
-.province,
-.citta {
-  font-size: 0.9rem;
-  color: #555;
+.row-container{
+  color : #482817;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.single-province {
+  font-size: 0.9rem;
+}
+@media (max-width: 768px) {
+  body {
+    padding: 1rem;
+    background-size: 40% auto, 40% auto; /* sfondo più grande su mobile */
+  }
+
+  .vino-card {
+    flex-direction: column; /* da riga a colonna */
+    padding: 1rem;
+  }
+
+  .vino-body {
+    flex-direction: column; /* immagine sopra, dettagli sotto */
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap; /* permetti wrapping */
+  }
+
+  .vino-image {
+    position: static; /* rimuove absolute per non farla sovrapporre */
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    object-fit: contain;
+  }
+
+  .vino-image:not(img) {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    font-size: 1rem;
+  }
+
+  .vino-title {
+    max-width: 100%;
+    font-size: 1.3rem;
+  }
+
+  .vino-details {
+    margin-top: 0;
+    width: 100%;
+  }
+
+  .vino-details p {
+    font-size: 1rem;
+  }
+
+  .province,
+  .citta {
+    font-size: 0.85rem;
+  }
+}
+
