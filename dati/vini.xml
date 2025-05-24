@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<!DOCTYPE Vini SYSTEM "DTD_ViniXML.dtd">
 <Vini>
   <Vino nome="Vino 'Valdinievole' Bianco Superiore">
     <Tipologia>vino 'Bianco Superiore'</Tipologia>
@@ -15997,4 +15996,363 @@
       </Regione>
     </Luogo>
   </Vino>
+<Vino nome="Vino 'Cirò' Rosso Classico Superiore">
+  <Tipologia>vino 'Rosso'</Tipologia>
+  <Denominazione>DOC vino 'Cirò'</Denominazione>
+  <Descrizione>Vitigno 'Gaglioppo': minimo (&gt;=) 95%, Vitigno 'Altri Vitigni Locali': massimo (&lt;=) 5%</Descrizione>
+  <ValoreMinimo>95%</ValoreMinimo>
+  <ValoreMassimo>5%</ValoreMassimo>
+  <MateriaPrima>Vitigno 'Gaglioppo', Vitigno 'Altri Vitigni Locali'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Calabria">
+      <Provincia nome="Provincia di Crotone">
+        <Città nome="Cirò" /><Città nome="Cirò Marina" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Greco Bianco di Bianco'">
+  <Tipologia>vino 'Bianco'</Tipologia>
+  <Denominazione>DOC vino 'Greco Bianco'</Denominazione>
+  <Descrizione>Vitigno 'Greco Bianco': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Greco Bianco'</MateriaPrima>
+  <Luogo><Regione nome="Calabria">
+    <Provincia nome="Provincia di Reggio Calabria">
+      <Città nome="Bianco" />
+    </Provincia>
+  </Regione>
+</Luogo>
+</Vino>
+<Vino nome="Vino 'Melissa Bianco'">
+  <Tipologia>vino 'Bianco'</Tipologia>
+  <Denominazione>DOC vino 'Melissa'</Denominazione>
+  <Descrizione>Vitigno 'Greco Bianco': minimo (&gt;=) 80%, Vitigno 'Trebbiano Toscano': massimo (&lt;=) 20%</Descrizione>
+  <ValoreMinimo>80%</ValoreMinimo>
+  <ValoreMassimo>20%</ValoreMassimo>
+  <MateriaPrima>Vitigno 'Greco Bianco', Vitigno 'Trebbiano Toscano'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Calabria">
+      <Provincia nome="Provincia di Crotone">
+        <Città nome="Melissa" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Savuto Rosato'">
+  <Tipologia>vino 'Rosato'</Tipologia>
+  <Denominazione>DOC vino 'Savuto'</Denominazione>
+  <Descrizione>Vitigno 'Gaglioppo', 'Malvasia', 'Greco Nero', 'Sangiovese'</Descrizione>
+  <MateriaPrima>Vitigno 'Gaglioppo', Vitigno 'Malvasia', Vitigno 'Greco Nero', Vitigno 'Sangiovese'</MateriaPrima>
+  <ValoreMinimo>80%</ValoreMinimo>
+  <ValoreMassimo>20%</ValoreMassimo>
+  <Luogo>
+    <Regione nome="Calabria">
+      <Provincia nome="Provincia di Cosenza">
+        <Città nome="Marzi" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Lamezia Rosso'">
+  <Tipologia>vino 'Rosso'</Tipologia>
+  <Denominazione>DOC vino 'Lamezia'</Denominazione>
+  <Descrizione>Vitigno 'Nerello Cappuccio', 'Gaglioppo'</Descrizione>
+  <MateriaPrima>Vitigno 'Nerello Cappuccio', Vitigno 'Gaglioppo'</MateriaPrima>
+  <ValoreMinimo>80%</ValoreMinimo>
+  <ValoreMassimo>20%</ValoreMassimo>
+  <Luogo>
+    <Regione nome="Calabria">
+      <Provincia nome="Provincia di Catanzaro">
+        <Città nome="Lamezia Terme" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Aglianico del Vulture' Rosso Riserva">
+  <Tipologia>vino 'Rosso'</Tipologia>
+  <Denominazione>DOC vino 'Aglianico del Vulture'</Denominazione>
+  <Descrizione>Vitigno 'Aglianico': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Aglianico'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Basilicata">
+      <Provincia nome="Provincia di Potenza">
+        <Città nome="Barile" />
+        <Città nome="Rionero in Vulture" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Terre dell'Alta Val d'Agri' Bianco">
+  <Tipologia>vino 'Bianco'</Tipologia>
+  <Denominazione>DOC vino 'Terre dell'Alta Val d'Agri'</Denominazione>
+  <Descrizione>Vitigno 'Malvasia': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Malvasia'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Basilicata">
+      <Provincia nome="Provincia di Potenza">
+        <Città nome="Viggiano" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Grottino di Roccanova' Rosso">
+  <Tipologia>vino 'Rosso'</Tipologia>
+  <Denominazione>DOC vino 'Grottino di Roccanova'</Denominazione>
+  <Descrizione>Vitigno 'Sangiovese': 60%, 'Montepulciano': 20%, 'Malvasia Nera': 20%</Descrizione>
+  <MateriaPrima>Vitigno 'Sangiovese', Vitigno 'Montepulciano', Vitigno 'Malvasia Nera'</MateriaPrima>
+  <ValoreMinimo>80%</ValoreMinimo>
+  <ValoreMassimo>20%</ValoreMassimo>
+  <Luogo><Regione nome="Basilicata">
+    <Provincia nome="Provincia di Potenza">
+      <Città nome="Roccanova" />
+    </Provincia>
+  </Regione>
+</Luogo>
+</Vino>
+<Vino nome="Vino 'Matera Greco'"> 
+  <Tipologia>vino 'Bianco'</Tipologia>
+  <Denominazione>DOC vino 'Matera'</Denominazione>
+  <Descrizione>Vitigno 'Greco Bianco': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Greco Bianco'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Basilicata">
+      <Provincia nome="Provincia di Matera">
+        <Città nome="Matera" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Matera Primitivo'">
+  <Tipologia>vino 'Rosso'</Tipologia>
+  <Denominazione>DOC vino 'Matera'</Denominazione>
+  <Descrizione>Vitigno 'Primitivo': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Primitivo'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Basilicata">
+      <Provincia nome="Provincia di Matera">
+        <Città nome="Bernalda" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Cinque Terre' Bianco Secco">
+  <Tipologia>vino 'Bianco'</Tipologia>
+  <Denominazione>DOC vino 'Cinque Terre'</Denominazione>
+  <Descrizione>Vitigno 'Bosco': 60%, 'Albarola': 20%, 'Vermentino': 20%</Descrizione>
+  <ValoreMinimo>60%</ValoreMinimo>
+  <ValoreMassimo>20%</ValoreMassimo>
+  <MateriaPrima>Vitigno 'Bosco', Vitigno 'Albarola', Vitigno 'Vermentino'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Liguria">
+      <Provincia nome="Provincia della Spezia">
+        <Città nome="Riomaggiore" />
+        <Città nome="Vernazza" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Rossese di Dolceacqua'">
+  <Tipologia>vino 'Rosso'</Tipologia>
+  <Denominazione>DOC vino 'Rossese di Dolceacqua'</Denominazione>
+  <Descrizione>Vitigno 'Rossese': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Rossese'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Liguria">
+      <Provincia nome="Provincia di Imperia">
+        <Città nome="Dolceacqua" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Pigato Riviera Ligure di Ponente'">
+  <Tipologia>vino 'Bianco'</Tipologia>
+  <Denominazione>DOC vino 'Riviera Ligure di Ponente'</Denominazione>
+  <Descrizione>Vitigno 'Pigato': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Pigato'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Liguria">
+      <Provincia nome="Provincia di Savona">
+        <Città nome="Albenga" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Ormeasco di Pornassio'">
+  <Tipologia>vino 'Rosso'</Tipologia>
+  <Denominazione>DOC vino 'Ormeasco di Pornassio'</Denominazione>
+  <Descrizione>Vitigno 'Ormeasco': 95%, 'Altri': 5%</Descrizione>
+  <ValoreMinimo>95%</ValoreMinimo>
+  <ValoreMassimo>5%</ValoreMassimo>
+  <MateriaPrima>Vitigno 'Ormeasco', Vitigno 'Altri'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Liguria">
+      <Provincia nome="Provincia di Imperia">
+        <Città nome="Pornassio" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Colline di Levanto' Rosso">
+  <Tipologia>vino 'Rosso'</Tipologia>
+  <Denominazione>DOC vino 'Colline di Levanto'</Denominazione>
+  <Descrizione>Vitigno 'Sangiovese', 'Ciliegiolo', 'Merlot'</Descrizione>
+  <MateriaPrima>Vitigno 'Sangiovese', Vitigno 'Ciliegiolo', Vitigno 'Merlot'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Liguria">
+      <Provincia nome="Provincia della Spezia">
+        <Città nome="Levanto" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Montepulciano d'Abruzzo' Rosso Superiore">
+  <Tipologia>vino 'Rosso'</Tipologia>
+  <Denominazione>DOC vino 'Montepulciano d'Abruzzo'</Denominazione>
+  <Descrizione>Vitigno 'Montepulciano': minimo (&gt;=) 90%, Vitigno 'Altri': massimo (&lt;=) 10%</Descrizione>
+  <ValoreMinimo>90%</ValoreMinimo>
+  <ValoreMassimo>10%</ValoreMassimo>
+  <MateriaPrima>Vitigno 'Montepulciano', Vitigno 'Altri'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Abruzzo">
+      <Provincia nome="Provincia di Chieti">
+        <Città nome="Ortona" />
+        <Città nome="Tollo" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Trebbiano d'Abruzzo'">
+  <Tipologia>vino 'Bianco'</Tipologia>
+  <Denominazione>DOC vino 'Trebbiano d'Abruzzo'</Denominazione>
+  <Descrizione>Vitigno 'Trebbiano Toscano': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Trebbiano Toscano'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Abruzzo">
+      <Provincia nome="Provincia di Teramo">
+        <Città nome="Atri" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Cerasuolo d'Abruzzo'">
+  <Tipologia>vino 'Rosato'</Tipologia>
+  <Denominazione>DOC vino 'Cerasuolo d'Abruzzo'</Denominazione>
+  <Descrizione>Vitigno 'Montepulciano': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Montepulciano'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Abruzzo">
+      <Provincia nome="Provincia di Pescara">
+        <Città nome="Loreto Aprutino" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Pecorino Terre di Chieti'">
+  <Tipologia>vino 'Bianco'</Tipologia>
+  <Denominazione>IGT vino 'Terre di Chieti'</Denominazione>
+  <Descrizione>Vitigno 'Pecorino': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Pecorino'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Abruzzo">
+      <Provincia nome="Provincia di Chieti">
+        <Città nome="San Salvo" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Passerina Colline Teramane'">
+  <Tipologia>vino 'Bianco'</Tipologia>
+  <Denominazione>IGT vino 'Colline Teramane'</Denominazione>
+  <Descrizione>Vitigno 'Passerina': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Passerina'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Abruzzo">
+      <Provincia nome="Provincia di Teramo">
+        <Città nome="Controguerra" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Tintilia del Molise' Rosso">
+  <Tipologia>vino 'Rosso'</Tipologia>
+  <Denominazione>DOC vino 'Tintilia del Molise'</Denominazione>
+  <Descrizione>Vitigno 'Tintilia': minimo (&gt;=) 95%, Vitigno 'Altri Autorizzati': massimo (&lt;=) 5%</Descrizione>
+  <ValoreMinimo>95%</ValoreMinimo>
+  <ValoreMassimo>5%</ValoreMassimo>
+  <MateriaPrima>Vitigno 'Tintilia', Vitigno 'Altri Autorizzati'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Molise">
+      <Provincia nome="Provincia di Campobasso">
+        <Città nome="Campobasso" />
+        <Città nome="Campomarino" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Biferno Bianco'">
+  <Tipologia>vino 'Bianco'</Tipologia>
+  <Denominazione>DOC vino 'Biferno'</Denominazione>
+  <Descrizione>Vitigno 'Trebbiano': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Trebbiano'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Molise">
+      <Provincia nome="Provincia di Campobasso">
+        <Città nome="Termoli" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Molise Trebbiano'">
+  <Tipologia>vino 'Bianco'</Tipologia>
+  <Denominazione>DOC vino 'Molise'</Denominazione>
+  <Descrizione>Vitigno 'Trebbiano Toscano': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Trebbiano Toscano'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Molise">
+      <Provincia nome="Provincia di Isernia">
+        <Città nome="Isernia" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Pentro di Isernia Rosso'">
+  <Tipologia>vino 'Rosso'</Tipologia>
+  <Denominazione>DOC vino 'Pentro di Isernia'</Denominazione>
+  <Descrizione>Vitigno 'Montepulciano', 'Sangiovese'</Descrizione>
+  <MateriaPrima>Vitigno 'Montepulciano', Vitigno 'Sangiovese'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Molise">
+      <Provincia nome="Provincia di Isernia">
+        <Città nome="Venafro" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
+<Vino nome="Vino 'Molise Rosato'">
+  <Tipologia>vino 'Rosato'</Tipologia>
+  <Denominazione>DOC vino 'Molise'</Denominazione>
+  <Descrizione>Vitigno 'Montepulciano': 100%</Descrizione>
+  <ValoreMinimo>100%</ValoreMinimo>
+  <MateriaPrima>Vitigno 'Montepulciano'</MateriaPrima>
+  <Luogo>
+    <Regione nome="Molise">
+      <Provincia nome="Provincia di Campobasso">
+        <Città nome="Larino" />
+      </Provincia>
+    </Regione>
+  </Luogo>
+</Vino>
 </Vini>
