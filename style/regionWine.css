@@ -1,44 +1,96 @@
+@font-face {
+  font-family: 'SocheliaDEMO';
+  src: url('/Users/robertozanoni/Downloads/LM_ANNO 2/SEMESTRE 2/Elaborazione Testi e Gestione Documentale/PROGETTOsrc/SocheliaDEMO.ttf') format('woff2'),
+      url('/Users/robertozanoni/Downloads/LM_ANNO 2/SEMESTRE 2/Elaborazione Testi e Gestione Documentale/PROGETTOsrc/SocheliaDEMO.ttf') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f5f5f5;
+  background-color: #F5EBDACC; /* buono */
   color: #333;
   margin: 0;
   padding: 2rem;
 }
-
 h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   color: #8b0000;
 }
-
 .vino-container {
   display: flex;
-  flex-wrap: wrap;
-  gap: 1.5rem;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
   margin-top: 2rem;
 }
 
 .vino-card {
-  background-color: white;
+  background-color: #e0d1b8; /* buono */
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  width: 100%;
   padding: 1.5rem;
-  width: 320px;
-  transition: transform 0.2s;
+  box-sizing: border-box;
+  max-width: 100%; /* massima estensione possibile */
 }
-
-.vino-card:hover {
-  transform: translateY(-5px);
-}
-
 .vino-card h2 {
-  color: #b22222;
+  font-family: 'SocheliaDEMO', sans-serif;
+  color: #8b0000;
   margin-bottom: 0.5rem;
 }
+.vino-body {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 100%;
+  gap: 2rem;
+  flex-wrap: nowrap; /* impedisce il wrap delle immagini */
+}
+.vino-image {
+  width: 250px;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  display: inline-block;
+  object-fit: cover;
+  object-position: center;
+  aspect-ratio: 1 / 1;
+  border-radius: 10px;
+  flex-shrink: 0;
+  background-color: #ddd;
+  overflow: hidden;
+}
 
-.vino-card p {
-  margin: 0.3rem 0;
+.vino-image:not(img) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+  background-color: #ddd;
+  color: #666;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+
+
+.vino-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex: 1;
+}
+
+.vino-details p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+  color: #333;
+}
+
+.vino-details strong {
+  color: #000;
 }
 
 .province,
