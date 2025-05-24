@@ -7,13 +7,27 @@
 }
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #F5EBDACC; /* buono */
+  background-color: #F5EBDA;
   color: #333;
   margin: 0;
   padding: 2rem;
+
+  /* Due immagini di sfondo separate */
+  background-image: 
+    url('../img/Mask group.png'),   /* immagine a sinistra */
+    url('../img/Mask group 2.png');  /* immagine a destra */
+
+  /* Ripetizione delle immagini */
+  background-repeat: repeat-y, repeat-y; /* ripetono verticalmente */
+
+  /* Posizione: sinistra in basso, destra in basso */
+  background-position: left bottom, right bottom;
+
+  /* Dimensione delle immagini (esempio) */
+  background-size: 20% auto, 20% auto;
 }
 h1 {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'SocheliaDEMO', sans-serif;
   text-align: center;
   color: #8b0000;
 }
@@ -26,7 +40,7 @@ h1 {
 }
 
 .vino-card {
-  background-color: #e0d1b8; /* buono */
+  background-color: rgba(224, 209, 184, 0.7); /* 50% trasparente */
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   width: 100%;
