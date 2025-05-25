@@ -1,0 +1,6 @@
+Nome,Tipologia,Denominazione,Descrizione,Valore minimo,Valore massimo,Materia prima,Regione,Province,Città
+Vino 'Aglianico del Vulture' Rosso Riserva,vino 'Rosso',DOC vino 'Aglianico del Vulture',Vitigno 'Aglianico': 100%,100%,,Vitigno 'Aglianico',Basilicata,Provincia di Potenza,"Barile, Rionero in Vulture"
+Vino 'Terre dell'Alta Val d'Agri' Bianco,vino 'Bianco',DOC vino 'Terre dell'Alta Val d'Agri',Vitigno 'Malvasia': 100%,100%,,Vitigno 'Malvasia',Basilicata,Provincia di Potenza,Viggiano
+Vino 'Grottino di Roccanova' Rosso,vino 'Rosso',DOC vino 'Grottino di Roccanova',"Vitigno 'Sangiovese': 60%, 'Montepulciano': 20%, 'Malvasia Nera': 20%",80%,20%,"Vitigno 'Sangiovese', Vitigno 'Montepulciano', Vitigno 'Malvasia Nera'",Basilicata,Provincia di Potenza,Roccanova
+Vino 'Matera Greco',vino 'Bianco',DOC vino 'Matera',Vitigno 'Greco Bianco': 100%,100%,,Vitigno 'Greco Bianco',Basilicata,Provincia di Matera,Matera
+Vino 'Matera Primitivo',vino 'Rosso',DOC vino 'Matera',Vitigno 'Primitivo': 100%,100%,,Vitigno 'Primitivo',Basilicata,Provincia di Matera,Bernalda
