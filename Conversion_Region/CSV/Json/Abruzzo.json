@@ -1,0 +1,103 @@
+[
+  {
+    "@nome": "Vino 'Montepulciano d'Abruzzo' Rosso Superiore",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "DOC vino 'Montepulciano d'Abruzzo'",
+    "Descrizione": "Vitigno 'Montepulciano': minimo (>=) 90%, Vitigno 'Altri': massimo (<=) 10%",
+    "ValoreMinimo": "90%",
+    "ValoreMassimo": "10%",
+    "MateriaPrima": "Vitigno 'Montepulciano', Vitigno 'Altri'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Abruzzo",
+        "Provincia": {
+          "@nome": "Provincia di Chieti",
+          "Città": [
+            {
+              "@nome": "Ortona"
+            },
+            {
+              "@nome": "Tollo"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Trebbiano d'Abruzzo'",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "DOC vino 'Trebbiano d'Abruzzo'",
+    "Descrizione": "Vitigno 'Trebbiano Toscano': 100%",
+    "ValoreMinimo": "100%",
+    "MateriaPrima": "Vitigno 'Trebbiano Toscano'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Abruzzo",
+        "Provincia": {
+          "@nome": "Provincia di Teramo",
+          "Città": {
+            "@nome": "Atri"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Cerasuolo d'Abruzzo'",
+    "Tipologia": "vino 'Rosato'",
+    "Denominazione": "DOC vino 'Cerasuolo d'Abruzzo'",
+    "Descrizione": "Vitigno 'Montepulciano': 100%",
+    "ValoreMinimo": "100%",
+    "MateriaPrima": "Vitigno 'Montepulciano'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Abruzzo",
+        "Provincia": {
+          "@nome": "Provincia di Pescara",
+          "Città": {
+            "@nome": "Loreto Aprutino"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Pecorino Terre di Chieti'",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "IGT vino 'Terre di Chieti'",
+    "Descrizione": "Vitigno 'Pecorino': 100%",
+    "ValoreMinimo": "100%",
+    "MateriaPrima": "Vitigno 'Pecorino'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Abruzzo",
+        "Provincia": {
+          "@nome": "Provincia di Chieti",
+          "Città": {
+            "@nome": "San Salvo"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Passerina Colline Teramane'",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "IGT vino 'Colline Teramane'",
+    "Descrizione": "Vitigno 'Passerina': 100%",
+    "ValoreMinimo": "100%",
+    "MateriaPrima": "Vitigno 'Passerina'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Abruzzo",
+        "Provincia": {
+          "@nome": "Provincia di Teramo",
+          "Città": {
+            "@nome": "Controguerra"
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,2442 @@
+[
+  {
+    "@nome": "Vino 'Valli di Porto Pino' Rosso, varietà vitigno a bacca nera ammesso e classificato per la Regione'",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "IGT vino 'Valli di Porto Pino'",
+    "Descrizione": "Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione': minimo (>=) 85%, Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Cannonau': 0%, Vitigno 'Carignano': 0%, Vitigno 'Girò': 0%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cannonau', Vitigno 'Carignano', Vitigno 'Girò'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Cagliari"
+            },
+            {
+              "@nome": "Provincia del Sud Sardegna",
+              "Città": [
+                {
+                  "@nome": "Giba, Sardinia"
+                },
+                {
+                  "@nome": "Masainas"
+                },
+                {
+                  "@nome": "Narcao"
+                },
+                {
+                  "@nome": "Nuxis"
+                },
+                {
+                  "@nome": "Perdaxius"
+                },
+                {
+                  "@nome": "Piscinas"
+                },
+                {
+                  "@nome": "Santadi"
+                },
+                {
+                  "@nome": "Teulada, Sardinia"
+                },
+                {
+                  "@nome": "Tratalias"
+                },
+                {
+                  "@nome": "Villaperuccio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Carbonia-Iglesias"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Valli di Porto Pino' Rosato Frizzante",
+    "Tipologia": "vino 'Rosato Frizzante'",
+    "Denominazione": "IGT vino 'Valli di Porto Pino'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Cagliari"
+            },
+            {
+              "@nome": "Provincia del Sud Sardegna",
+              "Città": [
+                {
+                  "@nome": "Giba, Sardinia"
+                },
+                {
+                  "@nome": "Masainas"
+                },
+                {
+                  "@nome": "Narcao"
+                },
+                {
+                  "@nome": "Nuxis"
+                },
+                {
+                  "@nome": "Perdaxius"
+                },
+                {
+                  "@nome": "Piscinas"
+                },
+                {
+                  "@nome": "Santadi"
+                },
+                {
+                  "@nome": "Teulada, Sardinia"
+                },
+                {
+                  "@nome": "Tratalias"
+                },
+                {
+                  "@nome": "Villaperuccio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Carbonia-Iglesias"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Valli di Porto Pino' Bianco, varietà vitigno a bacca bianca ammesso e classificato per la Regione'",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "IGT vino 'Valli di Porto Pino'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Malvasia': 0%, Vitigno 'Monica': 0%, Vitigno 'Moscato': 0%, Vitigno 'Nasco': 0%, Vitigno 'Nuragus': 0%, Vitigno 'Semidano': 0%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione': minimo (>=) 85%, Vitigno 'Vermentino': 0%, Vitigno 'Vernaccia': 0%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia', Vitigno 'Monica', Vitigno 'Moscato', Vitigno 'Nasco', Vitigno 'Nuragus', Vitigno 'Semidano', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione', Vitigno 'Vermentino', Vitigno 'Vernaccia'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Cagliari"
+            },
+            {
+              "@nome": "Provincia del Sud Sardegna",
+              "Città": [
+                {
+                  "@nome": "Giba, Sardinia"
+                },
+                {
+                  "@nome": "Masainas"
+                },
+                {
+                  "@nome": "Narcao"
+                },
+                {
+                  "@nome": "Nuxis"
+                },
+                {
+                  "@nome": "Perdaxius"
+                },
+                {
+                  "@nome": "Piscinas"
+                },
+                {
+                  "@nome": "Santadi"
+                },
+                {
+                  "@nome": "Teulada, Sardinia"
+                },
+                {
+                  "@nome": "Tratalias"
+                },
+                {
+                  "@nome": "Villaperuccio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Carbonia-Iglesias"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Valli di Porto Pino' Rosato",
+    "Tipologia": "vino 'Rosato'",
+    "Denominazione": "IGT vino 'Valli di Porto Pino'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Cagliari"
+            },
+            {
+              "@nome": "Provincia del Sud Sardegna",
+              "Città": [
+                {
+                  "@nome": "Giba, Sardinia"
+                },
+                {
+                  "@nome": "Masainas"
+                },
+                {
+                  "@nome": "Narcao"
+                },
+                {
+                  "@nome": "Nuxis"
+                },
+                {
+                  "@nome": "Perdaxius"
+                },
+                {
+                  "@nome": "Piscinas"
+                },
+                {
+                  "@nome": "Santadi"
+                },
+                {
+                  "@nome": "Teulada, Sardinia"
+                },
+                {
+                  "@nome": "Tratalias"
+                },
+                {
+                  "@nome": "Villaperuccio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Carbonia-Iglesias"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Valli di Porto Pino' Rosso Frizzante, varietà vitigno a bacca nera ammesso e classificato per la Regione'",
+    "Tipologia": "vino 'Rosso Frizzante'",
+    "Denominazione": "IGT vino 'Valli di Porto Pino'",
+    "Descrizione": "Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione': minimo (>=) 85%, Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Cannonau': 0%, Vitigno 'Carignano': 0%, Vitigno 'Girò': 0%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cannonau', Vitigno 'Carignano', Vitigno 'Girò'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Cagliari"
+            },
+            {
+              "@nome": "Provincia del Sud Sardegna",
+              "Città": [
+                {
+                  "@nome": "Giba, Sardinia"
+                },
+                {
+                  "@nome": "Masainas"
+                },
+                {
+                  "@nome": "Narcao"
+                },
+                {
+                  "@nome": "Nuxis"
+                },
+                {
+                  "@nome": "Perdaxius"
+                },
+                {
+                  "@nome": "Piscinas"
+                },
+                {
+                  "@nome": "Santadi"
+                },
+                {
+                  "@nome": "Teulada, Sardinia"
+                },
+                {
+                  "@nome": "Tratalias"
+                },
+                {
+                  "@nome": "Villaperuccio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Carbonia-Iglesias"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Valli di Porto Pino' Bianco",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "IGT vino 'Valli di Porto Pino'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Cagliari"
+            },
+            {
+              "@nome": "Provincia del Sud Sardegna",
+              "Città": [
+                {
+                  "@nome": "Giba, Sardinia"
+                },
+                {
+                  "@nome": "Masainas"
+                },
+                {
+                  "@nome": "Narcao"
+                },
+                {
+                  "@nome": "Nuxis"
+                },
+                {
+                  "@nome": "Perdaxius"
+                },
+                {
+                  "@nome": "Piscinas"
+                },
+                {
+                  "@nome": "Santadi"
+                },
+                {
+                  "@nome": "Teulada, Sardinia"
+                },
+                {
+                  "@nome": "Tratalias"
+                },
+                {
+                  "@nome": "Villaperuccio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Carbonia-Iglesias"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Valli di Porto Pino' Rosso Frizzante",
+    "Tipologia": "vino 'Rosso Frizzante'",
+    "Denominazione": "IGT vino 'Valli di Porto Pino'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Cagliari"
+            },
+            {
+              "@nome": "Provincia del Sud Sardegna",
+              "Città": [
+                {
+                  "@nome": "Giba, Sardinia"
+                },
+                {
+                  "@nome": "Masainas"
+                },
+                {
+                  "@nome": "Narcao"
+                },
+                {
+                  "@nome": "Nuxis"
+                },
+                {
+                  "@nome": "Perdaxius"
+                },
+                {
+                  "@nome": "Piscinas"
+                },
+                {
+                  "@nome": "Santadi"
+                },
+                {
+                  "@nome": "Teulada, Sardinia"
+                },
+                {
+                  "@nome": "Tratalias"
+                },
+                {
+                  "@nome": "Villaperuccio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Carbonia-Iglesias"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Valli di Porto Pino' Bianco Frizzante, varietà vitigno a bacca bianca ammesso e classificato per la Regione'",
+    "Tipologia": "vino 'Bianco Frizzante'",
+    "Denominazione": "IGT vino 'Valli di Porto Pino'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Malvasia': 0%, Vitigno 'Monica': 0%, Vitigno 'Moscato': 0%, Vitigno 'Nasco': 0%, Vitigno 'Nuragus': 0%, Vitigno 'Semidano': 0%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione': minimo (>=) 85%, Vitigno 'Vermentino': 0%, Vitigno 'Vernaccia': 0%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia', Vitigno 'Monica', Vitigno 'Moscato', Vitigno 'Nasco', Vitigno 'Nuragus', Vitigno 'Semidano', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione', Vitigno 'Vermentino', Vitigno 'Vernaccia'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Cagliari"
+            },
+            {
+              "@nome": "Provincia del Sud Sardegna",
+              "Città": [
+                {
+                  "@nome": "Giba, Sardinia"
+                },
+                {
+                  "@nome": "Masainas"
+                },
+                {
+                  "@nome": "Narcao"
+                },
+                {
+                  "@nome": "Nuxis"
+                },
+                {
+                  "@nome": "Perdaxius"
+                },
+                {
+                  "@nome": "Piscinas"
+                },
+                {
+                  "@nome": "Santadi"
+                },
+                {
+                  "@nome": "Teulada, Sardinia"
+                },
+                {
+                  "@nome": "Tratalias"
+                },
+                {
+                  "@nome": "Villaperuccio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Carbonia-Iglesias"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Valli di Porto Pino' Rosso",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "IGT vino 'Valli di Porto Pino'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Cagliari"
+            },
+            {
+              "@nome": "Provincia del Sud Sardegna",
+              "Città": [
+                {
+                  "@nome": "Giba, Sardinia"
+                },
+                {
+                  "@nome": "Masainas"
+                },
+                {
+                  "@nome": "Narcao"
+                },
+                {
+                  "@nome": "Nuxis"
+                },
+                {
+                  "@nome": "Perdaxius"
+                },
+                {
+                  "@nome": "Piscinas"
+                },
+                {
+                  "@nome": "Santadi"
+                },
+                {
+                  "@nome": "Teulada, Sardinia"
+                },
+                {
+                  "@nome": "Tratalias"
+                },
+                {
+                  "@nome": "Villaperuccio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Carbonia-Iglesias"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Valli di Porto Pino' Bianco Frizzante",
+    "Tipologia": "vino 'Bianco Frizzante'",
+    "Denominazione": "IGT vino 'Valli di Porto Pino'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Cagliari"
+            },
+            {
+              "@nome": "Provincia del Sud Sardegna",
+              "Città": [
+                {
+                  "@nome": "Giba, Sardinia"
+                },
+                {
+                  "@nome": "Masainas"
+                },
+                {
+                  "@nome": "Narcao"
+                },
+                {
+                  "@nome": "Nuxis"
+                },
+                {
+                  "@nome": "Perdaxius"
+                },
+                {
+                  "@nome": "Piscinas"
+                },
+                {
+                  "@nome": "Santadi"
+                },
+                {
+                  "@nome": "Teulada, Sardinia"
+                },
+                {
+                  "@nome": "Tratalias"
+                },
+                {
+                  "@nome": "Villaperuccio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Carbonia-Iglesias"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Valli di Porto Pino' Novello",
+    "Tipologia": "vino 'Novello ', vino 'Novello'",
+    "Denominazione": "IGT vino 'Valli di Porto Pino'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Cagliari"
+            },
+            {
+              "@nome": "Provincia del Sud Sardegna",
+              "Città": [
+                {
+                  "@nome": "Giba, Sardinia"
+                },
+                {
+                  "@nome": "Masainas"
+                },
+                {
+                  "@nome": "Narcao"
+                },
+                {
+                  "@nome": "Nuxis"
+                },
+                {
+                  "@nome": "Perdaxius"
+                },
+                {
+                  "@nome": "Piscinas"
+                },
+                {
+                  "@nome": "Santadi"
+                },
+                {
+                  "@nome": "Teulada, Sardinia"
+                },
+                {
+                  "@nome": "Tratalias"
+                },
+                {
+                  "@nome": "Villaperuccio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Carbonia-Iglesias"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Valli di Porto Pino' Novello, varietà vitigno a bacca nera ammesso e classificato per la Regione'",
+    "Tipologia": "vino 'Novello ', vino 'Novello'",
+    "Denominazione": "IGT vino 'Valli di Porto Pino'",
+    "Descrizione": "Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione': minimo (>=) 85%, Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Cannonau': 0%, Vitigno 'Carignano': 0%, Vitigno 'Girò': 0%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cannonau', Vitigno 'Carignano', Vitigno 'Girò'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Cagliari"
+            },
+            {
+              "@nome": "Provincia del Sud Sardegna",
+              "Città": [
+                {
+                  "@nome": "Giba, Sardinia"
+                },
+                {
+                  "@nome": "Masainas"
+                },
+                {
+                  "@nome": "Narcao"
+                },
+                {
+                  "@nome": "Nuxis"
+                },
+                {
+                  "@nome": "Perdaxius"
+                },
+                {
+                  "@nome": "Piscinas"
+                },
+                {
+                  "@nome": "Santadi"
+                },
+                {
+                  "@nome": "Teulada, Sardinia"
+                },
+                {
+                  "@nome": "Tratalias"
+                },
+                {
+                  "@nome": "Villaperuccio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Carbonia-Iglesias"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vermentino di Gallura' Bianco Frizzante",
+    "Tipologia": "vino 'Bianco Frizzante'",
+    "Denominazione": "DOCG vino 'Vermentino di Gallura'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (>=) 5%, Vitigno 'Vermentino': minimo (>=) 95%",
+    "ValoreMinimo": "95%",
+    "ValoreMassimo": "5%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Sassari"
+            },
+            {
+              "@nome": "Provincia di Sassari",
+              "Città": [
+                {
+                  "@nome": "Aggius"
+                },
+                {
+                  "@nome": "Aglientu"
+                },
+                {
+                  "@nome": "Arzachena"
+                },
+                {
+                  "@nome": "Badesi"
+                },
+                {
+                  "@nome": "Berchidda"
+                },
+                {
+                  "@nome": "Bortigiadas"
+                },
+                {
+                  "@nome": "Budoni"
+                },
+                {
+                  "@nome": "Calangianus"
+                },
+                {
+                  "@nome": "Golfo Aranci"
+                },
+                {
+                  "@nome": "Loiri Porto San Paolo"
+                },
+                {
+                  "@nome": "Luogosanto"
+                },
+                {
+                  "@nome": "Luras"
+                },
+                {
+                  "@nome": "Olbia"
+                },
+                {
+                  "@nome": "Oschiri"
+                },
+                {
+                  "@nome": "Tempio Pausania"
+                },
+                {
+                  "@nome": "Viddalba"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Olbia-Tempio"
+            },
+            {
+              "@nome": "Provincia di Sassari",
+              "Città": {
+                "@nome": "Telti"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vermentino di Gallura' Bianco Superiore",
+    "Tipologia": "vino 'Bianco Superiore'",
+    "Denominazione": "DOCG vino 'Vermentino di Gallura'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (>=) 5%, Vitigno 'Vermentino': minimo (>=) 95%",
+    "ValoreMinimo": "95%",
+    "ValoreMassimo": "5%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Sassari"
+            },
+            {
+              "@nome": "Provincia di Sassari",
+              "Città": [
+                {
+                  "@nome": "Aggius"
+                },
+                {
+                  "@nome": "Aglientu"
+                },
+                {
+                  "@nome": "Arzachena"
+                },
+                {
+                  "@nome": "Badesi"
+                },
+                {
+                  "@nome": "Berchidda"
+                },
+                {
+                  "@nome": "Bortigiadas"
+                },
+                {
+                  "@nome": "Budoni"
+                },
+                {
+                  "@nome": "Calangianus"
+                },
+                {
+                  "@nome": "Golfo Aranci"
+                },
+                {
+                  "@nome": "Loiri Porto San Paolo"
+                },
+                {
+                  "@nome": "Luogosanto"
+                },
+                {
+                  "@nome": "Luras"
+                },
+                {
+                  "@nome": "Olbia"
+                },
+                {
+                  "@nome": "Oschiri"
+                },
+                {
+                  "@nome": "Tempio Pausania"
+                },
+                {
+                  "@nome": "Viddalba"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Olbia-Tempio"
+            },
+            {
+              "@nome": "Provincia di Sassari",
+              "Città": {
+                "@nome": "Telti"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vermentino di Gallura' Bianco",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "DOCG vino 'Vermentino di Gallura'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (>=) 5%, Vitigno 'Vermentino': minimo (>=) 95%",
+    "ValoreMinimo": "95%",
+    "ValoreMassimo": "5%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Sassari"
+            },
+            {
+              "@nome": "Provincia di Sassari",
+              "Città": [
+                {
+                  "@nome": "Aggius"
+                },
+                {
+                  "@nome": "Aglientu"
+                },
+                {
+                  "@nome": "Arzachena"
+                },
+                {
+                  "@nome": "Badesi"
+                },
+                {
+                  "@nome": "Berchidda"
+                },
+                {
+                  "@nome": "Bortigiadas"
+                },
+                {
+                  "@nome": "Budoni"
+                },
+                {
+                  "@nome": "Calangianus"
+                },
+                {
+                  "@nome": "Golfo Aranci"
+                },
+                {
+                  "@nome": "Loiri Porto San Paolo"
+                },
+                {
+                  "@nome": "Luogosanto"
+                },
+                {
+                  "@nome": "Luras"
+                },
+                {
+                  "@nome": "Olbia"
+                },
+                {
+                  "@nome": "Oschiri"
+                },
+                {
+                  "@nome": "Tempio Pausania"
+                },
+                {
+                  "@nome": "Viddalba"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Olbia-Tempio"
+            },
+            {
+              "@nome": "Provincia di Sassari",
+              "Città": {
+                "@nome": "Telti"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vermentino di Gallura' Bianco Spumante",
+    "Tipologia": "vino 'Bianco Spumante'",
+    "Denominazione": "DOCG vino 'Vermentino di Gallura'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (>=) 5%, Vitigno 'Vermentino': minimo (>=) 95%",
+    "ValoreMinimo": "95%",
+    "ValoreMassimo": "5%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Sassari"
+            },
+            {
+              "@nome": "Provincia di Sassari",
+              "Città": [
+                {
+                  "@nome": "Aggius"
+                },
+                {
+                  "@nome": "Aglientu"
+                },
+                {
+                  "@nome": "Arzachena"
+                },
+                {
+                  "@nome": "Badesi"
+                },
+                {
+                  "@nome": "Berchidda"
+                },
+                {
+                  "@nome": "Bortigiadas"
+                },
+                {
+                  "@nome": "Budoni"
+                },
+                {
+                  "@nome": "Calangianus"
+                },
+                {
+                  "@nome": "Golfo Aranci"
+                },
+                {
+                  "@nome": "Loiri Porto San Paolo"
+                },
+                {
+                  "@nome": "Luogosanto"
+                },
+                {
+                  "@nome": "Luras"
+                },
+                {
+                  "@nome": "Olbia"
+                },
+                {
+                  "@nome": "Oschiri"
+                },
+                {
+                  "@nome": "Tempio Pausania"
+                },
+                {
+                  "@nome": "Viddalba"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Olbia-Tempio"
+            },
+            {
+              "@nome": "Provincia di Sassari",
+              "Città": {
+                "@nome": "Telti"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vermentino di Gallura' Bianco Passito",
+    "Tipologia": "vino 'Bianco Passito'",
+    "Denominazione": "DOCG vino 'Vermentino di Gallura'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (>=) 5%, Vitigno 'Vermentino': minimo (>=) 95%",
+    "ValoreMinimo": "95%",
+    "ValoreMassimo": "5%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Sassari"
+            },
+            {
+              "@nome": "Provincia di Sassari",
+              "Città": [
+                {
+                  "@nome": "Aggius"
+                },
+                {
+                  "@nome": "Aglientu"
+                },
+                {
+                  "@nome": "Arzachena"
+                },
+                {
+                  "@nome": "Badesi"
+                },
+                {
+                  "@nome": "Berchidda"
+                },
+                {
+                  "@nome": "Bortigiadas"
+                },
+                {
+                  "@nome": "Budoni"
+                },
+                {
+                  "@nome": "Calangianus"
+                },
+                {
+                  "@nome": "Golfo Aranci"
+                },
+                {
+                  "@nome": "Loiri Porto San Paolo"
+                },
+                {
+                  "@nome": "Luogosanto"
+                },
+                {
+                  "@nome": "Luras"
+                },
+                {
+                  "@nome": "Olbia"
+                },
+                {
+                  "@nome": "Oschiri"
+                },
+                {
+                  "@nome": "Tempio Pausania"
+                },
+                {
+                  "@nome": "Viddalba"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Olbia-Tempio"
+            },
+            {
+              "@nome": "Provincia di Sassari",
+              "Città": {
+                "@nome": "Telti"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vermentino di Gallura' Bianco Vendemmia Tardiva",
+    "Tipologia": "vino 'Bianco Vendemmia Tardiva', vino 'Bianco Vendemmia Tardiva:'",
+    "Denominazione": "DOCG vino 'Vermentino di Gallura'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (>=) 5%, Vitigno 'Vermentino': minimo (>=) 95%",
+    "ValoreMinimo": "95%",
+    "ValoreMassimo": "5%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Sardegna (isola)",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Sassari"
+            },
+            {
+              "@nome": "Provincia di Sassari",
+              "Città": [
+                {
+                  "@nome": "Aggius"
+                },
+                {
+                  "@nome": "Aglientu"
+                },
+                {
+                  "@nome": "Arzachena"
+                },
+                {
+                  "@nome": "Badesi"
+                },
+                {
+                  "@nome": "Berchidda"
+                },
+                {
+                  "@nome": "Bortigiadas"
+                },
+                {
+                  "@nome": "Budoni"
+                },
+                {
+                  "@nome": "Calangianus"
+                },
+                {
+                  "@nome": "Golfo Aranci"
+                },
+                {
+                  "@nome": "Loiri Porto San Paolo"
+                },
+                {
+                  "@nome": "Luogosanto"
+                },
+                {
+                  "@nome": "Luras"
+                },
+                {
+                  "@nome": "Olbia"
+                },
+                {
+                  "@nome": "Oschiri"
+                },
+                {
+                  "@nome": "Tempio Pausania"
+                },
+                {
+                  "@nome": "Viddalba"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Olbia-Tempio"
+            },
+            {
+              "@nome": "Provincia di Sassari",
+              "Città": {
+                "@nome": "Telti"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vermentino di Sardegna' Bianco Spumante",
+    "Tipologia": "vino 'Bianco Spumante'",
+    "Denominazione": "DOC vino 'Vermentino di Sardegna'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Vermentino': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": {
+          "@nome": "Provincia di Agrigento",
+          "Città": {
+            "@nome": "Sardinia"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Vermentino di Sardegna' Bianco Frizzante",
+    "Tipologia": "vino 'Bianco Frizzante'",
+    "Denominazione": "DOC vino 'Vermentino di Sardegna'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Vermentino': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": {
+          "@nome": "Provincia di Agrigento",
+          "Città": {
+            "@nome": "Sardinia"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Vermentino di Sardegna' Bianco",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "DOC vino 'Vermentino di Sardegna'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Vermentino': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Vermentino'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": {
+          "@nome": "Provincia di Agrigento",
+          "Città": {
+            "@nome": "Sardinia"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Vernaccia di Oristano' Bianco Riserva",
+    "Tipologia": "vino 'Bianco Riserva'",
+    "Denominazione": "DOC vino 'Vernaccia di Oristano'",
+    "Descrizione": "Vitigno 'Vernaccia Di Oristano': 100%",
+    "MateriaPrima": "Vitigno 'Vernaccia Di Oristano'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": {
+          "@nome": "Provincia di Oristano",
+          "Città": [
+            {
+              "@nome": "Cabras, Sardinia"
+            },
+            {
+              "@nome": "Milis"
+            },
+            {
+              "@nome": "Narbolia"
+            },
+            {
+              "@nome": "Nurachi"
+            },
+            {
+              "@nome": "Ollastra"
+            },
+            {
+              "@nome": "Oristano"
+            },
+            {
+              "@nome": "Palmas Arborea"
+            },
+            {
+              "@nome": "Riola Sardo"
+            },
+            {
+              "@nome": "Siamaggiore"
+            },
+            {
+              "@nome": "Simaxis"
+            },
+            {
+              "@nome": "Solarussa"
+            },
+            {
+              "@nome": "Tramatza"
+            },
+            {
+              "@nome": "Zeddiani"
+            },
+            {
+              "@nome": "Zerfaliu"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Vernaccia di Oristano' Bianco Liquoroso",
+    "Tipologia": "vino 'Bianco Liquoroso'",
+    "Denominazione": "DOC vino 'Vernaccia di Oristano'",
+    "Descrizione": "Vitigno 'Vernaccia Di Oristano': 100%",
+    "MateriaPrima": "Vitigno 'Vernaccia Di Oristano'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": {
+          "@nome": "Provincia di Oristano",
+          "Città": [
+            {
+              "@nome": "Cabras, Sardinia"
+            },
+            {
+              "@nome": "Milis"
+            },
+            {
+              "@nome": "Narbolia"
+            },
+            {
+              "@nome": "Nurachi"
+            },
+            {
+              "@nome": "Ollastra"
+            },
+            {
+              "@nome": "Oristano"
+            },
+            {
+              "@nome": "Palmas Arborea"
+            },
+            {
+              "@nome": "Riola Sardo"
+            },
+            {
+              "@nome": "Siamaggiore"
+            },
+            {
+              "@nome": "Simaxis"
+            },
+            {
+              "@nome": "Solarussa"
+            },
+            {
+              "@nome": "Tramatza"
+            },
+            {
+              "@nome": "Zeddiani"
+            },
+            {
+              "@nome": "Zerfaliu"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Vernaccia di Oristano' Bianco Superiore",
+    "Tipologia": "vino 'Bianco Superiore'",
+    "Denominazione": "DOC vino 'Vernaccia di Oristano'",
+    "Descrizione": "Vitigno 'Vernaccia Di Oristano': 100%",
+    "MateriaPrima": "Vitigno 'Vernaccia Di Oristano'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": {
+          "@nome": "Provincia di Oristano",
+          "Città": [
+            {
+              "@nome": "Cabras, Sardinia"
+            },
+            {
+              "@nome": "Milis"
+            },
+            {
+              "@nome": "Narbolia"
+            },
+            {
+              "@nome": "Nurachi"
+            },
+            {
+              "@nome": "Ollastra"
+            },
+            {
+              "@nome": "Oristano"
+            },
+            {
+              "@nome": "Palmas Arborea"
+            },
+            {
+              "@nome": "Riola Sardo"
+            },
+            {
+              "@nome": "Siamaggiore"
+            },
+            {
+              "@nome": "Simaxis"
+            },
+            {
+              "@nome": "Solarussa"
+            },
+            {
+              "@nome": "Tramatza"
+            },
+            {
+              "@nome": "Zeddiani"
+            },
+            {
+              "@nome": "Zerfaliu"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Vernaccia di Oristano' Bianco",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "DOC vino 'Vernaccia di Oristano'",
+    "Descrizione": "Vitigno 'Vernaccia Di Oristano': 100%",
+    "MateriaPrima": "Vitigno 'Vernaccia Di Oristano'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": {
+          "@nome": "Provincia di Oristano",
+          "Città": [
+            {
+              "@nome": "Cabras, Sardinia"
+            },
+            {
+              "@nome": "Milis"
+            },
+            {
+              "@nome": "Narbolia"
+            },
+            {
+              "@nome": "Nurachi"
+            },
+            {
+              "@nome": "Ollastra"
+            },
+            {
+              "@nome": "Oristano"
+            },
+            {
+              "@nome": "Palmas Arborea"
+            },
+            {
+              "@nome": "Riola Sardo"
+            },
+            {
+              "@nome": "Siamaggiore"
+            },
+            {
+              "@nome": "Simaxis"
+            },
+            {
+              "@nome": "Solarussa"
+            },
+            {
+              "@nome": "Tramatza"
+            },
+            {
+              "@nome": "Zeddiani"
+            },
+            {
+              "@nome": "Zerfaliu"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Valle del Tirso' Novello, varietà vitigno a bacca nera ammesso e classificato per la Regione'",
+    "Tipologia": "vino 'Novello ', vino 'Novello'",
+    "Denominazione": "vino 'Valle del Tirso'",
+    "Descrizione": "Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione': minimo (>=) 85%, Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Cannonau': 0%, Vitigno 'Carignano': 0%, Vitigno 'Girò': 0%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cannonau', Vitigno 'Carignano', Vitigno 'Girò'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": [
+          {
+            "@nome": "Provincia di Oristano"
+          },
+          {
+            "@nome": "Provincia di Oristano",
+            "Città": [
+              {
+                "@nome": "Baratili San Pietro"
+              },
+              {
+                "@nome": "Cabras, Sardinia"
+              },
+              {
+                "@nome": "Milis"
+              },
+              {
+                "@nome": "Narbolia"
+              },
+              {
+                "@nome": "Nurachi"
+              },
+              {
+                "@nome": "Ollastra"
+              },
+              {
+                "@nome": "Oristano"
+              },
+              {
+                "@nome": "Palmas Arborea"
+              },
+              {
+                "@nome": "Riola Sardo"
+              },
+              {
+                "@nome": "San Vero Milis"
+              },
+              {
+                "@nome": "Santa Giusta"
+              },
+              {
+                "@nome": "Siamaggiore"
+              },
+              {
+                "@nome": "Solarussa"
+              },
+              {
+                "@nome": "Tramatza"
+              },
+              {
+                "@nome": "Villaurbana"
+              },
+              {
+                "@nome": "Zeddiani"
+              },
+              {
+                "@nome": "Zerfaliu"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Valle del Tirso' Rosato",
+    "Tipologia": "vino 'Rosato'",
+    "Denominazione": "vino 'Valle del Tirso'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": [
+          {
+            "@nome": "Provincia di Oristano"
+          },
+          {
+            "@nome": "Provincia di Oristano",
+            "Città": [
+              {
+                "@nome": "Baratili San Pietro"
+              },
+              {
+                "@nome": "Cabras, Sardinia"
+              },
+              {
+                "@nome": "Milis"
+              },
+              {
+                "@nome": "Narbolia"
+              },
+              {
+                "@nome": "Nurachi"
+              },
+              {
+                "@nome": "Ollastra"
+              },
+              {
+                "@nome": "Oristano"
+              },
+              {
+                "@nome": "Palmas Arborea"
+              },
+              {
+                "@nome": "Riola Sardo"
+              },
+              {
+                "@nome": "San Vero Milis"
+              },
+              {
+                "@nome": "Santa Giusta"
+              },
+              {
+                "@nome": "Siamaggiore"
+              },
+              {
+                "@nome": "Solarussa"
+              },
+              {
+                "@nome": "Tramatza"
+              },
+              {
+                "@nome": "Villaurbana"
+              },
+              {
+                "@nome": "Zeddiani"
+              },
+              {
+                "@nome": "Zerfaliu"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Valle del Tirso' Rosato Frizzante",
+    "Tipologia": "vino 'Rosato Frizzante'",
+    "Denominazione": "vino 'Valle del Tirso'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": [
+          {
+            "@nome": "Provincia di Oristano"
+          },
+          {
+            "@nome": "Provincia di Oristano",
+            "Città": [
+              {
+                "@nome": "Baratili San Pietro"
+              },
+              {
+                "@nome": "Cabras, Sardinia"
+              },
+              {
+                "@nome": "Milis"
+              },
+              {
+                "@nome": "Narbolia"
+              },
+              {
+                "@nome": "Nurachi"
+              },
+              {
+                "@nome": "Ollastra"
+              },
+              {
+                "@nome": "Oristano"
+              },
+              {
+                "@nome": "Palmas Arborea"
+              },
+              {
+                "@nome": "Riola Sardo"
+              },
+              {
+                "@nome": "San Vero Milis"
+              },
+              {
+                "@nome": "Santa Giusta"
+              },
+              {
+                "@nome": "Siamaggiore"
+              },
+              {
+                "@nome": "Solarussa"
+              },
+              {
+                "@nome": "Tramatza"
+              },
+              {
+                "@nome": "Villaurbana"
+              },
+              {
+                "@nome": "Zeddiani"
+              },
+              {
+                "@nome": "Zerfaliu"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Valle del Tirso' Rosso, varietà vitigno a bacca nera ammesso e classificato per la Regione'",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "vino 'Valle del Tirso'",
+    "Descrizione": "Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione': minimo (>=) 85%, Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Cannonau': 0%, Vitigno 'Carignano': 0%, Vitigno 'Girò': 0%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cannonau', Vitigno 'Carignano', Vitigno 'Girò'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": [
+          {
+            "@nome": "Provincia di Oristano"
+          },
+          {
+            "@nome": "Provincia di Oristano",
+            "Città": [
+              {
+                "@nome": "Baratili San Pietro"
+              },
+              {
+                "@nome": "Cabras, Sardinia"
+              },
+              {
+                "@nome": "Milis"
+              },
+              {
+                "@nome": "Narbolia"
+              },
+              {
+                "@nome": "Nurachi"
+              },
+              {
+                "@nome": "Ollastra"
+              },
+              {
+                "@nome": "Oristano"
+              },
+              {
+                "@nome": "Palmas Arborea"
+              },
+              {
+                "@nome": "Riola Sardo"
+              },
+              {
+                "@nome": "San Vero Milis"
+              },
+              {
+                "@nome": "Santa Giusta"
+              },
+              {
+                "@nome": "Siamaggiore"
+              },
+              {
+                "@nome": "Solarussa"
+              },
+              {
+                "@nome": "Tramatza"
+              },
+              {
+                "@nome": "Villaurbana"
+              },
+              {
+                "@nome": "Zeddiani"
+              },
+              {
+                "@nome": "Zerfaliu"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Valle del Tirso' Rosso Frizzante",
+    "Tipologia": "vino 'Rosso Frizzante'",
+    "Denominazione": "vino 'Valle del Tirso'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": [
+          {
+            "@nome": "Provincia di Oristano"
+          },
+          {
+            "@nome": "Provincia di Oristano",
+            "Città": [
+              {
+                "@nome": "Baratili San Pietro"
+              },
+              {
+                "@nome": "Cabras, Sardinia"
+              },
+              {
+                "@nome": "Milis"
+              },
+              {
+                "@nome": "Narbolia"
+              },
+              {
+                "@nome": "Nurachi"
+              },
+              {
+                "@nome": "Ollastra"
+              },
+              {
+                "@nome": "Oristano"
+              },
+              {
+                "@nome": "Palmas Arborea"
+              },
+              {
+                "@nome": "Riola Sardo"
+              },
+              {
+                "@nome": "San Vero Milis"
+              },
+              {
+                "@nome": "Santa Giusta"
+              },
+              {
+                "@nome": "Siamaggiore"
+              },
+              {
+                "@nome": "Solarussa"
+              },
+              {
+                "@nome": "Tramatza"
+              },
+              {
+                "@nome": "Villaurbana"
+              },
+              {
+                "@nome": "Zeddiani"
+              },
+              {
+                "@nome": "Zerfaliu"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Valle del Tirso' Novello",
+    "Tipologia": "vino 'Novello ', vino 'Novello'",
+    "Denominazione": "vino 'Valle del Tirso'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": [
+          {
+            "@nome": "Provincia di Oristano"
+          },
+          {
+            "@nome": "Provincia di Oristano",
+            "Città": [
+              {
+                "@nome": "Baratili San Pietro"
+              },
+              {
+                "@nome": "Cabras, Sardinia"
+              },
+              {
+                "@nome": "Milis"
+              },
+              {
+                "@nome": "Narbolia"
+              },
+              {
+                "@nome": "Nurachi"
+              },
+              {
+                "@nome": "Ollastra"
+              },
+              {
+                "@nome": "Oristano"
+              },
+              {
+                "@nome": "Palmas Arborea"
+              },
+              {
+                "@nome": "Riola Sardo"
+              },
+              {
+                "@nome": "San Vero Milis"
+              },
+              {
+                "@nome": "Santa Giusta"
+              },
+              {
+                "@nome": "Siamaggiore"
+              },
+              {
+                "@nome": "Solarussa"
+              },
+              {
+                "@nome": "Tramatza"
+              },
+              {
+                "@nome": "Villaurbana"
+              },
+              {
+                "@nome": "Zeddiani"
+              },
+              {
+                "@nome": "Zerfaliu"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Valle del Tirso' Bianco, varietà vitigno a bacca bianca ammesso e classificato per la Regione'",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "vino 'Valle del Tirso'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Malvasia': 0%, Vitigno 'Monica': 0%, Vitigno 'Moscato': 0%, Vitigno 'Nasco': 0%, Vitigno 'Nuragus': 0%, Vitigno 'Semidano': 0%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione': minimo (>=) 85%, Vitigno 'Vermentino': 0%, Vitigno 'Vernaccia': 0%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia', Vitigno 'Monica', Vitigno 'Moscato', Vitigno 'Nasco', Vitigno 'Nuragus', Vitigno 'Semidano', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione', Vitigno 'Vermentino', Vitigno 'Vernaccia'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": [
+          {
+            "@nome": "Provincia di Oristano"
+          },
+          {
+            "@nome": "Provincia di Oristano",
+            "Città": [
+              {
+                "@nome": "Baratili San Pietro"
+              },
+              {
+                "@nome": "Cabras, Sardinia"
+              },
+              {
+                "@nome": "Milis"
+              },
+              {
+                "@nome": "Narbolia"
+              },
+              {
+                "@nome": "Nurachi"
+              },
+              {
+                "@nome": "Ollastra"
+              },
+              {
+                "@nome": "Oristano"
+              },
+              {
+                "@nome": "Palmas Arborea"
+              },
+              {
+                "@nome": "Riola Sardo"
+              },
+              {
+                "@nome": "San Vero Milis"
+              },
+              {
+                "@nome": "Santa Giusta"
+              },
+              {
+                "@nome": "Siamaggiore"
+              },
+              {
+                "@nome": "Solarussa"
+              },
+              {
+                "@nome": "Tramatza"
+              },
+              {
+                "@nome": "Villaurbana"
+              },
+              {
+                "@nome": "Zeddiani"
+              },
+              {
+                "@nome": "Zerfaliu"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Valle del Tirso' Bianco Frizzante",
+    "Tipologia": "vino 'Bianco Frizzante'",
+    "Denominazione": "vino 'Valle del Tirso'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": [
+          {
+            "@nome": "Provincia di Oristano"
+          },
+          {
+            "@nome": "Provincia di Oristano",
+            "Città": [
+              {
+                "@nome": "Baratili San Pietro"
+              },
+              {
+                "@nome": "Cabras, Sardinia"
+              },
+              {
+                "@nome": "Milis"
+              },
+              {
+                "@nome": "Narbolia"
+              },
+              {
+                "@nome": "Nurachi"
+              },
+              {
+                "@nome": "Ollastra"
+              },
+              {
+                "@nome": "Oristano"
+              },
+              {
+                "@nome": "Palmas Arborea"
+              },
+              {
+                "@nome": "Riola Sardo"
+              },
+              {
+                "@nome": "San Vero Milis"
+              },
+              {
+                "@nome": "Santa Giusta"
+              },
+              {
+                "@nome": "Siamaggiore"
+              },
+              {
+                "@nome": "Solarussa"
+              },
+              {
+                "@nome": "Tramatza"
+              },
+              {
+                "@nome": "Villaurbana"
+              },
+              {
+                "@nome": "Zeddiani"
+              },
+              {
+                "@nome": "Zerfaliu"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Valle del Tirso' Bianco",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "vino 'Valle del Tirso'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": [
+          {
+            "@nome": "Provincia di Oristano"
+          },
+          {
+            "@nome": "Provincia di Oristano",
+            "Città": [
+              {
+                "@nome": "Baratili San Pietro"
+              },
+              {
+                "@nome": "Cabras, Sardinia"
+              },
+              {
+                "@nome": "Milis"
+              },
+              {
+                "@nome": "Narbolia"
+              },
+              {
+                "@nome": "Nurachi"
+              },
+              {
+                "@nome": "Ollastra"
+              },
+              {
+                "@nome": "Oristano"
+              },
+              {
+                "@nome": "Palmas Arborea"
+              },
+              {
+                "@nome": "Riola Sardo"
+              },
+              {
+                "@nome": "San Vero Milis"
+              },
+              {
+                "@nome": "Santa Giusta"
+              },
+              {
+                "@nome": "Siamaggiore"
+              },
+              {
+                "@nome": "Solarussa"
+              },
+              {
+                "@nome": "Tramatza"
+              },
+              {
+                "@nome": "Villaurbana"
+              },
+              {
+                "@nome": "Zeddiani"
+              },
+              {
+                "@nome": "Zerfaliu"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Valle del Tirso' Rosso Frizzante, varietà vitigno a bacca nera ammesso e classificato per la Regione'",
+    "Tipologia": "vino 'Rosso Frizzante'",
+    "Denominazione": "vino 'Valle del Tirso'",
+    "Descrizione": "Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione': minimo (>=) 85%, Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Cannonau': 0%, Vitigno 'Carignano': 0%, Vitigno 'Girò': 0%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'A Bacca Nera Ammesso E Classificato Per La Regione', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cannonau', Vitigno 'Carignano', Vitigno 'Girò'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": [
+          {
+            "@nome": "Provincia di Oristano"
+          },
+          {
+            "@nome": "Provincia di Oristano",
+            "Città": [
+              {
+                "@nome": "Baratili San Pietro"
+              },
+              {
+                "@nome": "Cabras, Sardinia"
+              },
+              {
+                "@nome": "Milis"
+              },
+              {
+                "@nome": "Narbolia"
+              },
+              {
+                "@nome": "Nurachi"
+              },
+              {
+                "@nome": "Ollastra"
+              },
+              {
+                "@nome": "Oristano"
+              },
+              {
+                "@nome": "Palmas Arborea"
+              },
+              {
+                "@nome": "Riola Sardo"
+              },
+              {
+                "@nome": "San Vero Milis"
+              },
+              {
+                "@nome": "Santa Giusta"
+              },
+              {
+                "@nome": "Siamaggiore"
+              },
+              {
+                "@nome": "Solarussa"
+              },
+              {
+                "@nome": "Tramatza"
+              },
+              {
+                "@nome": "Villaurbana"
+              },
+              {
+                "@nome": "Zeddiani"
+              },
+              {
+                "@nome": "Zerfaliu"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Valle del Tirso' Rosso",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "vino 'Valle del Tirso'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": [
+          {
+            "@nome": "Provincia di Oristano"
+          },
+          {
+            "@nome": "Provincia di Oristano",
+            "Città": [
+              {
+                "@nome": "Baratili San Pietro"
+              },
+              {
+                "@nome": "Cabras, Sardinia"
+              },
+              {
+                "@nome": "Milis"
+              },
+              {
+                "@nome": "Narbolia"
+              },
+              {
+                "@nome": "Nurachi"
+              },
+              {
+                "@nome": "Ollastra"
+              },
+              {
+                "@nome": "Oristano"
+              },
+              {
+                "@nome": "Palmas Arborea"
+              },
+              {
+                "@nome": "Riola Sardo"
+              },
+              {
+                "@nome": "San Vero Milis"
+              },
+              {
+                "@nome": "Santa Giusta"
+              },
+              {
+                "@nome": "Siamaggiore"
+              },
+              {
+                "@nome": "Solarussa"
+              },
+              {
+                "@nome": "Tramatza"
+              },
+              {
+                "@nome": "Villaurbana"
+              },
+              {
+                "@nome": "Zeddiani"
+              },
+              {
+                "@nome": "Zerfaliu"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Valle del Tirso' Bianco Frizzante, varietà vitigno a bacca bianca ammesso e classificato per la Regione'",
+    "Tipologia": "vino 'Bianco Frizzante'",
+    "Denominazione": "vino 'Valle del Tirso'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Malvasia': 0%, Vitigno 'Monica': 0%, Vitigno 'Moscato': 0%, Vitigno 'Nasco': 0%, Vitigno 'Nuragus': 0%, Vitigno 'Semidano': 0%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione': minimo (>=) 85%, Vitigno 'Vermentino': 0%, Vitigno 'Vernaccia': 0%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia', Vitigno 'Monica', Vitigno 'Moscato', Vitigno 'Nasco', Vitigno 'Nuragus', Vitigno 'Semidano', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione', Vitigno 'Vermentino', Vitigno 'Vernaccia'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Sardegna (isola)",
+        "Provincia": [
+          {
+            "@nome": "Provincia di Oristano"
+          },
+          {
+            "@nome": "Provincia di Oristano",
+            "Città": [
+              {
+                "@nome": "Baratili San Pietro"
+              },
+              {
+                "@nome": "Cabras, Sardinia"
+              },
+              {
+                "@nome": "Milis"
+              },
+              {
+                "@nome": "Narbolia"
+              },
+              {
+                "@nome": "Nurachi"
+              },
+              {
+                "@nome": "Ollastra"
+              },
+              {
+                "@nome": "Oristano"
+              },
+              {
+                "@nome": "Palmas Arborea"
+              },
+              {
+                "@nome": "Riola Sardo"
+              },
+              {
+                "@nome": "San Vero Milis"
+              },
+              {
+                "@nome": "Santa Giusta"
+              },
+              {
+                "@nome": "Siamaggiore"
+              },
+              {
+                "@nome": "Solarussa"
+              },
+              {
+                "@nome": "Tramatza"
+              },
+              {
+                "@nome": "Villaurbana"
+              },
+              {
+                "@nome": "Zeddiani"
+              },
+              {
+                "@nome": "Zerfaliu"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

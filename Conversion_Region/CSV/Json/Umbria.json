@@ -1,0 +1,505 @@
+[
+  {
+    "@nome": "Vino 'Bettona' Bianco, varietà due vitigni a bacca bianca ammessi e classificati per la Regione'",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "IGT vino 'Bettona'",
+    "Descrizione": "Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Perugia"
+          }
+        },
+        {
+          "@nome": "Umbria",
+          "Provincia": {
+            "@nome": "Provincia di Perugia",
+            "Città": {
+              "@nome": "Bettona"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Bettona' Bianco",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "IGT vino 'Bettona'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Perugia"
+          }
+        },
+        {
+          "@nome": "Umbria",
+          "Provincia": {
+            "@nome": "Provincia di Perugia",
+            "Città": {
+              "@nome": "Bettona"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Bettona' Novello",
+    "Tipologia": "vino 'Novello ', vino 'Novello'",
+    "Denominazione": "IGT vino 'Bettona'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Perugia"
+          }
+        },
+        {
+          "@nome": "Umbria",
+          "Provincia": {
+            "@nome": "Provincia di Perugia",
+            "Città": {
+              "@nome": "Bettona"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Bettona' Rosato",
+    "Tipologia": "vino 'Rosato'",
+    "Denominazione": "IGT vino 'Bettona'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Perugia"
+          }
+        },
+        {
+          "@nome": "Umbria",
+          "Provincia": {
+            "@nome": "Provincia di Perugia",
+            "Città": {
+              "@nome": "Bettona"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Bettona' Bianco, varietà vitigno a bacca bianca ammesso e classificato per la Regione'",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "IGT vino 'Bettona'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Perugia"
+          }
+        },
+        {
+          "@nome": "Umbria",
+          "Provincia": {
+            "@nome": "Provincia di Perugia",
+            "Città": {
+              "@nome": "Bettona"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Bettona' Rosso",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "IGT vino 'Bettona'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Perugia"
+          }
+        },
+        {
+          "@nome": "Umbria",
+          "Provincia": {
+            "@nome": "Provincia di Perugia",
+            "Città": {
+              "@nome": "Bettona"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Bettona' Rosato Novello",
+    "Tipologia": "vino 'Rosato Novello'",
+    "Denominazione": "IGT vino 'Bettona'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Perugia"
+          }
+        },
+        {
+          "@nome": "Umbria",
+          "Provincia": {
+            "@nome": "Provincia di Perugia",
+            "Città": {
+              "@nome": "Bettona"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Bettona' Rosso, varietà vitigno a bacca nera ammesso e classificato per la Regione'",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "IGT vino 'Bettona'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Perugia"
+          }
+        },
+        {
+          "@nome": "Umbria",
+          "Provincia": {
+            "@nome": "Provincia di Perugia",
+            "Città": {
+              "@nome": "Bettona"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Bettona' Rosso, varietà due vitigni a bacca nera ammessi e classificati per la Regione'",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "IGT vino 'Bettona'",
+    "Descrizione": "Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Perugia"
+          }
+        },
+        {
+          "@nome": "Umbria",
+          "Provincia": {
+            "@nome": "Provincia di Perugia",
+            "Città": {
+              "@nome": "Bettona"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Bettona' Bianco Frizzante",
+    "Tipologia": "vino 'Bianco Frizzante'",
+    "Denominazione": "IGT vino 'Bettona'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Perugia"
+          }
+        },
+        {
+          "@nome": "Umbria",
+          "Provincia": {
+            "@nome": "Provincia di Perugia",
+            "Città": {
+              "@nome": "Bettona"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Torgiano' Bianco Vin Santo Torgiano",
+    "Tipologia": "vino 'Bianco Vin Santo Torgiano'",
+    "Denominazione": "DOC vino 'Torgiano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 50%, Vitigno 'Trebbiano Toscano': massimo (<=) 70%, Vitigno 'Trebbiano Toscano': minimo (>=) 50%",
+    "ValoreMinimo": "50%",
+    "ValoreMassimo": "50%, 70%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Trebbiano Toscano'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Umbria",
+        "Provincia": {
+          "@nome": "Provincia di Perugia",
+          "Città": {
+            "@nome": "Torgiano"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Torgiano' Rosato Di Torgiano",
+    "Tipologia": "vino 'Rosato Di Torgiano'",
+    "Denominazione": "DOC vino 'Torgiano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 50%, Vitigno 'Sangiovese': massimo (<=) 70%, Vitigno 'Sangiovese': minimo (>=) 50%",
+    "ValoreMinimo": "50%",
+    "ValoreMassimo": "50%, 70%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Sangiovese'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Umbria",
+        "Provincia": {
+          "@nome": "Provincia di Perugia",
+          "Città": {
+            "@nome": "Torgiano"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Torgiano' Rosso, varietà Pinot Nero di Torgiano'",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "DOC vino 'Torgiano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Pinot Nero': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Pinot Nero'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Umbria",
+        "Provincia": {
+          "@nome": "Provincia di Perugia",
+          "Città": {
+            "@nome": "Torgiano"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Torgiano' Rosso Di Torgiano",
+    "Tipologia": "vino 'Rosso Di Torgiano'",
+    "Denominazione": "DOC vino 'Torgiano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 50%, Vitigno 'Sangiovese': massimo (<=) 70%, Vitigno 'Sangiovese': minimo (>=) 50%",
+    "ValoreMinimo": "50%",
+    "ValoreMassimo": "50%, 70%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Sangiovese'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Umbria",
+        "Provincia": {
+          "@nome": "Provincia di Perugia",
+          "Città": {
+            "@nome": "Torgiano"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Torgiano' Bianco Di Torgiano",
+    "Tipologia": "vino 'Bianco Di Torgiano'",
+    "Denominazione": "DOC vino 'Torgiano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 50%, Vitigno 'Trebbiano Toscano': massimo (<=) 70%, Vitigno 'Trebbiano Toscano': minimo (>=) 50%",
+    "ValoreMinimo": "50%",
+    "ValoreMassimo": "50%, 70%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Trebbiano Toscano'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Umbria",
+        "Provincia": {
+          "@nome": "Provincia di Perugia",
+          "Città": {
+            "@nome": "Torgiano"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Torgiano' Bianco Spumante Torgiano",
+    "Tipologia": "vino 'Bianco Spumante Torgiano'",
+    "Denominazione": "DOC vino 'Torgiano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca O Nera': massimo (<=) 15%, Vitigno 'Chardonnay': massimo (<=) 50%, Vitigno 'Pinot Nero': massimo (<=) 50%",
+    "ValoreMassimo": "15%, 50%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca O Nera', Vitigno 'Chardonnay', Vitigno 'Pinot Nero'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Umbria",
+        "Provincia": {
+          "@nome": "Provincia di Perugia",
+          "Città": {
+            "@nome": "Torgiano"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Torgiano' Bianco, varietà Chardonnay di Torgiano'",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "DOC vino 'Torgiano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Chardonnay': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Umbria",
+        "Provincia": {
+          "@nome": "Provincia di Perugia",
+          "Città": {
+            "@nome": "Torgiano"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Torgiano' Bianco, varietà Pinot Grigio di Torgiano'",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "DOC vino 'Torgiano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Pinot Grigio': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Pinot Grigio'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Umbria",
+        "Provincia": {
+          "@nome": "Provincia di Perugia",
+          "Città": {
+            "@nome": "Torgiano"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Torgiano' Rosso, varietà Cabernet Sauvignon di Torgiano'",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "DOC vino 'Torgiano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Cabernet Sauvignon': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cabernet Sauvignon'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Umbria",
+        "Provincia": {
+          "@nome": "Provincia di Perugia",
+          "Città": {
+            "@nome": "Torgiano"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Torgiano' Bianco Vendemmia Tardiva Torgiano",
+    "Tipologia": "vino 'Bianco Vendemmia Tardiva Torgiano'",
+    "Denominazione": "DOC vino 'Torgiano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 50%, Vitigno 'Chardonnay': minimo (>=) 50%",
+    "ValoreMinimo": "50%",
+    "ValoreMassimo": "50%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Umbria",
+        "Provincia": {
+          "@nome": "Provincia di Perugia",
+          "Città": {
+            "@nome": "Torgiano"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Torgiano' Bianco, varietà Riesling Italico di Torgiano'",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "DOC vino 'Torgiano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Riesling Italico': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Riesling Italico'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Umbria",
+        "Provincia": {
+          "@nome": "Provincia di Perugia",
+          "Città": {
+            "@nome": "Torgiano"
+          }
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Torgiano' Rosso, varietà Merlot di Torgiano'",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "DOC vino 'Torgiano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Merlot': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Merlot'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Umbria",
+        "Provincia": {
+          "@nome": "Provincia di Perugia",
+          "Città": {
+            "@nome": "Torgiano"
+          }
+        }
+      }
+    }
+  }
+]

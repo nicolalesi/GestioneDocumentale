@@ -1,0 +1,814 @@
+[
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Bianco Frizzante, varietà vitigno a bacca bianca tra: Chardonnay, Coda di Volpe, Falanghina, Fiano, Greco, Malvasia , Moscato'",
+    "Tipologia": "vino 'Bianco Frizzante'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Chardonnay', Vitigno 'Coda Di Volpe', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Moscato': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Coda Di Volpe', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Moscato'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Novello, varietà vitigno a bacca nera tra: Aglianico, Barbera, Cabernet Sauvignon, Merlot, Piedirosso, Sangiovese, Sciascinoso'",
+    "Tipologia": "vino 'Novello ', vino 'Novello'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Aglianico', Vitigno 'Barbera', Vitigno 'Cabernet Sauvignon', Vitigno 'Merlot', Vitigno 'Piedirosso', Vitigno 'Sangiovese', Vitigno 'Sciascinoso': minimo (>=) 85%, Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Aglianico', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Cabernet Sauvignon', Vitigno 'Merlot', Vitigno 'Piedirosso', Vitigno 'Sangiovese', Vitigno 'Sciascinoso'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Rosso Passito",
+    "Tipologia": "vino 'Rosso Passito'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Rosso",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Bianco Frizzante",
+    "Tipologia": "vino 'Bianco Frizzante'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Rosso Frizzante, varietà vitigno a bacca nera tra: Aglianico, Barbera, Cabernet Sauvignon, Merlot, Piedirosso, Sangiovese, Sciascinoso'",
+    "Tipologia": "vino 'Rosso Frizzante'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Aglianico', Vitigno 'Barbera', Vitigno 'Cabernet Sauvignon', Vitigno 'Merlot', Vitigno 'Piedirosso', Vitigno 'Sangiovese', Vitigno 'Sciascinoso': minimo (>=) 85%, Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Aglianico', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Cabernet Sauvignon', Vitigno 'Merlot', Vitigno 'Piedirosso', Vitigno 'Sangiovese', Vitigno 'Sciascinoso'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Rosato Frizzante",
+    "Tipologia": "vino 'Rosato Frizzante'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Rosso Frizzante",
+    "Tipologia": "vino 'Rosso Frizzante'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Rosso Passito, varietà vitigno a bacca nera tra: Aglianico, Barbera, Cabernet Sauvignon, Merlot, Piedirosso, Sangiovese, Sciascinoso'",
+    "Tipologia": "vino 'Rosso Passito'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Aglianico', Vitigno 'Barbera', Vitigno 'Cabernet Sauvignon', Vitigno 'Merlot', Vitigno 'Piedirosso', Vitigno 'Sangiovese', Vitigno 'Sciascinoso': minimo (>=) 85%, Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Aglianico', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Cabernet Sauvignon', Vitigno 'Merlot', Vitigno 'Piedirosso', Vitigno 'Sangiovese', Vitigno 'Sciascinoso'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Bianco, varietà vitigno a bacca bianca tra: Chardonnay, Coda di Volpe, Falanghina, Fiano, Greco, Malvasia , Moscato'",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Chardonnay', Vitigno 'Coda Di Volpe', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Moscato': minimo (>=) 85%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Coda Di Volpe', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Moscato'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Rosato",
+    "Tipologia": "vino 'Rosato'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Bianco",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Novello",
+    "Tipologia": "vino 'Novello ', vino 'Novello'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Rosso, varietà vitigno a bacca nera tra: Aglianico, Barbera, Cabernet Sauvignon, Merlot, Piedirosso, Sangiovese, Sciascinoso'",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Aglianico', Vitigno 'Barbera', Vitigno 'Cabernet Sauvignon', Vitigno 'Merlot', Vitigno 'Piedirosso', Vitigno 'Sangiovese', Vitigno 'Sciascinoso': minimo (>=) 85%, Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%",
+    "ValoreMinimo": "85%",
+    "ValoreMassimo": "15%",
+    "MateriaPrima": "Vitigno 'Aglianico', Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Barbera', Vitigno 'Cabernet Sauvignon', Vitigno 'Merlot', Vitigno 'Piedirosso', Vitigno 'Sangiovese', Vitigno 'Sciascinoso'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Bianco Passito, varietà vitigno a bacca bianca tra: Chardonnay, Coda di Volpe, Falanghina, Fiano, Greco, Malvasia , Moscato'",
+    "Tipologia": "vino 'Bianco Passito'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': 15%, Vitigno 'Chardonnay', Vitigno 'Coda Di Volpe', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Moscato': 85%",
+    "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay', Vitigno 'Coda Di Volpe', Vitigno 'Falanghina', Vitigno 'Fiano', Vitigno 'Greco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Moscato'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Benevento o Beneventano' Bianco Passito",
+    "Tipologia": "vino 'Bianco Passito'",
+    "Denominazione": "IGT vino 'Benevento o Beneventano'",
+    "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione': 100%",
+    "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+    "Luogo": {
+      "Regione": {
+        "@nome": "Campania",
+        "Provincia": {
+          "@nome": "Provincia di Benevento"
+        }
+      }
+    }
+  },
+  {
+    "@nome": "Vino 'Vesuvio' Bianco",
+    "Tipologia": "vino 'Bianco'",
+    "Denominazione": "DOC vino 'Vesuvio'",
+    "Descrizione": "Vitigno 'Coda Di Volpe (Localmente Detto Caprettone O Crapettone)': minimo (>=) 35%, Vitigno 'Falanghina', Vitigno 'Greco': massimo (<=) 20%, Vitigno 'Verdeca': massimo (<=) 45%",
+    "ValoreMinimo": "35%",
+    "ValoreMassimo": "20%, 45%",
+    "MateriaPrima": "Vitigno 'Coda Di Volpe (Localmente Detto Caprettone O Crapettone)', Vitigno 'Falanghina', Vitigno 'Greco', Vitigno 'Verdeca'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Campania",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Naples"
+            },
+            {
+              "@nome": "Provincia di Agrigento",
+              "Città": [
+                {
+                  "@nome": "Boscoreale"
+                },
+                {
+                  "@nome": "Boscotrecase"
+                },
+                {
+                  "@nome": "Cercola"
+                },
+                {
+                  "@nome": "Ercolano"
+                },
+                {
+                  "@nome": "Pollena Trocchia"
+                },
+                {
+                  "@nome": "San Giuseppe Vesuviano"
+                },
+                {
+                  "@nome": "Somma Vesuviana"
+                },
+                {
+                  "@nome": "Terzigno"
+                },
+                {
+                  "@nome": "Torre Annunziata"
+                },
+                {
+                  "@nome": "Torre del Greco"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Agrigento",
+            "Città": [
+              {
+                "@nome": "Portici"
+              },
+              {
+                "@nome": "San Sebastiano al Vesuvio"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vesuvio' Bianco Lacryma Christi",
+    "Tipologia": "vino 'Bianco Lacryma Christi'",
+    "Denominazione": "DOC vino 'Vesuvio'",
+    "Descrizione": "Vitigno 'Coda Di Volpe (Localmente Detto Caprettone O Crapettone)': minimo (>=) 35%, Vitigno 'Falanghina', Vitigno 'Greco': massimo (<=) 20%, Vitigno 'Verdeca': massimo (<=) 45%",
+    "ValoreMinimo": "35%",
+    "ValoreMassimo": "20%, 45%",
+    "MateriaPrima": "Vitigno 'Coda Di Volpe (Localmente Detto Caprettone O Crapettone)', Vitigno 'Falanghina', Vitigno 'Greco', Vitigno 'Verdeca'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Campania",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Naples"
+            },
+            {
+              "@nome": "Provincia di Agrigento",
+              "Città": [
+                {
+                  "@nome": "Boscoreale"
+                },
+                {
+                  "@nome": "Boscotrecase"
+                },
+                {
+                  "@nome": "Cercola"
+                },
+                {
+                  "@nome": "Ercolano"
+                },
+                {
+                  "@nome": "Pollena Trocchia"
+                },
+                {
+                  "@nome": "San Giuseppe Vesuviano"
+                },
+                {
+                  "@nome": "Somma Vesuviana"
+                },
+                {
+                  "@nome": "Terzigno"
+                },
+                {
+                  "@nome": "Torre Annunziata"
+                },
+                {
+                  "@nome": "Torre del Greco"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Agrigento",
+            "Città": [
+              {
+                "@nome": "Portici"
+              },
+              {
+                "@nome": "San Sebastiano al Vesuvio"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vesuvio' Rosso",
+    "Tipologia": "vino 'Rosso'",
+    "Denominazione": "DOC vino 'Vesuvio'",
+    "Descrizione": "Vitigno 'Aglianico': massimo (<=) 20%, Vitigno 'Piedirosso (Localmente Detto Palombina)': minimo (>=) 50%, Vitigno 'Sciascinoso (Localmente Detto Olivella)': massimo (<=) 30%",
+    "ValoreMinimo": "50%",
+    "ValoreMassimo": "20%, 30%",
+    "MateriaPrima": "Vitigno 'Aglianico', Vitigno 'Piedirosso (Localmente Detto Palombina)', Vitigno 'Sciascinoso (Localmente Detto Olivella)'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Campania",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Naples"
+            },
+            {
+              "@nome": "Provincia di Agrigento",
+              "Città": [
+                {
+                  "@nome": "Boscoreale"
+                },
+                {
+                  "@nome": "Boscotrecase"
+                },
+                {
+                  "@nome": "Cercola"
+                },
+                {
+                  "@nome": "Ercolano"
+                },
+                {
+                  "@nome": "Pollena Trocchia"
+                },
+                {
+                  "@nome": "San Giuseppe Vesuviano"
+                },
+                {
+                  "@nome": "Somma Vesuviana"
+                },
+                {
+                  "@nome": "Terzigno"
+                },
+                {
+                  "@nome": "Torre Annunziata"
+                },
+                {
+                  "@nome": "Torre del Greco"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Agrigento",
+            "Città": [
+              {
+                "@nome": "Portici"
+              },
+              {
+                "@nome": "San Sebastiano al Vesuvio"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vesuvio' Bianco Spumante Lacryma Christi",
+    "Tipologia": "vino 'Bianco Spumante Lacryma Christi'",
+    "Denominazione": "DOC vino 'Vesuvio'",
+    "Descrizione": "Vitigno 'Coda Di Volpe (Localmente Detto Caprettone O Crapettone)': minimo (>=) 35%, Vitigno 'Falanghina', Vitigno 'Greco': massimo (<=) 20%, Vitigno 'Verdeca': massimo (<=) 45%",
+    "ValoreMinimo": "35%",
+    "ValoreMassimo": "20%, 45%",
+    "MateriaPrima": "Vitigno 'Coda Di Volpe (Localmente Detto Caprettone O Crapettone)', Vitigno 'Falanghina', Vitigno 'Greco', Vitigno 'Verdeca'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Campania",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Naples"
+            },
+            {
+              "@nome": "Provincia di Agrigento",
+              "Città": [
+                {
+                  "@nome": "Boscoreale"
+                },
+                {
+                  "@nome": "Boscotrecase"
+                },
+                {
+                  "@nome": "Cercola"
+                },
+                {
+                  "@nome": "Ercolano"
+                },
+                {
+                  "@nome": "Pollena Trocchia"
+                },
+                {
+                  "@nome": "San Giuseppe Vesuviano"
+                },
+                {
+                  "@nome": "Somma Vesuviana"
+                },
+                {
+                  "@nome": "Terzigno"
+                },
+                {
+                  "@nome": "Torre Annunziata"
+                },
+                {
+                  "@nome": "Torre del Greco"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Agrigento",
+            "Città": [
+              {
+                "@nome": "Portici"
+              },
+              {
+                "@nome": "San Sebastiano al Vesuvio"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vesuvio' Rosso Lacryma Christi",
+    "Tipologia": "vino 'Rosso Lacryma Christi'",
+    "Denominazione": "DOC vino 'Vesuvio'",
+    "Descrizione": "Vitigno 'Aglianico': massimo (<=) 20%, Vitigno 'Piedirosso (Localmente Detto Palombina)': minimo (>=) 50%, Vitigno 'Sciascinoso (Localmente Detto Olivella)': massimo (<=) 30%",
+    "ValoreMinimo": "50%",
+    "ValoreMassimo": "20%, 30%",
+    "MateriaPrima": "Vitigno 'Aglianico', Vitigno 'Piedirosso (Localmente Detto Palombina)', Vitigno 'Sciascinoso (Localmente Detto Olivella)'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Campania",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Naples"
+            },
+            {
+              "@nome": "Provincia di Agrigento",
+              "Città": [
+                {
+                  "@nome": "Boscoreale"
+                },
+                {
+                  "@nome": "Boscotrecase"
+                },
+                {
+                  "@nome": "Cercola"
+                },
+                {
+                  "@nome": "Ercolano"
+                },
+                {
+                  "@nome": "Pollena Trocchia"
+                },
+                {
+                  "@nome": "San Giuseppe Vesuviano"
+                },
+                {
+                  "@nome": "Somma Vesuviana"
+                },
+                {
+                  "@nome": "Terzigno"
+                },
+                {
+                  "@nome": "Torre Annunziata"
+                },
+                {
+                  "@nome": "Torre del Greco"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Agrigento",
+            "Città": [
+              {
+                "@nome": "Portici"
+              },
+              {
+                "@nome": "San Sebastiano al Vesuvio"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vesuvio' Rosato Lacryma Christi",
+    "Tipologia": "vino 'Rosato Lacryma Christi'",
+    "Denominazione": "DOC vino 'Vesuvio'",
+    "Descrizione": "Vitigno 'Aglianico': massimo (<=) 20%, Vitigno 'Piedirosso (Localmente Detto Palombina)': minimo (>=) 50%, Vitigno 'Sciascinoso (Localmente Detto Olivella)': massimo (<=) 30%",
+    "ValoreMinimo": "50%",
+    "ValoreMassimo": "20%, 30%",
+    "MateriaPrima": "Vitigno 'Aglianico', Vitigno 'Piedirosso (Localmente Detto Palombina)', Vitigno 'Sciascinoso (Localmente Detto Olivella)'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Campania",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Naples"
+            },
+            {
+              "@nome": "Provincia di Agrigento",
+              "Città": [
+                {
+                  "@nome": "Boscoreale"
+                },
+                {
+                  "@nome": "Boscotrecase"
+                },
+                {
+                  "@nome": "Cercola"
+                },
+                {
+                  "@nome": "Ercolano"
+                },
+                {
+                  "@nome": "Pollena Trocchia"
+                },
+                {
+                  "@nome": "San Giuseppe Vesuviano"
+                },
+                {
+                  "@nome": "Somma Vesuviana"
+                },
+                {
+                  "@nome": "Terzigno"
+                },
+                {
+                  "@nome": "Torre Annunziata"
+                },
+                {
+                  "@nome": "Torre del Greco"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Agrigento",
+            "Città": [
+              {
+                "@nome": "Portici"
+              },
+              {
+                "@nome": "San Sebastiano al Vesuvio"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vesuvio' Bianco Liquoroso Lacryma Christi",
+    "Tipologia": "vino 'Bianco Liquoroso Lacryma Christi'",
+    "Denominazione": "DOC vino 'Vesuvio'",
+    "Descrizione": "Vitigno 'Coda Di Volpe (Localmente Detto Caprettone O Crapettone)': minimo (>=) 35%, Vitigno 'Falanghina', Vitigno 'Greco': massimo (<=) 20%, Vitigno 'Verdeca': massimo (<=) 45%",
+    "ValoreMinimo": "35%",
+    "ValoreMassimo": "20%, 45%",
+    "MateriaPrima": "Vitigno 'Coda Di Volpe (Localmente Detto Caprettone O Crapettone)', Vitigno 'Falanghina', Vitigno 'Greco', Vitigno 'Verdeca'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Campania",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Naples"
+            },
+            {
+              "@nome": "Provincia di Agrigento",
+              "Città": [
+                {
+                  "@nome": "Boscoreale"
+                },
+                {
+                  "@nome": "Boscotrecase"
+                },
+                {
+                  "@nome": "Cercola"
+                },
+                {
+                  "@nome": "Ercolano"
+                },
+                {
+                  "@nome": "Pollena Trocchia"
+                },
+                {
+                  "@nome": "San Giuseppe Vesuviano"
+                },
+                {
+                  "@nome": "Somma Vesuviana"
+                },
+                {
+                  "@nome": "Terzigno"
+                },
+                {
+                  "@nome": "Torre Annunziata"
+                },
+                {
+                  "@nome": "Torre del Greco"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Agrigento",
+            "Città": [
+              {
+                "@nome": "Portici"
+              },
+              {
+                "@nome": "San Sebastiano al Vesuvio"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@nome": "Vino 'Vesuvio' Rosato",
+    "Tipologia": "vino 'Rosato'",
+    "Denominazione": "DOC vino 'Vesuvio'",
+    "Descrizione": "Vitigno 'Aglianico': massimo (<=) 20%, Vitigno 'Piedirosso (Localmente Detto Palombina)': minimo (>=) 50%, Vitigno 'Sciascinoso (Localmente Detto Olivella)': massimo (<=) 30%",
+    "ValoreMinimo": "50%",
+    "ValoreMassimo": "20%, 30%",
+    "MateriaPrima": "Vitigno 'Aglianico', Vitigno 'Piedirosso (Localmente Detto Palombina)', Vitigno 'Sciascinoso (Localmente Detto Olivella)'",
+    "Luogo": {
+      "Regione": [
+        {
+          "@nome": "Campania",
+          "Provincia": [
+            {
+              "@nome": "Provincia di Naples"
+            },
+            {
+              "@nome": "Provincia di Agrigento",
+              "Città": [
+                {
+                  "@nome": "Boscoreale"
+                },
+                {
+                  "@nome": "Boscotrecase"
+                },
+                {
+                  "@nome": "Cercola"
+                },
+                {
+                  "@nome": "Ercolano"
+                },
+                {
+                  "@nome": "Pollena Trocchia"
+                },
+                {
+                  "@nome": "San Giuseppe Vesuviano"
+                },
+                {
+                  "@nome": "Somma Vesuviana"
+                },
+                {
+                  "@nome": "Terzigno"
+                },
+                {
+                  "@nome": "Torre Annunziata"
+                },
+                {
+                  "@nome": "Torre del Greco"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@nome": "Valle d'Aosta",
+          "Provincia": {
+            "@nome": "Provincia di Agrigento",
+            "Città": [
+              {
+                "@nome": "Portici"
+              },
+              {
+                "@nome": "San Sebastiano al Vesuvio"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]
