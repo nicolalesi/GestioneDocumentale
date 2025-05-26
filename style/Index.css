@@ -38,7 +38,6 @@ li {
     max-width: 100%;
     margin-top: 40px;
     padding: 30px;
-    background-color:#F5EBDACC;
     box-sizing: border-box;
   }
   
@@ -89,7 +88,6 @@ li {
   
 /* CARD DOCUMENTI */
 .card-container {
-    background-color: #F5EBDACC ;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;

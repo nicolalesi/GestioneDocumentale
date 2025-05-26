@@ -1,0 +1,6 @@
+Nome,Tipologia,Denominazione,Descrizione,Valore minimo,Valore massimo,Materia prima,Regione,Province,Città
+Vino 'Cirò' Rosso Classico Superiore,vino 'Rosso',DOC vino 'Cirò',"Vitigno 'Gaglioppo': minimo (>=) 95%, Vitigno 'Altri Vitigni Locali': massimo (<=) 5%",95%,5%,"Vitigno 'Gaglioppo', Vitigno 'Altri Vitigni Locali'",Calabria,Provincia di Crotone,"Cirò, Cirò Marina"
+Vino 'Greco Bianco di Bianco',vino 'Bianco',DOC vino 'Greco Bianco',Vitigno 'Greco Bianco': 100%,100%,,Vitigno 'Greco Bianco',Calabria,Provincia di Reggio Calabria,Bianco
+Vino 'Melissa Bianco',vino 'Bianco',DOC vino 'Melissa',"Vitigno 'Greco Bianco': minimo (>=) 80%, Vitigno 'Trebbiano Toscano': massimo (<=) 20%",80%,20%,"Vitigno 'Greco Bianco', Vitigno 'Trebbiano Toscano'",Calabria,Provincia di Crotone,Melissa
+Vino 'Savuto Rosato',vino 'Rosato',DOC vino 'Savuto',"Vitigno 'Gaglioppo', 'Malvasia', 'Greco Nero', 'Sangiovese'",80%,20%,"Vitigno 'Gaglioppo', Vitigno 'Malvasia', Vitigno 'Greco Nero', Vitigno 'Sangiovese'",Calabria,Provincia di Cosenza,Marzi
+Vino 'Lamezia Rosso',vino 'Rosso',DOC vino 'Lamezia',"Vitigno 'Nerello Cappuccio', 'Gaglioppo'",80%,20%,"Vitigno 'Nerello Cappuccio', Vitigno 'Gaglioppo'",Calabria,Provincia di Catanzaro,Lamezia Terme

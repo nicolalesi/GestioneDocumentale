@@ -126,6 +126,7 @@ h1 {
 .single-province {
   font-size: 0.9rem;
 }
+
 @media (max-width: 768px) {
   body {
     padding: 1rem;

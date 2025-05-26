@@ -1,0 +1,6 @@
+Nome,Tipologia,Denominazione,Descrizione,Valore minimo,Valore massimo,Materia prima,Regione,Province,Città
+Vino 'Cinque Terre' Bianco Secco,vino 'Bianco',DOC vino 'Cinque Terre',"Vitigno 'Bosco': 60%, 'Albarola': 20%, 'Vermentino': 20%",60%,20%,"Vitigno 'Bosco', Vitigno 'Albarola', Vitigno 'Vermentino'",Liguria,Provincia della Spezia,"Riomaggiore, Vernazza"
+Vino 'Rossese di Dolceacqua',vino 'Rosso',DOC vino 'Rossese di Dolceacqua',Vitigno 'Rossese': 100%,100%,,Vitigno 'Rossese',Liguria,Provincia di Imperia,Dolceacqua
+Vino 'Pigato Riviera Ligure di Ponente',vino 'Bianco',DOC vino 'Riviera Ligure di Ponente',Vitigno 'Pigato': 100%,100%,,Vitigno 'Pigato',Liguria,Provincia di Savona,Albenga
+Vino 'Ormeasco di Pornassio',vino 'Rosso',DOC vino 'Ormeasco di Pornassio',"Vitigno 'Ormeasco': 95%, 'Altri': 5%",95%,5%,"Vitigno 'Ormeasco', Vitigno 'Altri'",Liguria,Provincia di Imperia,Pornassio
+Vino 'Colline di Levanto' Rosso,vino 'Rosso',DOC vino 'Colline di Levanto',"Vitigno 'Sangiovese', 'Ciliegiolo', 'Merlot'",,,"Vitigno 'Sangiovese', Vitigno 'Ciliegiolo', Vitigno 'Merlot'",Liguria,Provincia della Spezia,Levanto

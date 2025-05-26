@@ -1,0 +1,2493 @@
+{
+  "Vini": {
+    "Vino": [
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco, varietà vitigno a bacca bianca ammesso e classificato per la Provincia di Bolzano'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Riesling Italico': 0%, Vitigno 'Riesling Renano': 0%, Vitigno 'Traminer Aromatico': 0%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Provincia Di Bolzano': minimo (>=) 85%, Vitigno 'Veltliner': 0%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Traminer Aromatico', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Provincia Di Bolzano', Vitigno 'Veltliner'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso, varietà vitigno a bacca nera ammesso e classificato per la Provincia di Trento'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Lagrein': 0%, Vitigno 'Marzemino': 0%, Vitigno 'Negrara': 0%, Vitigno 'Pavana': 0%, Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Trento': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Lagrein', Vitigno 'Marzemino', Vitigno 'Negrara', Vitigno 'Pavana', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Trento'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso Passito",
+        "Tipologia": "vino 'Rosso Passito'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Moscato Rosa': 0%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Bolzano': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Rosa', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Bolzano', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco Frizzante, varietà vitigno a bacca bianca ammesso e classificato per la Provincia di Trento'",
+        "Tipologia": "vino 'Bianco Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Riesling Italico': 0%, Vitigno 'Riesling Renano': 0%, Vitigno 'Traminer Aromatico': 0%, Vitigno 'Trebbiano Toscano': 0%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Provincia Di Trento': minimo (>=) 85%, Vitigno 'Veltliner': 0%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Traminer Aromatico', Vitigno 'Trebbiano Toscano', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Provincia Di Trento', Vitigno 'Veltliner'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso Frizzante, varietà due vitigni a bacca nera ammessi e classificati per la Provincia di Trento'",
+        "Tipologia": "vino 'Rosso Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': 0%, Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento': minimo (>=) 85%, Vitigno 'Lagrein': 0%, Vitigno 'Marzemino': 0%, Vitigno 'Negrara': 0%, Vitigno 'Pavana': 0%",
+        "ValoreMinimo": "85%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento', Vitigno 'Lagrein', Vitigno 'Marzemino', Vitigno 'Negrara', Vitigno 'Pavana'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosato Frizzante",
+        "Tipologia": "vino 'Rosato Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Moscato Rosa': 0%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Bolzano': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Rosa', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Bolzano', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco, varietà due vitigni a bacca bianca ammessi e classificati per la Provincia di Belluno'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Bianchetta Trevigiana': 0%, Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Belluno': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Bianchetta Trevigiana', Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Belluno'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco Frizzante, varietà vitigno a bacca bianca ammesso e classificato per la Provincia di Bolzano'",
+        "Tipologia": "vino 'Bianco Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Riesling Italico': 0%, Vitigno 'Riesling Renano': 0%, Vitigno 'Traminer Aromatico': 0%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Provincia Di Bolzano': minimo (>=) 85%, Vitigno 'Veltliner': 0%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Traminer Aromatico', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Provincia Di Bolzano', Vitigno 'Veltliner'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosato",
+        "Tipologia": "vino 'Rosato'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Moscato Rosa': 0%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Bolzano': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Rosa', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Bolzano', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco Frizzante, varietà due vitigni a bacca bianca ammessi e classificati per la Provincia di Belluno'",
+        "Tipologia": "vino 'Bianco Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Bianchetta Trevigiana': 0%, Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Belluno': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Bianchetta Trevigiana', Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Belluno'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso, varietà vitigno a bacca nera ammesso e classificato per la Provincia di Bolzano'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Lagrein': 0%, Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Bolzano': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Lagrein', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Bolzano'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Novello",
+        "Tipologia": "vino 'Novello ', vino 'Novello'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Lagrein', Vitigno 'Teroldego': 100%, Vitigno 'Moscato Rosa': 0%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento': 100%",
+        "MateriaPrima": "Vitigno 'Lagrein', Vitigno 'Moscato Rosa', Vitigno 'Teroldego', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco Frizzante, varietà vitigno a bacca bianca ammesso e classificato per la Provincia di Belluno'",
+        "Tipologia": "vino 'Bianco Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Bianchetta Trevigiana': 0%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Provincia Di Belluno': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Bianchetta Trevigiana', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Provincia Di Belluno'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Moscato Bianco': 0%, Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Belluno': 100%, Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Bolzano': 100%, Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Trento': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Bianco', Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Belluno', Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Bolzano', Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Trento'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso Frizzante, varietà due vitigni a bacca nera ammessi e classificati per la Provincia di Belluno'",
+        "Tipologia": "vino 'Rosso Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno': minimo (>=) 85%, Vitigno 'Pavana': 0%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno', Vitigno 'Pavana'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco, varietà due vitigni a bacca bianca ammessi e classificati per la Provincia di Bolzano'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Bolzano': minimo (>=) 85%, Vitigno 'Riesling Italico': 0%, Vitigno 'Riesling Renano': 0%, Vitigno 'Traminer Aromatico': 0%, Vitigno 'Veltliner': 0%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Bolzano', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Traminer Aromatico', Vitigno 'Veltliner'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco Frizzante",
+        "Tipologia": "vino 'Bianco Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Moscato Bianco': 0%, Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Belluno': 100%, Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Bolzano': 100%, Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Trento': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Bianco', Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Belluno', Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Bolzano', Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Trento'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso, varietà vitigno a bacca nera ammesso e classificato per la Provincia di Belluno'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Pavana': 0%, Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Belluno': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Pavana', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Belluno'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso Frizzante, varietà vitigno a bacca nera ammesso e classificato per la Provincia di Bolzano'",
+        "Tipologia": "vino 'Rosso Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Lagrein': 0%, Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Bolzano': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Lagrein', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Bolzano'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco, varietà vitigno a bacca bianca ammesso e classificato per la Provincia di Belluno'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Bianchetta Trevigiana': 0%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Provincia Di Belluno': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Bianchetta Trevigiana', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Provincia Di Belluno'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco, varietà vitigno a bacca bianca ammesso e classificato per la Provincia di Trento'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Riesling Italico': 0%, Vitigno 'Riesling Renano': 0%, Vitigno 'Traminer Aromatico': 0%, Vitigno 'Trebbiano Toscano': 0%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Provincia Di Trento': minimo (>=) 85%, Vitigno 'Veltliner': 0%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Traminer Aromatico', Vitigno 'Trebbiano Toscano', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Provincia Di Trento', Vitigno 'Veltliner'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso, varietà due vitigni a bacca nera ammessi e classificati per la Provincia di Trento'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento': minimo (>=) 85%, Vitigno 'Lagrein': 0%, Vitigno 'Marzemino': 0%, Vitigno 'Negrara': 0%, Vitigno 'Pavana': 0%",
+        "ValoreMinimo": "85%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento', Vitigno 'Lagrein', Vitigno 'Marzemino', Vitigno 'Negrara', Vitigno 'Pavana'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso Frizzante",
+        "Tipologia": "vino 'Rosso Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Moscato Rosa': 0%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Bolzano': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Rosa', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Bolzano', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso Frizzante, varietà vitigno a bacca nera ammesso e classificato per la Provincia di Trento'",
+        "Tipologia": "vino 'Rosso Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Lagrein': 0%, Vitigno 'Marzemino': 0%, Vitigno 'Negrara': 0%, Vitigno 'Pavana': 0%, Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Trento': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Lagrein', Vitigno 'Marzemino', Vitigno 'Negrara', Vitigno 'Pavana', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Trento'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco Passito",
+        "Tipologia": "vino 'Bianco Passito'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Moscato Bianco': 0%, Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Belluno': 100%, Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Bolzano': 100%, Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Trento': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Bianco', Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Belluno', Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Bolzano', Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Trento'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco, varietà due vitigni a bacca bianca ammessi e classificati per la Provincia di Trento'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Trento': minimo (>=) 85%, Vitigno 'Riesling Italico': 0%, Vitigno 'Riesling Renano': 0%, Vitigno 'Traminer Aromatico': 0%, Vitigno 'Trebbiano Toscano': 0%, Vitigno 'Veltliner': 0%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Trento', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Traminer Aromatico', Vitigno 'Trebbiano Toscano', Vitigno 'Veltliner'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso Frizzante, varietà due vitigni a bacca nera ammessi e classificati per la Provincia di Bolzano'",
+        "Tipologia": "vino 'Rosso Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Lagrein': 0%, Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Bolzano': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Lagrein', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Bolzano'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Moscato Rosa': 0%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Bolzano': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Rosa', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Bolzano', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso, varietà due vitigni a bacca nera ammessi e classificati per la Provincia di Belluno'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno': minimo (>=) 85%, Vitigno 'Pavana': 0%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno', Vitigno 'Pavana'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosato Passito",
+        "Tipologia": "vino 'Rosato Passito'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Moscato Rosa': 0%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Bolzano': 100%, Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Rosa', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Belluno', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Bolzano', Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia Di Trento'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso, varietà due vitigni a bacca nera ammessi e classificati per la Provincia di Bolzano'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Lagrein': 0%, Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Bolzano': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Lagrein', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Bolzano'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco Frizzante, varietà due vitigni a bacca bianca ammessi e classificati per la Provincia di Bolzano'",
+        "Tipologia": "vino 'Bianco Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Bolzano': minimo (>=) 85%, Vitigno 'Riesling Italico': 0%, Vitigno 'Riesling Renano': 0%, Vitigno 'Traminer Aromatico': 0%, Vitigno 'Veltliner': 0%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Bolzano', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Traminer Aromatico', Vitigno 'Veltliner'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Bianco Frizzante, varietà due vitigni a bacca bianca ammessi e classificati per la Provincia di Trento'",
+        "Tipologia": "vino 'Bianco Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Trento': minimo (>=) 85%, Vitigno 'Riesling Italico': 0%, Vitigno 'Riesling Renano': 0%, Vitigno 'Traminer Aromatico': 0%, Vitigno 'Trebbiano Toscano': 0%, Vitigno 'Veltliner': 0%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia Di Trento', Vitigno 'Riesling Italico', Vitigno 'Riesling Renano', Vitigno 'Traminer Aromatico', Vitigno 'Trebbiano Toscano', Vitigno 'Veltliner'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vigneti delle Dolomiti o Weinberg Dolomiten' Rosso Frizzante, varietà vitigno a bacca nera ammesso e classificato per la Provincia di Belluno'",
+        "Tipologia": "vino 'Rosso Frizzante'",
+        "Denominazione": "IGT vino 'Vigneti delle Dolomiti o Weinberg Dolomiten'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Pavana': 0%, Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Belluno': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Pavana', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Provincia Di Belluno'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "South Tyrol"
+                  },
+                  {
+                    "@nome": "Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Veneto",
+              "Provincia": {
+                "@nome": "Provincia di Belluno"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Rosso Frizzante",
+        "Tipologia": "vino 'Rosso Frizzante'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia': 100%",
+        "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Novello, varietà due vitigni a bacca nera ammessi e classificati per la Regione'",
+        "Tipologia": "vino 'Novello ', vino 'Novello'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Regione': 100%, Vitigno 'Marzemino': 0%",
+        "MateriaPrima": "Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Regione', Vitigno 'Marzemino'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Bianco, varietà due vitigni a bacca bianca ammessi e classificati per la Regione'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione': 100%",
+        "MateriaPrima": "Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Rosato Frizzante",
+        "Tipologia": "vino 'Rosato Frizzante'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Provincia': 100%",
+        "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Provincia'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Rosso Frizzante, varietà due vitigni a bacca nera ammessi e classificati per la Regione'",
+        "Tipologia": "vino 'Rosso Frizzante'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Regione': 100%, Vitigno 'Marzemino': 0%",
+        "MateriaPrima": "Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Regione', Vitigno 'Marzemino'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Bianco Frizzante, varietà due vitigni a bacca bianca ammessi e classificati per la Regione'",
+        "Tipologia": "vino 'Bianco Frizzante'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione': 100%",
+        "MateriaPrima": "Vitigno 'Due Vitigni A Bacca Bianca Ammessi E Classificati Per La Regione'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Rosso Frizzante, varietà vitigno a bacca nera ammesso e classificato per la Regione'",
+        "Tipologia": "vino 'Rosso Frizzante'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Marzemino': 0%, Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Marzemino', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia': 100%",
+        "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Novello",
+        "Tipologia": "vino 'Novello ', vino 'Novello'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia': 100%",
+        "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Nera Ammessi E Classificati Per La Provincia'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Rosato",
+        "Tipologia": "vino 'Rosato'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Provincia': 100%",
+        "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca E Rossa Ammessi E Classificati Per La Provincia'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Rosso, varietà due vitigni a bacca nera ammessi e classificati per la Regione'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Regione': 100%, Vitigno 'Marzemino': 0%",
+        "MateriaPrima": "Vitigno 'Due Vitigni A Bacca Nera Ammessi E Classificati Per La Regione', Vitigno 'Marzemino'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Bianco Frizzante, varietà vitigno a bacca bianca ammesso e classificato per la Regione'",
+        "Tipologia": "vino 'Bianco Frizzante'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Novello, varietà vitigno a bacca nera ammesso e classificato per la Regione'",
+        "Tipologia": "vino 'Novello ', vino 'Novello'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Marzemino': 0%, Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Marzemino', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Rosso, varietà vitigno a bacca nera ammesso e classificato per la Regione'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Marzemino': 0%, Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Marzemino', Vitigno 'Un Vitigno A Bacca Nera Ammesso E Classificato Per La Regione'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Bianco, varietà vitigno a bacca bianca ammesso e classificato per la Regione'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Un Vitigno A Bacca Bianca Ammesso E Classificato Per La Regione'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Bianco",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia': 100%",
+        "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vallagarina Trento' Bianco Frizzante",
+        "Tipologia": "vino 'Bianco Frizzante'",
+        "Denominazione": "IGT vino 'Vallagarina Trento'",
+        "Descrizione": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia': 100%",
+        "MateriaPrima": "Vitigno 'Uno O Più Vitigni A Bacca Bianca Ammessi E Classificati Per La Provincia'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Aldeno"
+                  },
+                  {
+                    "@nome": "Avio, Trentino"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Trentino-Alto Adige",
+              "Provincia": {
+                "@nome": "Trentino (quotidiano)",
+                "Città": [
+                  {
+                    "@nome": "Ala, Trentino"
+                  },
+                  {
+                    "@nome": "Besenello"
+                  },
+                  {
+                    "@nome": "Brentonico"
+                  },
+                  {
+                    "@nome": "Cimone"
+                  },
+                  {
+                    "@nome": "Garniga Terme"
+                  },
+                  {
+                    "@nome": "Isera"
+                  },
+                  {
+                    "@nome": "Mori, Trentino"
+                  },
+                  {
+                    "@nome": "Nogaredo"
+                  },
+                  {
+                    "@nome": "Nomi, Trentino"
+                  },
+                  {
+                    "@nome": "Pomarolo"
+                  },
+                  {
+                    "@nome": "Rovereto"
+                  },
+                  {
+                    "@nome": "Terragnolo"
+                  },
+                  {
+                    "@nome": "Trambileno"
+                  },
+                  {
+                    "@nome": "Vallarsa"
+                  },
+                  {
+                    "@nome": "Villa Lagarina"
+                  },
+                  {
+                    "@nome": "Volano"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

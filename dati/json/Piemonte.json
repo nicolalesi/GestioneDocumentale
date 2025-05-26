@@ -1,0 +1,1434 @@
+{
+  "Vini": {
+    "Vino": [
+      {
+        "@nome": "Vino 'Valli Ossolane' Rosso Superiore, varietà Nebbiolo'",
+        "Tipologia": "vino 'Rosso Superiore'",
+        "Denominazione": "DOC vino 'Valli Ossolane'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Nebbiolo': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Nebbiolo'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Verbano Cusio Ossola",
+                "Città": {
+                  "@nome": "Domodossola"
+                }
+              },
+              {
+                "@nome": "Provincia di Verbano-Cusio-Ossola"
+              },
+              {
+                "@nome": "Provincia del Verbano-Cusio-Ossola",
+                "Città": [
+                  {
+                    "@nome": "Beura-Cardezza"
+                  },
+                  {
+                    "@nome": "Bognanco"
+                  },
+                  {
+                    "@nome": "Crevoladossola"
+                  },
+                  {
+                    "@nome": "Crodo"
+                  },
+                  {
+                    "@nome": "Masera"
+                  },
+                  {
+                    "@nome": "Montecrestese"
+                  },
+                  {
+                    "@nome": "Montescheno"
+                  },
+                  {
+                    "@nome": "Ornavasso"
+                  },
+                  {
+                    "@nome": "Pallanzeno"
+                  },
+                  {
+                    "@nome": "Piedimulera"
+                  },
+                  {
+                    "@nome": "Pieve Vergonte"
+                  },
+                  {
+                    "@nome": "Premosello-Chiovenda"
+                  },
+                  {
+                    "@nome": "Trontano"
+                  },
+                  {
+                    "@nome": "Viganella"
+                  },
+                  {
+                    "@nome": "Villadossola"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Valli Ossolane' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Valli Ossolane'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 40%, Vitigno 'Nebbiolo', Vitigno 'Croatina', Vitigno 'Merlot': minimo (>=) 60%",
+        "ValoreMinimo": "60%",
+        "ValoreMassimo": "40%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Croatina', Vitigno 'Merlot', Vitigno 'Nebbiolo'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Verbano Cusio Ossola",
+                "Città": {
+                  "@nome": "Domodossola"
+                }
+              },
+              {
+                "@nome": "Provincia di Verbano-Cusio-Ossola"
+              },
+              {
+                "@nome": "Provincia del Verbano-Cusio-Ossola",
+                "Città": [
+                  {
+                    "@nome": "Beura-Cardezza"
+                  },
+                  {
+                    "@nome": "Bognanco"
+                  },
+                  {
+                    "@nome": "Crevoladossola"
+                  },
+                  {
+                    "@nome": "Crodo"
+                  },
+                  {
+                    "@nome": "Masera"
+                  },
+                  {
+                    "@nome": "Montecrestese"
+                  },
+                  {
+                    "@nome": "Montescheno"
+                  },
+                  {
+                    "@nome": "Ornavasso"
+                  },
+                  {
+                    "@nome": "Pallanzeno"
+                  },
+                  {
+                    "@nome": "Piedimulera"
+                  },
+                  {
+                    "@nome": "Pieve Vergonte"
+                  },
+                  {
+                    "@nome": "Premosello-Chiovenda"
+                  },
+                  {
+                    "@nome": "Trontano"
+                  },
+                  {
+                    "@nome": "Viganella"
+                  },
+                  {
+                    "@nome": "Villadossola"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Valli Ossolane' Rosso, varietà Nebbiolo'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Valli Ossolane'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Nebbiolo': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Nebbiolo'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Verbano Cusio Ossola",
+                "Città": {
+                  "@nome": "Domodossola"
+                }
+              },
+              {
+                "@nome": "Provincia di Verbano-Cusio-Ossola"
+              },
+              {
+                "@nome": "Provincia del Verbano-Cusio-Ossola",
+                "Città": [
+                  {
+                    "@nome": "Beura-Cardezza"
+                  },
+                  {
+                    "@nome": "Bognanco"
+                  },
+                  {
+                    "@nome": "Crevoladossola"
+                  },
+                  {
+                    "@nome": "Crodo"
+                  },
+                  {
+                    "@nome": "Masera"
+                  },
+                  {
+                    "@nome": "Montecrestese"
+                  },
+                  {
+                    "@nome": "Montescheno"
+                  },
+                  {
+                    "@nome": "Ornavasso"
+                  },
+                  {
+                    "@nome": "Pallanzeno"
+                  },
+                  {
+                    "@nome": "Piedimulera"
+                  },
+                  {
+                    "@nome": "Pieve Vergonte"
+                  },
+                  {
+                    "@nome": "Premosello-Chiovenda"
+                  },
+                  {
+                    "@nome": "Trontano"
+                  },
+                  {
+                    "@nome": "Viganella"
+                  },
+                  {
+                    "@nome": "Villadossola"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Valli Ossolane' Bianco",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOC vino 'Valli Ossolane'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 40%, Vitigno 'Chardonnay': minimo (>=) 60%",
+        "ValoreMinimo": "60%",
+        "ValoreMassimo": "40%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Chardonnay'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Verbano Cusio Ossola",
+                "Città": {
+                  "@nome": "Domodossola"
+                }
+              },
+              {
+                "@nome": "Provincia di Verbano-Cusio-Ossola"
+              },
+              {
+                "@nome": "Provincia del Verbano-Cusio-Ossola",
+                "Città": [
+                  {
+                    "@nome": "Beura-Cardezza"
+                  },
+                  {
+                    "@nome": "Bognanco"
+                  },
+                  {
+                    "@nome": "Crevoladossola"
+                  },
+                  {
+                    "@nome": "Crodo"
+                  },
+                  {
+                    "@nome": "Masera"
+                  },
+                  {
+                    "@nome": "Montecrestese"
+                  },
+                  {
+                    "@nome": "Montescheno"
+                  },
+                  {
+                    "@nome": "Ornavasso"
+                  },
+                  {
+                    "@nome": "Pallanzeno"
+                  },
+                  {
+                    "@nome": "Piedimulera"
+                  },
+                  {
+                    "@nome": "Pieve Vergonte"
+                  },
+                  {
+                    "@nome": "Premosello-Chiovenda"
+                  },
+                  {
+                    "@nome": "Trontano"
+                  },
+                  {
+                    "@nome": "Viganella"
+                  },
+                  {
+                    "@nome": "Villadossola"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Valsusa' Novello",
+        "Tipologia": "vino 'Novello ', vino 'Novello'",
+        "Denominazione": "DOC vino 'Valsusa'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 40%, Vitigno 'Avanà', Vitigno 'Barbera', Vitigno 'Dolcetto', Vitigno 'Neretta Cuneese': minimo (>=) 60%",
+        "ValoreMinimo": "60%",
+        "ValoreMassimo": "40%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Avanà', Vitigno 'Barbera', Vitigno 'Dolcetto', Vitigno 'Neretta Cuneese'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Turin"
+              },
+              {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "Almese"
+                  },
+                  {
+                    "@nome": "Borgone Susa"
+                  },
+                  {
+                    "@nome": "Bussoleno"
+                  },
+                  {
+                    "@nome": "Caprie"
+                  },
+                  {
+                    "@nome": "Chianocco"
+                  },
+                  {
+                    "@nome": "Chiomonte"
+                  },
+                  {
+                    "@nome": "Condove"
+                  },
+                  {
+                    "@nome": "Exilles"
+                  },
+                  {
+                    "@nome": "Gravere"
+                  },
+                  {
+                    "@nome": "Mattie, Piedmont"
+                  },
+                  {
+                    "@nome": "Meana di Susa"
+                  },
+                  {
+                    "@nome": "Mompantero"
+                  },
+                  {
+                    "@nome": "Rubiana"
+                  },
+                  {
+                    "@nome": "San Didero"
+                  },
+                  {
+                    "@nome": "San Giorio di Susa"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Valsusa' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Valsusa'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 40%, Vitigno 'Avanà', Vitigno 'Barbera', Vitigno 'Dolcetto', Vitigno 'Neretta Cuneese': minimo (>=) 60%",
+        "ValoreMinimo": "60%",
+        "ValoreMassimo": "40%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Avanà', Vitigno 'Barbera', Vitigno 'Dolcetto', Vitigno 'Neretta Cuneese'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Turin"
+              },
+              {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "Almese"
+                  },
+                  {
+                    "@nome": "Borgone Susa"
+                  },
+                  {
+                    "@nome": "Bussoleno"
+                  },
+                  {
+                    "@nome": "Caprie"
+                  },
+                  {
+                    "@nome": "Chianocco"
+                  },
+                  {
+                    "@nome": "Chiomonte"
+                  },
+                  {
+                    "@nome": "Condove"
+                  },
+                  {
+                    "@nome": "Exilles"
+                  },
+                  {
+                    "@nome": "Gravere"
+                  },
+                  {
+                    "@nome": "Mattie, Piedmont"
+                  },
+                  {
+                    "@nome": "Meana di Susa"
+                  },
+                  {
+                    "@nome": "Mompantero"
+                  },
+                  {
+                    "@nome": "Rubiana"
+                  },
+                  {
+                    "@nome": "San Didero"
+                  },
+                  {
+                    "@nome": "San Giorio di Susa"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Verduno Pelaverga o Verduno' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Verduno Pelaverga o Verduno'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Pelaverga Piccolo': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Pelaverga Piccolo'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": {
+              "@nome": "Provincia di Cuneo",
+              "Città": [
+                {
+                  "@nome": "La Morra"
+                },
+                {
+                  "@nome": "Roddi"
+                },
+                {
+                  "@nome": "Verduno"
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Albugnano' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Albugnano'",
+        "Descrizione": "Vitigno 'Freisa', Vitigno 'Barbera', Vitigno 'Bonarda': massimo (<=) 15%, Vitigno 'Nebbiolo': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Barbera', Vitigno 'Bonarda', Vitigno 'Freisa', Vitigno 'Nebbiolo'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Asti"
+              },
+              {
+                "@nome": "Provincia di Asti",
+                "Città": [
+                  {
+                    "@nome": "Albugnano"
+                  },
+                  {
+                    "@nome": "Castelnuovo Don Bosco"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Vittoria' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Vittoria'",
+        "Descrizione": "Vitigno 'Calabrese': massimo (<=) 70%, Vitigno 'Calabrese': minimo (>=) 50%, Vitigno 'Frappato': massimo (<=) 50%, Vitigno 'Frappato': minimo (>=) 30%",
+        "ValoreMinimo": "30%, 50%",
+        "ValoreMassimo": "50%, 70%",
+        "MateriaPrima": "Vitigno 'Calabrese', Vitigno 'Frappato'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Sicilia",
+              "Provincia": [
+                {
+                  "@nome": "Libero consorzio comunale di Siracusa",
+                  "Città": {
+                    "@nome": "Priolo Gargallo"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Caltanissetta"
+                },
+                {
+                  "@nome": "Provincia di Ragusa"
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": {
+                    "@nome": "Favara, Sicily"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Caltanissetta",
+                  "Città": [
+                    {
+                      "@nome": "Butera"
+                    },
+                    {
+                      "@nome": "Gela"
+                    },
+                    {
+                      "@nome": "Niscemi"
+                    },
+                    {
+                      "@nome": "Riesi"
+                    }
+                  ]
+                },
+                {
+                  "@nome": "Provincia di Enna",
+                  "Città": {
+                    "@nome": "Piazza Armerina"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Ragusa",
+                  "Città": [
+                    {
+                      "@nome": "Acate"
+                    },
+                    {
+                      "@nome": "Chiaramonte Gulfi"
+                    },
+                    {
+                      "@nome": "Comiso"
+                    },
+                    {
+                      "@nome": "Santa Croce Camerina"
+                    }
+                  ]
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": [
+                    {
+                      "@nome": "Licodia Eubea"
+                    },
+                    {
+                      "@nome": "Mazzarrone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Piemonte",
+              "Provincia": {
+                "@nome": "Provincia di Alessandria",
+                "Città": {
+                  "@nome": "Castellazzo Bormida"
+                }
+              }
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Catania"
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": [
+                    {
+                      "@nome": "Caltagirone"
+                    },
+                    {
+                      "@nome": "Mazzarino"
+                    },
+                    {
+                      "@nome": "Ragusa, Italy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vittoria' Bianco, varietà Ansonica o Inzolia o Insolia:'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOC vino 'Vittoria'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': minimo (>=) 15%, Vitigno 'Ansonica': minimo (>=) 85%",
+        "ValoreMinimo": "15%, 85%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Ansonica'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Sicilia",
+              "Provincia": [
+                {
+                  "@nome": "Libero consorzio comunale di Siracusa",
+                  "Città": {
+                    "@nome": "Priolo Gargallo"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Caltanissetta"
+                },
+                {
+                  "@nome": "Provincia di Ragusa"
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": {
+                    "@nome": "Favara, Sicily"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Caltanissetta",
+                  "Città": [
+                    {
+                      "@nome": "Butera"
+                    },
+                    {
+                      "@nome": "Gela"
+                    },
+                    {
+                      "@nome": "Niscemi"
+                    },
+                    {
+                      "@nome": "Riesi"
+                    }
+                  ]
+                },
+                {
+                  "@nome": "Provincia di Enna",
+                  "Città": {
+                    "@nome": "Piazza Armerina"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Ragusa",
+                  "Città": [
+                    {
+                      "@nome": "Acate"
+                    },
+                    {
+                      "@nome": "Chiaramonte Gulfi"
+                    },
+                    {
+                      "@nome": "Comiso"
+                    },
+                    {
+                      "@nome": "Santa Croce Camerina"
+                    }
+                  ]
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": [
+                    {
+                      "@nome": "Licodia Eubea"
+                    },
+                    {
+                      "@nome": "Mazzarrone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Piemonte",
+              "Provincia": {
+                "@nome": "Provincia di Alessandria",
+                "Città": {
+                  "@nome": "Castellazzo Bormida"
+                }
+              }
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Catania"
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": [
+                    {
+                      "@nome": "Caltagirone"
+                    },
+                    {
+                      "@nome": "Mazzarino"
+                    },
+                    {
+                      "@nome": "Ragusa, Italy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vittoria' Rosso, varietà Calabrese o Nero d'Avola'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Vittoria'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 15%, Vitigno 'Calabrese O Calabrese': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Calabrese O Calabrese'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Sicilia",
+              "Provincia": [
+                {
+                  "@nome": "Libero consorzio comunale di Siracusa",
+                  "Città": {
+                    "@nome": "Priolo Gargallo"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Caltanissetta"
+                },
+                {
+                  "@nome": "Provincia di Ragusa"
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": {
+                    "@nome": "Favara, Sicily"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Caltanissetta",
+                  "Città": [
+                    {
+                      "@nome": "Butera"
+                    },
+                    {
+                      "@nome": "Gela"
+                    },
+                    {
+                      "@nome": "Niscemi"
+                    },
+                    {
+                      "@nome": "Riesi"
+                    }
+                  ]
+                },
+                {
+                  "@nome": "Provincia di Enna",
+                  "Città": {
+                    "@nome": "Piazza Armerina"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Ragusa",
+                  "Città": [
+                    {
+                      "@nome": "Acate"
+                    },
+                    {
+                      "@nome": "Chiaramonte Gulfi"
+                    },
+                    {
+                      "@nome": "Comiso"
+                    },
+                    {
+                      "@nome": "Santa Croce Camerina"
+                    }
+                  ]
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": [
+                    {
+                      "@nome": "Licodia Eubea"
+                    },
+                    {
+                      "@nome": "Mazzarrone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Piemonte",
+              "Provincia": {
+                "@nome": "Provincia di Alessandria",
+                "Città": {
+                  "@nome": "Castellazzo Bormida"
+                }
+              }
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Catania"
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": [
+                    {
+                      "@nome": "Caltagirone"
+                    },
+                    {
+                      "@nome": "Mazzarino"
+                    },
+                    {
+                      "@nome": "Ragusa, Italy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vittoria' Rosso, varietà Frappato'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Vittoria'",
+        "Descrizione": "Vitigno 'Calabrese', Vitigno 'Frappato': massimo (<=) 15%, Vitigno 'Frappato': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Calabrese', Vitigno 'Frappato'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Sicilia",
+              "Provincia": [
+                {
+                  "@nome": "Libero consorzio comunale di Siracusa",
+                  "Città": {
+                    "@nome": "Priolo Gargallo"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Caltanissetta"
+                },
+                {
+                  "@nome": "Provincia di Ragusa"
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": {
+                    "@nome": "Favara, Sicily"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Caltanissetta",
+                  "Città": [
+                    {
+                      "@nome": "Butera"
+                    },
+                    {
+                      "@nome": "Gela"
+                    },
+                    {
+                      "@nome": "Niscemi"
+                    },
+                    {
+                      "@nome": "Riesi"
+                    }
+                  ]
+                },
+                {
+                  "@nome": "Provincia di Enna",
+                  "Città": {
+                    "@nome": "Piazza Armerina"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Ragusa",
+                  "Città": [
+                    {
+                      "@nome": "Acate"
+                    },
+                    {
+                      "@nome": "Chiaramonte Gulfi"
+                    },
+                    {
+                      "@nome": "Comiso"
+                    },
+                    {
+                      "@nome": "Santa Croce Camerina"
+                    }
+                  ]
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": [
+                    {
+                      "@nome": "Licodia Eubea"
+                    },
+                    {
+                      "@nome": "Mazzarrone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Piemonte",
+              "Provincia": {
+                "@nome": "Provincia di Alessandria",
+                "Città": {
+                  "@nome": "Castellazzo Bormida"
+                }
+              }
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Catania"
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": [
+                    {
+                      "@nome": "Caltagirone"
+                    },
+                    {
+                      "@nome": "Mazzarino"
+                    },
+                    {
+                      "@nome": "Ragusa, Italy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vittoria' Novello",
+        "Tipologia": "vino 'Novello ', vino 'Novello'",
+        "Denominazione": "DOC vino 'Vittoria'",
+        "Descrizione": "Vitigno 'Calabrese', Vitigno 'Frappato': massimo (<=) 20%, Vitigno 'Calabrese', Vitigno 'Frappato': minimo (>=) 80%",
+        "ValoreMinimo": "80%",
+        "ValoreMassimo": "20%",
+        "MateriaPrima": "Vitigno 'Calabrese', Vitigno 'Frappato'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Sicilia",
+              "Provincia": [
+                {
+                  "@nome": "Libero consorzio comunale di Siracusa",
+                  "Città": {
+                    "@nome": "Priolo Gargallo"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Caltanissetta"
+                },
+                {
+                  "@nome": "Provincia di Ragusa"
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": {
+                    "@nome": "Favara, Sicily"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Caltanissetta",
+                  "Città": [
+                    {
+                      "@nome": "Butera"
+                    },
+                    {
+                      "@nome": "Gela"
+                    },
+                    {
+                      "@nome": "Niscemi"
+                    },
+                    {
+                      "@nome": "Riesi"
+                    }
+                  ]
+                },
+                {
+                  "@nome": "Provincia di Enna",
+                  "Città": {
+                    "@nome": "Piazza Armerina"
+                  }
+                },
+                {
+                  "@nome": "Provincia di Ragusa",
+                  "Città": [
+                    {
+                      "@nome": "Acate"
+                    },
+                    {
+                      "@nome": "Chiaramonte Gulfi"
+                    },
+                    {
+                      "@nome": "Comiso"
+                    },
+                    {
+                      "@nome": "Santa Croce Camerina"
+                    }
+                  ]
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": [
+                    {
+                      "@nome": "Licodia Eubea"
+                    },
+                    {
+                      "@nome": "Mazzarrone"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Piemonte",
+              "Provincia": {
+                "@nome": "Provincia di Alessandria",
+                "Città": {
+                  "@nome": "Castellazzo Bormida"
+                }
+              }
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Catania"
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": [
+                    {
+                      "@nome": "Caltagirone"
+                    },
+                    {
+                      "@nome": "Mazzarino"
+                    },
+                    {
+                      "@nome": "Ragusa, Italy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Asti Sottozona Canelli' Bianco",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOCG vino 'Asti Sottozona Canelli'",
+        "Descrizione": "Vitigno 'Moscato Bianco': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Bianco'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Piemonte",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Asti"
+                },
+                {
+                  "@nome": "Provincia di Cuneo"
+                },
+                {
+                  "@nome": "Provincia di Asti",
+                  "Città": [
+                    {
+                      "@nome": "Bubbio"
+                    },
+                    {
+                      "@nome": "Calamandrana"
+                    },
+                    {
+                      "@nome": "Calosso"
+                    },
+                    {
+                      "@nome": "Cassinasco"
+                    },
+                    {
+                      "@nome": "Castagnole delle Lanze"
+                    },
+                    {
+                      "@nome": "Coazzolo"
+                    },
+                    {
+                      "@nome": "Loazzolo"
+                    },
+                    {
+                      "@nome": "Moasca"
+                    },
+                    {
+                      "@nome": "San Marzano Oliveto"
+                    }
+                  ]
+                },
+                {
+                  "@nome": "Provincia di Cuneo",
+                  "Città": [
+                    {
+                      "@nome": "Castiglione Tinella"
+                    },
+                    {
+                      "@nome": "Cossano Belbo"
+                    },
+                    {
+                      "@nome": "Neive"
+                    },
+                    {
+                      "@nome": "Neviglie"
+                    },
+                    {
+                      "@nome": "Rocchetta Belbo"
+                    },
+                    {
+                      "@nome": "Santo Stefano Belbo"
+                    },
+                    {
+                      "@nome": "Serralunga d'Alba"
+                    },
+                    {
+                      "@nome": "Treiso"
+                    },
+                    {
+                      "@nome": "Trezzo Tinella"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "Camo"
+                  },
+                  {
+                    "@nome": "Canelli"
+                  },
+                  {
+                    "@nome": "Costigliole d'Asti"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Asti Sottozona Santa Vittoria d'Alba' Bianco",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOCG vino 'Asti Sottozona Santa Vittoria d'Alba'",
+        "Descrizione": "Vitigno 'Moscato Bianco': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Bianco'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": {
+              "@nome": "Provincia di Cuneo",
+              "Città": {
+                "@nome": "Santa Vittoria d'Alba"
+              }
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Asti Sottozona Santa Vittoria d'Alba' Bianco Vendemmia Tardiva",
+        "Tipologia": "vino 'Bianco Vendemmia Tardiva', vino 'Bianco Vendemmia Tardiva:'",
+        "Denominazione": "DOCG vino 'Asti Sottozona Santa Vittoria d'Alba'",
+        "Descrizione": "Vitigno 'Moscato Bianco': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Bianco'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": {
+              "@nome": "Provincia di Cuneo",
+              "Città": {
+                "@nome": "Santa Vittoria d'Alba"
+              }
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Asti Sottozona Strevi' Bianco",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOCG vino 'Asti Sottozona Strevi'",
+        "Descrizione": "Vitigno 'Moscato Bianco': 100%",
+        "MateriaPrima": "Vitigno 'Moscato Bianco'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Piemonte",
+              "Provincia": {
+                "@nome": "Provincia di Alessandria",
+                "Città": [
+                  {
+                    "@nome": "Acqui Terme"
+                  },
+                  {
+                    "@nome": "Alice Bel Colle"
+                  },
+                  {
+                    "@nome": "Bistagno"
+                  },
+                  {
+                    "@nome": "Grognardo"
+                  },
+                  {
+                    "@nome": "Ricaldone"
+                  },
+                  {
+                    "@nome": "Strevi"
+                  },
+                  {
+                    "@nome": "Terzo, Piedmont"
+                  },
+                  {
+                    "@nome": "Visone"
+                  }
+                ]
+              }
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": {
+                  "@nome": "Cassine"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Barbaresco con menzioni geografiche aggiuntive' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOCG vino 'Barbaresco con menzioni geografiche aggiuntive'",
+        "Descrizione": "Vitigno 'Nebbiolo': 100%",
+        "MateriaPrima": "Vitigno 'Nebbiolo'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": {
+              "@nome": "Provincia di Cuneo",
+              "Città": [
+                {
+                  "@nome": "Barbaresco, Piedmont"
+                },
+                {
+                  "@nome": "Neive"
+                },
+                {
+                  "@nome": "Treiso"
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Barolo con menzioni geografiche aggiuntive' Rosso Riserva",
+        "Tipologia": "vino 'Rosso Riserva'",
+        "Denominazione": "DOCG vino 'Barolo con menzioni geografiche aggiuntive'",
+        "Descrizione": "Vitigno 'Nebbiolo': 100%",
+        "MateriaPrima": "Vitigno 'Nebbiolo'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": {
+              "@nome": "Provincia di Cuneo",
+              "Città": [
+                {
+                  "@nome": "Barolo, Piedmont"
+                },
+                {
+                  "@nome": "Castiglione Falletto"
+                },
+                {
+                  "@nome": "Cherasco"
+                },
+                {
+                  "@nome": "Diano d'Alba"
+                },
+                {
+                  "@nome": "Grinzane Cavour"
+                },
+                {
+                  "@nome": "La Morra"
+                },
+                {
+                  "@nome": "Monforte d'Alba"
+                },
+                {
+                  "@nome": "Novello, Piedmont"
+                },
+                {
+                  "@nome": "Roddi"
+                },
+                {
+                  "@nome": "Serralunga d'Alba"
+                },
+                {
+                  "@nome": "Verduno"
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Barolo con menzioni geografiche aggiuntive' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOCG vino 'Barolo con menzioni geografiche aggiuntive'",
+        "Descrizione": "Vitigno 'Nebbiolo': 100%",
+        "MateriaPrima": "Vitigno 'Nebbiolo'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": {
+              "@nome": "Provincia di Cuneo",
+              "Città": [
+                {
+                  "@nome": "Barolo, Piedmont"
+                },
+                {
+                  "@nome": "Castiglione Falletto"
+                },
+                {
+                  "@nome": "Cherasco"
+                },
+                {
+                  "@nome": "Diano d'Alba"
+                },
+                {
+                  "@nome": "Grinzane Cavour"
+                },
+                {
+                  "@nome": "La Morra"
+                },
+                {
+                  "@nome": "Monforte d'Alba"
+                },
+                {
+                  "@nome": "Novello, Piedmont"
+                },
+                {
+                  "@nome": "Roddi"
+                },
+                {
+                  "@nome": "Serralunga d'Alba"
+                },
+                {
+                  "@nome": "Verduno"
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Barbaresco con menzioni geografiche aggiuntive' Rosso Riserva",
+        "Tipologia": "vino 'Rosso Riserva'",
+        "Denominazione": "DOCG vino 'Barbaresco con menzioni geografiche aggiuntive'",
+        "Descrizione": "Vitigno 'Nebbiolo': 100%",
+        "MateriaPrima": "Vitigno 'Nebbiolo'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Piemonte",
+            "Provincia": {
+              "@nome": "Provincia di Cuneo",
+              "Città": [
+                {
+                  "@nome": "Barbaresco, Piedmont"
+                },
+                {
+                  "@nome": "Neive"
+                },
+                {
+                  "@nome": "Treiso"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

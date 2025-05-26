@@ -1,0 +1,106 @@
+{
+  "Vini": {
+    "Vino": [
+      {
+        "@nome": "Vino 'Tintilia del Molise' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Tintilia del Molise'",
+        "Descrizione": "Vitigno 'Tintilia': minimo (>=) 95%, Vitigno 'Altri Autorizzati': massimo (<=) 5%",
+        "ValoreMinimo": "95%",
+        "ValoreMassimo": "5%",
+        "MateriaPrima": "Vitigno 'Tintilia', Vitigno 'Altri Autorizzati'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Molise",
+            "Provincia": {
+              "@nome": "Provincia di Campobasso",
+              "Città": [
+                {
+                  "@nome": "Campobasso"
+                },
+                {
+                  "@nome": "Campomarino"
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Biferno Bianco'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOC vino 'Biferno'",
+        "Descrizione": "Vitigno 'Trebbiano': 100%",
+        "ValoreMinimo": "100%",
+        "MateriaPrima": "Vitigno 'Trebbiano'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Molise",
+            "Provincia": {
+              "@nome": "Provincia di Campobasso",
+              "Città": {
+                "@nome": "Termoli"
+              }
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Molise Trebbiano'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOC vino 'Molise'",
+        "Descrizione": "Vitigno 'Trebbiano Toscano': 100%",
+        "ValoreMinimo": "100%",
+        "MateriaPrima": "Vitigno 'Trebbiano Toscano'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Molise",
+            "Provincia": {
+              "@nome": "Provincia di Isernia",
+              "Città": {
+                "@nome": "Isernia"
+              }
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Pentro di Isernia Rosso'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Pentro di Isernia'",
+        "Descrizione": "Vitigno 'Montepulciano', 'Sangiovese'",
+        "MateriaPrima": "Vitigno 'Montepulciano', Vitigno 'Sangiovese'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Molise",
+            "Provincia": {
+              "@nome": "Provincia di Isernia",
+              "Città": {
+                "@nome": "Venafro"
+              }
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Molise Rosato'",
+        "Tipologia": "vino 'Rosato'",
+        "Denominazione": "DOC vino 'Molise'",
+        "Descrizione": "Vitigno 'Montepulciano': 100%",
+        "ValoreMinimo": "100%",
+        "MateriaPrima": "Vitigno 'Montepulciano'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Molise",
+            "Provincia": {
+              "@nome": "Provincia di Campobasso",
+              "Città": {
+                "@nome": "Larino"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

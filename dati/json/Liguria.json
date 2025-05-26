@@ -1,0 +1,107 @@
+{
+  "Vini": {
+    "Vino": [
+      {
+        "@nome": "Vino 'Cinque Terre' Bianco Secco",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOC vino 'Cinque Terre'",
+        "Descrizione": "Vitigno 'Bosco': 60%, 'Albarola': 20%, 'Vermentino': 20%",
+        "ValoreMinimo": "60%",
+        "ValoreMassimo": "20%",
+        "MateriaPrima": "Vitigno 'Bosco', Vitigno 'Albarola', Vitigno 'Vermentino'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Liguria",
+            "Provincia": {
+              "@nome": "Provincia della Spezia",
+              "Città": [
+                {
+                  "@nome": "Riomaggiore"
+                },
+                {
+                  "@nome": "Vernazza"
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Rossese di Dolceacqua'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Rossese di Dolceacqua'",
+        "Descrizione": "Vitigno 'Rossese': 100%",
+        "ValoreMinimo": "100%",
+        "MateriaPrima": "Vitigno 'Rossese'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Liguria",
+            "Provincia": {
+              "@nome": "Provincia di Imperia",
+              "Città": {
+                "@nome": "Dolceacqua"
+              }
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Pigato Riviera Ligure di Ponente'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOC vino 'Riviera Ligure di Ponente'",
+        "Descrizione": "Vitigno 'Pigato': 100%",
+        "ValoreMinimo": "100%",
+        "MateriaPrima": "Vitigno 'Pigato'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Liguria",
+            "Provincia": {
+              "@nome": "Provincia di Savona",
+              "Città": {
+                "@nome": "Albenga"
+              }
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Ormeasco di Pornassio'",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Ormeasco di Pornassio'",
+        "Descrizione": "Vitigno 'Ormeasco': 95%, 'Altri': 5%",
+        "ValoreMinimo": "95%",
+        "ValoreMassimo": "5%",
+        "MateriaPrima": "Vitigno 'Ormeasco', Vitigno 'Altri'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Liguria",
+            "Provincia": {
+              "@nome": "Provincia di Imperia",
+              "Città": {
+                "@nome": "Pornassio"
+              }
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Colline di Levanto' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Colline di Levanto'",
+        "Descrizione": "Vitigno 'Sangiovese', 'Ciliegiolo', 'Merlot'",
+        "MateriaPrima": "Vitigno 'Sangiovese', Vitigno 'Ciliegiolo', Vitigno 'Merlot'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Liguria",
+            "Provincia": {
+              "@nome": "Provincia della Spezia",
+              "Città": {
+                "@nome": "Levanto"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -3,8 +3,8 @@ import json
 import os
 
 # === CONFIGURAZIONE ===
-xml_input_path = "/Users/robertozanoni/Downloads/LM_ANNO 2/SEMESTRE 2/Elaborazione Testi e Gestione Documentale/PROGETTO/vini.xml"
-output_dir = "/Users/robertozanoni/Downloads/LM_ANNO 2/SEMESTRE 2/Elaborazione Testi e Gestione Documentale/PROGETTO/Conversione/json_regioni/"
+xml_input_path = "../dati/vini.xml"
+output_dir = "../dati/json/"
 
 os.makedirs(output_dir, exist_ok=True)
 
@@ -25,7 +25,6 @@ def convert_xml_to_json_per_region(xml_path, output_dir):
             nome_regione = regione.get("@nome", "Sconosciuta")
             if nome_regione not in regioni_map:
                 regioni_map[nome_regione] = []
-            # Salviamo solo il vino, non il blocco regione (già incluso)
             regioni_map[nome_regione].append(vino)
 
     # Crea un JSON per ogni regione
@@ -33,8 +32,15 @@ def convert_xml_to_json_per_region(xml_path, output_dir):
         filename = f"{nome_regione.replace(' ', '_')}.json"
         filepath = os.path.join(output_dir, filename)
 
+        # Impacchetta la struttura completa
+        dati_json = {
+            "Vini": {
+                "Vino": vini_lista
+            }
+        }
+
         with open(filepath, "w", encoding="utf-8") as f:
-            json.dump(vini_lista, f, indent=2, ensure_ascii=False)
+            json.dump(dati_json, f, indent=2, ensure_ascii=False)
 
         print(f"[✔] Creato: {filepath}")
 

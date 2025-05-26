@@ -1,0 +1,733 @@
+{
+  "Vini": {
+    "Vino": [
+      {
+        "@nome": "Vino 'Velletri' Bianco",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOC vino 'Velletri'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 20%, Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Del Lazio': massimo (<=) 70%, Vitigno 'Trebbiano Toscano', Vitigno 'Trebbiano Giallo': minimo (>=) 30%",
+        "ValoreMinimo": "30%",
+        "ValoreMassimo": "20%, 70%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Del Lazio', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Lazio",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Latina",
+                "Città": {
+                  "@nome": "Cisterna di Latina"
+                }
+              },
+              {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "Lariano"
+                  },
+                  {
+                    "@nome": "Velletri"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Velletri' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Velletri'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 30%, Vitigno 'Cesanese Comune', Vitigno 'Cesanese D'Affile': minimo (>=) 10%, Vitigno 'Montepulciano': minimo (>=) 30% - massimo (<=) 50%, Vitigno 'Sangiovese': minimo (>=) 10% - massimo (<=) 45%",
+        "ValoreMinimo": "10%, 30%",
+        "ValoreMassimo": "30%, 45%, 50%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cesanese Comune', Vitigno 'Cesanese D'Affile', Vitigno 'Montepulciano', Vitigno 'Sangiovese'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Lazio",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Latina",
+                "Città": {
+                  "@nome": "Cisterna di Latina"
+                }
+              },
+              {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "Lariano"
+                  },
+                  {
+                    "@nome": "Velletri"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Velletri' Bianco Spumante",
+        "Tipologia": "vino 'Bianco Spumante'",
+        "Denominazione": "DOC vino 'Velletri'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 20%, Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Del Lazio': massimo (<=) 70%, Vitigno 'Trebbiano Toscano', Vitigno 'Trebbiano Giallo': minimo (>=) 30%",
+        "ValoreMinimo": "30%",
+        "ValoreMassimo": "20%, 70%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Del Lazio', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Lazio",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Latina",
+                "Città": {
+                  "@nome": "Cisterna di Latina"
+                }
+              },
+              {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "Lariano"
+                  },
+                  {
+                    "@nome": "Velletri"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Velletri' Rosso Riserva",
+        "Tipologia": "vino 'Rosso Riserva'",
+        "Denominazione": "DOC vino 'Velletri'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 30%, Vitigno 'Cesanese Comune', Vitigno 'Cesanese D'Affile': minimo (>=) 10%, Vitigno 'Montepulciano': minimo (>=) 30% - massimo (<=) 50%, Vitigno 'Sangiovese': minimo (>=) 10% - massimo (<=) 45%",
+        "ValoreMinimo": "10%, 30%",
+        "ValoreMassimo": "30%, 45%, 50%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Cesanese Comune', Vitigno 'Cesanese D'Affile', Vitigno 'Montepulciano', Vitigno 'Sangiovese'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Lazio",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Latina",
+                "Città": {
+                  "@nome": "Cisterna di Latina"
+                }
+              },
+              {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "Lariano"
+                  },
+                  {
+                    "@nome": "Velletri"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Velletri' Bianco Superiore",
+        "Tipologia": "vino 'Bianco Superiore'",
+        "Denominazione": "DOC vino 'Velletri'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 20%, Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Del Lazio': massimo (<=) 70%, Vitigno 'Trebbiano Toscano', Vitigno 'Trebbiano Giallo': minimo (>=) 30%",
+        "ValoreMinimo": "30%",
+        "ValoreMassimo": "20%, 70%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Del Lazio', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Lazio",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Latina",
+                "Città": {
+                  "@nome": "Cisterna di Latina"
+                }
+              },
+              {
+                "@nome": "Provincia di Agrigento",
+                "Città": [
+                  {
+                    "@nome": "Lariano"
+                  },
+                  {
+                    "@nome": "Velletri"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Vignanello' Novello",
+        "Tipologia": "vino 'Novello ', vino 'Novello'",
+        "Denominazione": "DOC vino 'Vignanello'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 20%, Vitigno 'Ciliegiolo': massimo (<=) 40%, Vitigno 'Sangiovese': minimo (>=) 50%",
+        "ValoreMinimo": "50%",
+        "ValoreMassimo": "20%, 40%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Ciliegiolo', Vitigno 'Sangiovese'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Lazio",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Viterbo"
+                },
+                {
+                  "@nome": "Provincia di Viterbo",
+                  "Città": [
+                    {
+                      "@nome": "Bassano in Teverina"
+                    },
+                    {
+                      "@nome": "Corchiano"
+                    },
+                    {
+                      "@nome": "Fabrica di Roma"
+                    },
+                    {
+                      "@nome": "Vasanello"
+                    },
+                    {
+                      "@nome": "Vignanello"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": {
+                  "@nome": "Soriano nel Cimino"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vignanello' Bianco Vendemmia Tardiva",
+        "Tipologia": "vino 'Bianco Vendemmia Tardiva', vino 'Bianco Vendemmia Tardiva:'",
+        "Denominazione": "DOC vino 'Vignanello'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca Lunga': massimo (<=) 30%, Vitigno 'Trebbiano Toscano', Vitigno 'Trebbiano Giallo': minimo (>=) 70%",
+        "ValoreMinimo": "70%",
+        "ValoreMassimo": "15%, 30%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Lazio",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Viterbo"
+                },
+                {
+                  "@nome": "Provincia di Viterbo",
+                  "Città": [
+                    {
+                      "@nome": "Bassano in Teverina"
+                    },
+                    {
+                      "@nome": "Corchiano"
+                    },
+                    {
+                      "@nome": "Fabrica di Roma"
+                    },
+                    {
+                      "@nome": "Vasanello"
+                    },
+                    {
+                      "@nome": "Vignanello"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": {
+                  "@nome": "Soriano nel Cimino"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vignanello' Bianco Superiore",
+        "Tipologia": "vino 'Bianco Superiore'",
+        "Denominazione": "DOC vino 'Vignanello'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca Lunga': massimo (<=) 30%, Vitigno 'Trebbiano Toscano', Vitigno 'Trebbiano Giallo': minimo (>=) 70%",
+        "ValoreMinimo": "70%",
+        "ValoreMassimo": "15%, 30%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Lazio",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Viterbo"
+                },
+                {
+                  "@nome": "Provincia di Viterbo",
+                  "Città": [
+                    {
+                      "@nome": "Bassano in Teverina"
+                    },
+                    {
+                      "@nome": "Corchiano"
+                    },
+                    {
+                      "@nome": "Fabrica di Roma"
+                    },
+                    {
+                      "@nome": "Vasanello"
+                    },
+                    {
+                      "@nome": "Vignanello"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": {
+                  "@nome": "Soriano nel Cimino"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vignanello' Bianco, varietà Greco o Greco di Vignanello'",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOC vino 'Vignanello'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Greco B.': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Greco B.'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Lazio",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Viterbo"
+                },
+                {
+                  "@nome": "Provincia di Viterbo",
+                  "Città": [
+                    {
+                      "@nome": "Bassano in Teverina"
+                    },
+                    {
+                      "@nome": "Corchiano"
+                    },
+                    {
+                      "@nome": "Fabrica di Roma"
+                    },
+                    {
+                      "@nome": "Vasanello"
+                    },
+                    {
+                      "@nome": "Vignanello"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": {
+                  "@nome": "Soriano nel Cimino"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vignanello' Bianco Spumante, varietà Greco o Greco di Vignanello'",
+        "Tipologia": "vino 'Bianco Spumante'",
+        "Denominazione": "DOC vino 'Vignanello'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Greco B.': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Greco B.'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Lazio",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Viterbo"
+                },
+                {
+                  "@nome": "Provincia di Viterbo",
+                  "Città": [
+                    {
+                      "@nome": "Bassano in Teverina"
+                    },
+                    {
+                      "@nome": "Corchiano"
+                    },
+                    {
+                      "@nome": "Fabrica di Roma"
+                    },
+                    {
+                      "@nome": "Vasanello"
+                    },
+                    {
+                      "@nome": "Vignanello"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": {
+                  "@nome": "Soriano nel Cimino"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vignanello' Rosso",
+        "Tipologia": "vino 'Rosso'",
+        "Denominazione": "DOC vino 'Vignanello'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 20%, Vitigno 'Ciliegiolo': massimo (<=) 40%, Vitigno 'Sangiovese': minimo (>=) 50%",
+        "ValoreMinimo": "50%",
+        "ValoreMassimo": "20%, 40%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Ciliegiolo', Vitigno 'Sangiovese'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Lazio",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Viterbo"
+                },
+                {
+                  "@nome": "Provincia di Viterbo",
+                  "Città": [
+                    {
+                      "@nome": "Bassano in Teverina"
+                    },
+                    {
+                      "@nome": "Corchiano"
+                    },
+                    {
+                      "@nome": "Fabrica di Roma"
+                    },
+                    {
+                      "@nome": "Vasanello"
+                    },
+                    {
+                      "@nome": "Vignanello"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": {
+                  "@nome": "Soriano nel Cimino"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vignanello' Bianco",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOC vino 'Vignanello'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Malvasia Bianca Di Candia E/O Malvasia Bianca Lunga': massimo (<=) 30%, Vitigno 'Trebbiano Toscano', Vitigno 'Trebbiano Giallo': minimo (>=) 70%",
+        "ValoreMinimo": "70%",
+        "ValoreMassimo": "15%, 30%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Malvasia Bianca Di Candia E/O Malvasia Bianca Lunga', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Lazio",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Viterbo"
+                },
+                {
+                  "@nome": "Provincia di Viterbo",
+                  "Città": [
+                    {
+                      "@nome": "Bassano in Teverina"
+                    },
+                    {
+                      "@nome": "Corchiano"
+                    },
+                    {
+                      "@nome": "Fabrica di Roma"
+                    },
+                    {
+                      "@nome": "Vasanello"
+                    },
+                    {
+                      "@nome": "Vignanello"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": {
+                  "@nome": "Soriano nel Cimino"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vignanello' Rosso Riserva",
+        "Tipologia": "vino 'Rosso Riserva'",
+        "Denominazione": "DOC vino 'Vignanello'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Nera': massimo (<=) 20%, Vitigno 'Ciliegiolo': massimo (<=) 40%, Vitigno 'Sangiovese': minimo (>=) 50%",
+        "ValoreMinimo": "50%",
+        "ValoreMassimo": "20%, 40%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Nera', Vitigno 'Ciliegiolo', Vitigno 'Sangiovese'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Lazio",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Viterbo"
+                },
+                {
+                  "@nome": "Provincia di Viterbo",
+                  "Città": [
+                    {
+                      "@nome": "Bassano in Teverina"
+                    },
+                    {
+                      "@nome": "Corchiano"
+                    },
+                    {
+                      "@nome": "Fabrica di Roma"
+                    },
+                    {
+                      "@nome": "Vasanello"
+                    },
+                    {
+                      "@nome": "Vignanello"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": {
+                  "@nome": "Soriano nel Cimino"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Vignanello' Bianco Vendemmia Tardiva, varietà Greco o Greco di Vignanello'",
+        "Tipologia": "vino 'Bianco Vendemmia Tardiva', vino 'Bianco Vendemmia Tardiva:'",
+        "Denominazione": "DOC vino 'Vignanello'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 15%, Vitigno 'Greco B.': minimo (>=) 85%",
+        "ValoreMinimo": "85%",
+        "ValoreMassimo": "15%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Greco B.'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Lazio",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Viterbo"
+                },
+                {
+                  "@nome": "Provincia di Viterbo",
+                  "Città": [
+                    {
+                      "@nome": "Bassano in Teverina"
+                    },
+                    {
+                      "@nome": "Corchiano"
+                    },
+                    {
+                      "@nome": "Fabrica di Roma"
+                    },
+                    {
+                      "@nome": "Vasanello"
+                    },
+                    {
+                      "@nome": "Vignanello"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": {
+                "@nome": "Provincia di Agrigento",
+                "Città": {
+                  "@nome": "Soriano nel Cimino"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@nome": "Vino 'Bianco Capena' Bianco",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOC vino 'Bianco Capena'",
+        "Descrizione": "Vitigno 'Bellone', Vitigno 'Bombino Bianco': massimo (<=) 20%, Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Del Lazio', Vitigno 'Malvasia Bianca Lunga': minimo (>=) 55%, Vitigno 'Trebbiano Toscano', Vitigno 'Trebbiano Giallo': minimo (>=) 25%",
+        "ValoreMinimo": "25%, 55%",
+        "ValoreMassimo": "20%",
+        "MateriaPrima": "Vitigno 'Bellone', Vitigno 'Bombino Bianco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Malvasia Del Lazio', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Lazio",
+            "Provincia": {
+              "@nome": "Provincia di Agrigento",
+              "Città": [
+                {
+                  "@nome": "Capena"
+                },
+                {
+                  "@nome": "Castelnuovo di Porto"
+                },
+                {
+                  "@nome": "Fiano Romano"
+                },
+                {
+                  "@nome": "Morlupo"
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Bianco Capena' Superiore",
+        "Tipologia": "vino 'Superiore'",
+        "Denominazione": "DOC vino 'Bianco Capena'",
+        "Descrizione": "Vitigno 'Bellone', Vitigno 'Bombino Bianco': massimo (<=) 20%, Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Del Lazio', Vitigno 'Malvasia Bianca Lunga': minimo (>=) 55%, Vitigno 'Trebbiano Toscano', Vitigno 'Trebbiano Giallo': minimo (>=) 25%",
+        "ValoreMinimo": "25%, 55%",
+        "ValoreMassimo": "20%",
+        "MateriaPrima": "Vitigno 'Bellone', Vitigno 'Bombino Bianco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Bianca Lunga', Vitigno 'Malvasia Del Lazio', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Lazio",
+            "Provincia": {
+              "@nome": "Provincia di Agrigento",
+              "Città": [
+                {
+                  "@nome": "Capena"
+                },
+                {
+                  "@nome": "Castelnuovo di Porto"
+                },
+                {
+                  "@nome": "Fiano Romano"
+                },
+                {
+                  "@nome": "Morlupo"
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Zagarolo' Bianco",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "DOC vino 'Zagarolo'",
+        "Descrizione": "Vitigno 'Bellone', Vitigno 'Bombino Bianco': massimo (<=) 10%, Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Del Lazio': massimo (<=) 70%, Vitigno 'Trebbiano Toscano', Vitigno 'Trebbiano Giallo': minimo (>=) 30%",
+        "ValoreMinimo": "30%",
+        "ValoreMassimo": "10%, 70%",
+        "MateriaPrima": "Vitigno 'Bellone', Vitigno 'Bombino Bianco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Del Lazio', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Lazio",
+            "Provincia": {
+              "@nome": "Provincia di Agrigento",
+              "Città": [
+                {
+                  "@nome": "Gallicano nel Lazio"
+                },
+                {
+                  "@nome": "Zagarolo"
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Zagarolo' Bianco Superiore",
+        "Tipologia": "vino 'Bianco Superiore'",
+        "Denominazione": "DOC vino 'Zagarolo'",
+        "Descrizione": "Vitigno 'Bellone', Vitigno 'Bombino Bianco': massimo (<=) 10%, Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Del Lazio': massimo (<=) 70%, Vitigno 'Trebbiano Toscano', Vitigno 'Trebbiano Giallo': minimo (>=) 30%",
+        "ValoreMinimo": "30%",
+        "ValoreMassimo": "10%, 70%",
+        "MateriaPrima": "Vitigno 'Bellone', Vitigno 'Bombino Bianco', Vitigno 'Malvasia Bianca Di Candia', Vitigno 'Malvasia Del Lazio', Vitigno 'Trebbiano Giallo', Vitigno 'Trebbiano Toscano'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Lazio",
+            "Provincia": {
+              "@nome": "Provincia di Agrigento",
+              "Città": [
+                {
+                  "@nome": "Gallicano nel Lazio"
+                },
+                {
+                  "@nome": "Zagarolo"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "Vini": {
+    "Vino": [
+      {
+        "@nome": "Vino 'Bianco di Castelfranco Emilia' Bianco Frizzante",
+        "Tipologia": "vino 'Bianco Frizzante'",
+        "Denominazione": "IGT vino 'Bianco di Castelfranco Emilia'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 40%, Vitigno 'Montù': minimo (>=) 60%",
+        "ValoreMinimo": "60%",
+        "ValoreMassimo": "40%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Montu'', Vitigno 'Montù'",
+        "Luogo": {
+          "Regione": {
+            "@nome": "Emilia",
+            "Provincia": [
+              {
+                "@nome": "Provincia di Modena",
+                "Città": [
+                  {
+                    "@nome": "Castelfranco Emilia"
+                  },
+                  {
+                    "@nome": "Nonantola"
+                  },
+                  {
+                    "@nome": "Ravarino"
+                  },
+                  {
+                    "@nome": "San Cesario sul Panaro"
+                  },
+                  {
+                    "@nome": "Savignano sul Panaro"
+                  }
+                ]
+              },
+              {
+                "@nome": "Provincia di Bologna",
+                "Città": [
+                  {
+                    "@nome": "Argelato"
+                  },
+                  {
+                    "@nome": "Calderara di Reno"
+                  },
+                  {
+                    "@nome": "Crevalcore"
+                  },
+                  {
+                    "@nome": "Sala Bolognese"
+                  },
+                  {
+                    "@nome": "San Giovanni in Persiceto"
+                  },
+                  {
+                    "@nome": "Zola Predosa"
+                  },
+                  {
+                    "@nome": "Bazzano"
+                  },
+                  {
+                    "@nome": "Crespellano"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@nome": "Vino 'Bianco di Castelfranco Emilia' Bianco",
+        "Tipologia": "vino 'Bianco'",
+        "Denominazione": "IGT vino 'Bianco di Castelfranco Emilia'",
+        "Descrizione": "Vitigno 'Altre Varietà A Bacca Bianca': massimo (<=) 40%, Vitigno 'Montù': minimo (>=) 60%",
+        "ValoreMinimo": "60%",
+        "ValoreMassimo": "40%",
+        "MateriaPrima": "Vitigno 'Altre Varietà A Bacca Bianca', Vitigno 'Montu'', Vitigno 'Montù'",
+        "Luogo": {
+          "Regione": [
+            {
+              "@nome": "Emilia",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Modena"
+                },
+                {
+                  "@nome": "Provincia di Modena",
+                  "Città": [
+                    {
+                      "@nome": "Castelfranco Emilia"
+                    },
+                    {
+                      "@nome": "Nonantola"
+                    },
+                    {
+                      "@nome": "Ravarino"
+                    },
+                    {
+                      "@nome": "San Cesario sul Panaro"
+                    },
+                    {
+                      "@nome": "Savignano sul Panaro"
+                    }
+                  ]
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": [
+                    {
+                      "@nome": "Argelato"
+                    },
+                    {
+                      "@nome": "Calderara di Reno"
+                    },
+                    {
+                      "@nome": "Crevalcore"
+                    },
+                    {
+                      "@nome": "Sala Bolognese"
+                    },
+                    {
+                      "@nome": "San Giovanni in Persiceto"
+                    },
+                    {
+                      "@nome": "Zola Predosa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@nome": "Valle d'Aosta",
+              "Provincia": [
+                {
+                  "@nome": "Provincia di Bologna"
+                },
+                {
+                  "@nome": "Provincia di Agrigento",
+                  "Città": [
+                    {
+                      "@nome": "Bazzano"
+                    },
+                    {
+                      "@nome": "Crespellano"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

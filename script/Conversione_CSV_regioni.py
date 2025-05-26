@@ -3,8 +3,8 @@ import csv
 import os
 
 # === CONFIGURAZIONE ===
-xml_input_path = "/Users/robertozanoni/Downloads/LM_ANNO 2/SEMESTRE 2/Elaborazione Testi e Gestione Documentale/PROGETTO/vini.xml"
-output_dir = "/Users/robertozanoni/Downloads/LM_ANNO 2/SEMESTRE 2/Elaborazione Testi e Gestione Documentale/PROGETTO/Conversione/csv_regioni/"
+xml_input_path = "../dati/vini.xml"
+output_dir = "../dati/csv/"
 
 os.makedirs(output_dir, exist_ok=True)
 

@@ -36,7 +36,7 @@ with open(output_path, "w", encoding="utf-8") as f:
     file_cards = [
         ("files/estrazione_immagini.py", "<u>ESTRAZIONE DATI - QUERY SPARKLE</u> ", "../img/Loghi_INdex/python-logo-334x334.png", "Script che, tramite libreria '<b>SPARQLWrapper</b>', crea una query sparkl per estrazione dati tramite URI"),
         ("../vini.xml", "<u>XML ESTRATTO</u>", "../img/Loghi_INdex/8760470.png", "File XML base estratto tramite query; sono stati creati con LLM 25 vini fittizzi per regioni mancanti"),
-        ("../DTD_ViniXML.dtd", "<u>FILE .DTD STRUTTURA XML</u>", "../img/Loghi_INdex/images.png", "File per definire la struttura gerarchica che l'XML deve seguire"),
+        ("../dati/DTD_ViniXML.dtd", "<u>FILE .DTD STRUTTURA XML</u>", "../img/Loghi_INdex/images.png", "File per definire la struttura gerarchica che l'XML deve seguire"),
         ("../ValidazioneXML.py", "<u>SCRIPT VALIDAZIONE XML</u>", "../img/Loghi_INdex/python-logo-334x334.png", "Validazione dei file XML rispetto alla struttura DTD definita"),
         ("../EstrazioneFoto.py", "<u>SCRIPT PYTHON ESTRAZIONE IMMAGINI</u>", "../img/Loghi_INdex/python-logo-334x334.png", "Tramite la libreria <b>'BingImageCrawler'</b> estrazione delle immagini in base all'attributo 'nome' del vino"),
         ("files/generazione_html.py", "<u>GENERA HTML INDEX</u>", "../img/Loghi_INdex/python-logo-334x334.png", "Script, tramite utilizzo della librerie '<b>entree</b> 'per generare la qui presente pagina HTML"), 

@@ -2,8 +2,8 @@ import xmltodict
 import csv
 
 # === CONFIGURAZIONE ===
-xml_input_path = "/Users/robertozanoni/Downloads/LM_ANNO 2/SEMESTRE 2/Elaborazione Testi e Gestione Documentale/PROGETTO/vini.xml"
-csv_output_path = "/Users/robertozanoni/Downloads/LM_ANNO 2/SEMESTRE 2/Elaborazione Testi e Gestione Documentale/PROGETTO/vini_completo.csv"
+xml_input_path = "../dati/vini.xml"
+csv_output_path = "../dati/csv/vini_totale.csv"
 
 # === FUNZIONE DI CONVERSIONE ===
 def convert_xml_to_csv(xml_path, output_path):
