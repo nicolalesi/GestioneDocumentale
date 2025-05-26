@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang='it'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Progetto RASTA</title>
+    <link rel='stylesheet' href='../Style/Index.css'>
+</head>
+<body>
+<div class='intestazione'>
+  <div class='contenuto'>
+    <h1>Progetto RASTA: Elaborazione Testi e Gestione Documentale</h1>
+    <p><strong>Autori:</strong> Alesi Nicol - Roberto Zanoni</p>
+    <p><strong>Data:</strong> 26 Maggio 2025</p>
+    <p><strong>Descrizione:</strong> All'interno della qui presente pagina si intende proporre il progetto 'RASTA' per il corso Elaborazione Testi e Gestione Documentale del corso Magistrale (LM) G.E.P.I.D, in merito alla <b>catalogazione dei vini italiani</b> e delle loro specifiche</p>
+    <div class='bottone-github-container'>
+        <a class='bottone-github' href='home.html'>Vai al progetto</a>
+        <a class='bottone-github' href='https://github.com/nicolalesi/GestioneDocumentale' target='_blank'>Accedi alla Repository GitHub</a>
+    </div>
+  </div>
+</div>
+<hr class='separatore'>
+<h2 style='text-align: center;'>INDICE DOCUMENTI</h2>
+<div class='card-container'>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='files/estrazione_immagini.py' target='_blank'><u>ESTRAZIONE DATI - QUERY SPARKLE</u> </a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Script che, tramite libreria '<b>SPARQLWrapper</b>', crea una query sparkl per estrazione dati tramite URI</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/8760470.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='../vini.xml' target='_blank'><u>XML ESTRATTO</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>File XML base estratto tramite query; sono stati creati con LLM 25 vini fittizzi per regioni mancanti</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/images.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='../DTD_ViniXML.dtd' target='_blank'><u>FILE .DTD STRUTTURA XML</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>File per definire la struttura gerarchica che l'XML deve seguire</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='../ValidazioneXML.py' target='_blank'><u>SCRIPT VALIDAZIONE XML</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Validazione dei file XML rispetto alla struttura DTD definita</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='../EstrazioneFoto.py' target='_blank'><u>SCRIPT PYTHON ESTRAZIONE IMMAGINI</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Tramite la libreria <b>'BingImageCrawler'</b> estrazione delle immagini in base all'attributo 'nome' del vino</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='files/generazione_html.py' target='_blank'><u>GENERA HTML INDEX</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Script, tramite utilizzo della librerie '<b>entree</b> 'per generare la qui presente pagina HTML</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/pngtree-vector-css-icon-code-black-button-vector-png-image_13830248.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='files/estrazione_immagini.py' target='_blank'><u>CSS INDEX</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Struttura estetica della qui presente pagina HTML richiamata nello script python</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/JavaScript-logo.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>MAPPA INTERATTIVA JAVA</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Mappa interattiva presa dal sito ... INSERIRE SITO</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/pngtree-vector-css-icon-code-black-button-vector-png-image_13830248.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>CSS MAPPA INTERATTIVA</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Struttura estetica della mappa interattiva richiamata nella pagina HTML</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>SCIPT CONVERSIONE DATI JSON</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Tramite libreria '<b>xmltodict</b>' conversione del file XML inziale in .Json</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>SCRIPT CONVERSIONE DATI CSV</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Tramite libreria '<b>xmltodict</b>' conversione del file XML inziale in .CSV</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='files/estrazione_immagini.py' target='_blank'><u>SCRIPT REGION GENERATOR HTML</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Creazione tramite script python di singole pagine HTML per ogni regione</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/pngtree-vector-css-icon-code-black-button-vector-png-image_13830248.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>CSS PAGINE REGIONI</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Struttura estetica delle pagine HTML per ogni regione richiamata nel rispettivo script</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>SCIPT CONVERSIONE DATI JSON REGIONI</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Stessa struttura della conversione JSON ma per ogni singola regione iterando un ciclo</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>SCRIPT CONVERSIONE DATI CSV REGIONI</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Stessa struttura della conversione CSV ma per ogni singola regione iterando un ciclo</p>
+  </div>
+  </div>
+<hr class='separatore'>
+<div class='paper'>
+    <h2 style='text-align: center;'>PAPER</h2>
+    <p>Di seguito si intende <b>mettere in evidenza il processo</b> che il Gruppo di Lavoro (d'ora in poi GdL) per lo sviluppo del progetto RASTA</p>
+    <p>Esempio: questo progetto esplora le relazioni tra X e Y. I dati mostrano che...</p>
+    <h3><u>PARTE PRIMA - INDIVIDUAZIONE FILE XML E ORGANIZZAZIONE LAVORO</u></h3>
+    <p>Query Sparkle, TYGA SU GIT</p>
+    <h3><u>PARTE SECONDA - PULIZIA E PERFEZIONAMENTO XML</u></h3>
+    <h3><u>PARTE TERZA - CREAZIONE DTD</u></h3>
+    <h3><u>PARTE QUARTA - CREAZIONE SCRIPT .PY PER VALIDAZIONE XML</u></h3>
+    <h3><u>PARTE QUINTA - CREAZIONE SCRIPT PER INDEX</u></h3>
+    <h3><u>PARTE SESTA - JAVA SCRIPT PER INTERATTIVITA' MAPPA</u></h3>
+    <h3><u>PARTE SETTIMA - CREAZIONE HTML PER PER PULL INFORMAZIONI SPECIFICA REGIONE</u></h3>
+</div>
+<div class='bottone-container'>
+    <a class='bottone-link' href='home.html'>Vai al progetto</a>
+</div>
+</body>
+</html>

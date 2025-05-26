@@ -39,7 +39,9 @@ h1 {
   margin-top: 2rem;
 }
 .vino-card {
-  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
   background-color: rgba(224, 209, 184, 0.7);
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -47,8 +49,7 @@ h1 {
   padding: 1.5rem;
   box-sizing: border-box;
   max-width: 100%;
-  display: flex;
-  flex-direction: column;
+  gap: 2rem;
 }
 
 .vino-title {
@@ -67,6 +68,20 @@ h1 {
   color: #8b0000;
   margin-bottom: 0.5rem;
 }
+
+
+.infoDiv{
+  display: flex;
+  flex-direction: column;
+  flex: 50%
+}
+
+.imgDiv{
+  display: flex;
+  flex:50%;
+  justify-content: right;
+}
+
 .vino-body {
   display: flex;
   flex-direction: row;
@@ -75,32 +90,17 @@ h1 {
   gap: 2rem;
   flex-wrap: nowrap; /* impedisce il wrap delle immagini */
 }
+
 .vino-image {
-  position: absolute;
   top: 1rem;
   right: 1rem;
-  width: 200px;
-  height: 200px;
+  width: 50%;
+  height: auto;
   object-fit: cover;
   border-radius: 10px;
   background-color: #ddd;
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
 }
-
-
-.vino-image:not(img) {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 250px;
-  height: 250px;
-  border-radius: 10px;
-  background-color: #ddd;
-  color: #666;
-  font-size: 0.9rem;
-  flex-shrink: 0;
-}
-
 
 .vino-details {
   display: flex;

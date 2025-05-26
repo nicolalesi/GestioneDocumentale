@@ -49,6 +49,7 @@ li {
     padding: 40px 0;
     width: 100%;
     box-sizing: border-box;
+    border-radius: 20px;
 }
 
 .intestazione .contenuto {
@@ -59,10 +60,14 @@ li {
 }
 /* BOTTONE REPO GITHUB */
 .bottone-github-container {
-    width: 100%;
-    text-align: center;
-    margin-top: 30px;
-  }
+  display: flex;
+  justify-content: center;   /* Centra orizzontalmente */
+  align-items: center;       /* Centra verticalmente (se serve) */
+  flex-direction: column;
+  width: 100%;               /* Occupare l’intera larghezza */
+  margin-top: 30px;
+  padding: 20px;
+}
   
   .bottone-github {
     background-color:#F5EBDACC; 
@@ -74,6 +79,8 @@ li {
     font-weight: normal;
     display: inline-block;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.785);
+    margin-top: 1%;
+    width: 200px;
   }
   
   .bottone-github:hover {

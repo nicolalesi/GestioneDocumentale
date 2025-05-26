@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-output_path = "PROGETTO/Index/index.html"
+output_path = "../src/index.html"
 with open(output_path, "w", encoding="utf-8") as f:
     f.write("<!DOCTYPE html>\n")
     f.write("<html lang='it'>\n")
@@ -7,7 +7,7 @@ with open(output_path, "w", encoding="utf-8") as f:
     f.write("    <meta charset='UTF-8'>\n")
     f.write("    <meta name='viewport' content='width=device-width, initial-scale=1.0'>\n")
     f.write("    <title>Progetto RASTA</title>\n")
-    f.write("    <link rel='stylesheet' href='./Index.css'>\n")
+    f.write("    <link rel='stylesheet' href='../Style/Index.css'>\n")
     f.write("</head>\n")
     f.write("<body>\n")
 
@@ -19,6 +19,7 @@ with open(output_path, "w", encoding="utf-8") as f:
     f.write("    <p><strong>Data:</strong> 26 Maggio 2025</p>\n")
     f.write("    <p><strong>Descrizione:</strong> All'interno della qui presente pagina si intende proporre il progetto 'RASTA' per il corso Elaborazione Testi e Gestione Documentale del corso Magistrale (LM) G.E.P.I.D, in merito alla <b>catalogazione dei vini italiani</b> e delle loro specifiche</p>\n")
     f.write("    <div class='bottone-github-container'>\n")
+    f.write("        <a class='bottone-github' href='home.html' target='_blank'>Vai al progetto</a>\n")
     f.write("        <a class='bottone-github' href='https://github.com/nicolalesi/GestioneDocumentale' target='_blank'>Accedi alla Repository GitHub</a>\n")
     f.write("    </div>\n")
     f.write("  </div>\n")
@@ -33,21 +34,21 @@ with open(output_path, "w", encoding="utf-8") as f:
 
 
     file_cards = [
-        ("files/estrazione_immagini.py", "<u>ESTRAZIONE DATI - QUERY SPARKLE</u> ", "../Loghi/python-logo-334x334.png", "Script che, tramite libreria '<b>SPARQLWrapper</b>', crea una query sparkl per estrazione dati tramite URI"),
-        ("../vini.xml", "<u>XML ESTRATTO</u>", "../Loghi/8760470.png", "File XML base estratto tramite query; sono stati creati con LLM 25 vini fittizzi per regioni mancanti"),
-        ("../DTD_ViniXML.dtd", "<u>FILE .DTD STRUTTURA XML</u>", "../Loghi/images.png", "File per definire la struttura gerarchica che l'XML deve seguire"),
-        ("../ValidazioneXML.py", "<u>SCRIPT VALIDAZIONE XML</u>", "../Loghi/python-logo-334x334.png", "Validazione dei file XML rispetto alla struttura DTD definita"),
-        ("../EstrazioneFoto.py", "<u>SCRIPT PYTHON ESTRAZIONE IMMAGINI</u>", "../Loghi/python-logo-334x334.png", "Tramite la libreria <b>'BingImageCrawler'</b> estrazione delle immagini in base all'attributo 'nome' del vino"),
-        ("files/generazione_html.py", "<u>GENERA HTML INDEX</u>", "../Loghi/python-logo-334x334.png", "Script, tramite utilizzo della librerie '<b>entree</b> 'per generare la qui presente pagina HTML"), 
-        ("files/estrazione_immagini.py", "<u>CSS INDEX</u>", "../Loghi/pngtree-vector-css-icon-code-black-button-vector-png-image_13830248.png", "Struttura estetica della qui presente pagina HTML richiamata nello script python"),
-        ("files/mappa_italia.html", "<u>MAPPA INTERATTIVA JAVA</u>", "../Loghi/JavaScript-logo.png", "Mappa interattiva presa dal sito ... INSERIRE SITO"),
-        ("files/mappa_italia.html", "<u>CSS MAPPA INTERATTIVA</u>", "../Loghi/pngtree-vector-css-icon-code-black-button-vector-png-image_13830248.png", "Struttura estetica della mappa interattiva richiamata nella pagina HTML"),
-        ("files/mappa_italia.html", "<u>SCIPT CONVERSIONE DATI JSON</u>", "../Loghi/python-logo-334x334.png", "Tramite libreria '<b>xmltodict</b>' conversione del file XML inziale in .Json"),
-        ("files/mappa_italia.html", "<u>SCRIPT CONVERSIONE DATI CSV</u>", "../Loghi/python-logo-334x334.png", "Tramite libreria '<b>xmltodict</b>' conversione del file XML inziale in .CSV"),
-        ("files/estrazione_immagini.py", "<u>SCRIPT REGION GENERATOR HTML</u>", "../Loghi/python-logo-334x334.png", "Creazione tramite script python di singole pagine HTML per ogni regione"),
-        ("files/mappa_italia.html", "<u>CSS PAGINE REGIONI</u>", "../Loghi/pngtree-vector-css-icon-code-black-button-vector-png-image_13830248.png", "Struttura estetica delle pagine HTML per ogni regione richiamata nel rispettivo script"),
-        ("files/mappa_italia.html", "<u>SCIPT CONVERSIONE DATI JSON REGIONI</u>", "../Loghi/python-logo-334x334.png", "Stessa struttura della conversione JSON ma per ogni singola regione iterando un ciclo"),
-        ("files/mappa_italia.html", "<u>SCRIPT CONVERSIONE DATI CSV REGIONI</u>", "../Loghi/python-logo-334x334.png", "Stessa struttura della conversione CSV ma per ogni singola regione iterando un ciclo"),
+        ("files/estrazione_immagini.py", "<u>ESTRAZIONE DATI - QUERY SPARKLE</u> ", "../img/Loghi_INdex/python-logo-334x334.png", "Script che, tramite libreria '<b>SPARQLWrapper</b>', crea una query sparkl per estrazione dati tramite URI"),
+        ("../vini.xml", "<u>XML ESTRATTO</u>", "../img/Loghi_INdex/8760470.png", "File XML base estratto tramite query; sono stati creati con LLM 25 vini fittizzi per regioni mancanti"),
+        ("../DTD_ViniXML.dtd", "<u>FILE .DTD STRUTTURA XML</u>", "../img/Loghi_INdex/images.png", "File per definire la struttura gerarchica che l'XML deve seguire"),
+        ("../ValidazioneXML.py", "<u>SCRIPT VALIDAZIONE XML</u>", "../img/Loghi_INdex/python-logo-334x334.png", "Validazione dei file XML rispetto alla struttura DTD definita"),
+        ("../EstrazioneFoto.py", "<u>SCRIPT PYTHON ESTRAZIONE IMMAGINI</u>", "../img/Loghi_INdex/python-logo-334x334.png", "Tramite la libreria <b>'BingImageCrawler'</b> estrazione delle immagini in base all'attributo 'nome' del vino"),
+        ("files/generazione_html.py", "<u>GENERA HTML INDEX</u>", "../img/Loghi_INdex/python-logo-334x334.png", "Script, tramite utilizzo della librerie '<b>entree</b> 'per generare la qui presente pagina HTML"), 
+        ("files/estrazione_immagini.py", "<u>CSS INDEX</u>", "../img/Loghi_INdex/pngtree-vector-css-icon-code-black-button-vector-png-image_13830248.png", "Struttura estetica della qui presente pagina HTML richiamata nello script python"),
+        ("files/mappa_italia.html", "<u>MAPPA INTERATTIVA JAVA</u>", "../img/Loghi_INdex/JavaScript-logo.png", "Mappa interattiva presa dal sito ... INSERIRE SITO"),
+        ("files/mappa_italia.html", "<u>CSS MAPPA INTERATTIVA</u>", "../img/Loghi_INdex/pngtree-vector-css-icon-code-black-button-vector-png-image_13830248.png", "Struttura estetica della mappa interattiva richiamata nella pagina HTML"),
+        ("files/mappa_italia.html", "<u>SCIPT CONVERSIONE DATI JSON</u>", "../img/Loghi_INdex/python-logo-334x334.png", "Tramite libreria '<b>xmltodict</b>' conversione del file XML inziale in .Json"),
+        ("files/mappa_italia.html", "<u>SCRIPT CONVERSIONE DATI CSV</u>", "../img/Loghi_INdex/python-logo-334x334.png", "Tramite libreria '<b>xmltodict</b>' conversione del file XML inziale in .CSV"),
+        ("files/estrazione_immagini.py", "<u>SCRIPT REGION GENERATOR HTML</u>", "../img/Loghi_INdex/python-logo-334x334.png", "Creazione tramite script python di singole pagine HTML per ogni regione"),
+        ("files/mappa_italia.html", "<u>CSS PAGINE REGIONI</u>", "../img/Loghi_INdex/pngtree-vector-css-icon-code-black-button-vector-png-image_13830248.png", "Struttura estetica delle pagine HTML per ogni regione richiamata nel rispettivo script"),
+        ("files/mappa_italia.html", "<u>SCIPT CONVERSIONE DATI JSON REGIONI</u>", "../img/Loghi_INdex/python-logo-334x334.png", "Stessa struttura della conversione JSON ma per ogni singola regione iterando un ciclo"),
+        ("files/mappa_italia.html", "<u>SCRIPT CONVERSIONE DATI CSV REGIONI</u>", "../img/Loghi_INdex/python-logo-334x334.png", "Stessa struttura della conversione CSV ma per ogni singola regione iterando un ciclo"),
     ]
 
     for path, title, icon, desc in file_cards:
@@ -77,7 +78,7 @@ with open(output_path, "w", encoding="utf-8") as f:
 
     # BOTTONE FINALE
     f.write("<div class='bottone-container'>\n")
-    f.write("    <a class='bottone-link' href='../PROGETTO/home.html'>Vai al progetto</a>\n") # Link al progetto principale
+    f.write("    <a class='bottone-link' href='home.html'>Vai al progetto</a>\n") # Link al progetto principale
     f.write("</div>\n")
 
     f.write("</body>\n")
