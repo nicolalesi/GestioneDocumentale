@@ -256,13 +256,28 @@ hr {
 .infoDiv{
   display: flex;
   flex-direction: column;
-  flex: 50%
+  flex: 50%;
 }
 
 .imgDiv{
   display: flex;
   flex:50%;
   justify-content: right;
+}
+
+.TortaDiv{
+  display: flex;
+  flex:50%;
+  justify-content: center;
+  align-self: center;
+  width: 70%;
+}
+
+.grafDiv{
+  display: flex;
+  flex:50%;
+  justify-content: right;
+  justify-content: center;
 }
 
 .vino-body {
@@ -459,27 +474,20 @@ li {
 .bottone-link:hover {
     background-color: #c0392b;
 }
-
-
-  /*parte download*/
-  .dataDownload {
-  color: #000000; 
-  font-family: 'SocheliaDEMO', sans-serif;
-  }
-  .dataDownload a {
-  color: #000000;
-  text-decoration: none;
-  font-weight: normal;
-  }
-  .dataDownload a:hover {
-  color: #8B0000; /* Rosso scuro */
-  text-decoration: underline;
-  }
-  .download-list {
-  list-style-position: inside;
-  padding-left: 0;
-  margin: 2%;
-  }
+.vino-graf { /* File Grafici */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(224, 209, 184, 0.7);
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  width: 100%;
+  padding: 1.5rem;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 2rem;
+  margin-top:2%;
+}  
 
 @media (max-width: 768px) {
   /* Stili per schermi piccoli in questo caso regioni*/
@@ -534,6 +542,25 @@ li {
   .province,
   .citta {
     font-size: 0.85rem;
+  }
+  /*parte download*/
+  .dataDownload {
+  color: #000000; 
+  font-family: 'SocheliaDEMO', sans-serif;
+  }
+  .dataDownload a {
+  color: #000000;
+  text-decoration: none;
+  font-weight: normal;
+  }
+  .dataDownload a:hover {
+  color: red; /* Rosso scuro */
+  text-decoration: underline;
+  }
+  .download-list {
+  list-style-position: inside;
+  padding-left: 0;
+  margin: 0;
   }
 }
 
