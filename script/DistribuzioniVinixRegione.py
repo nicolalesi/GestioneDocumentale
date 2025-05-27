@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import matplotlib.pyplot as plt
 
 # Carica XML
-tree = ET.parse('/Users/robertozanoni/Desktop/GestioneDocumentale/GestioneDocumentale/dati/vini.xml')
+tree = ET.parse('../dati/vini.xml')
 root = tree.getroot()
 
 #distribuzioni vini per regione

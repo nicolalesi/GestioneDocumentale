@@ -276,10 +276,22 @@ hr {
 .grafDiv{
   display: flex;
   flex:50%;
+  
   justify-content: right;
   justify-content: center;
 }
 
+.legendaDiv{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center; 
+}
+
+.legenditemDiv{
+  margin-bottom: 0.5rem;
+  flex: 50%;
+}
 .vino-body {
   display: flex;
   flex-direction: row;
