@@ -146,14 +146,14 @@ for vino in vine_dom:
             maxValueLabel = etree.Element("strong")
             maxValueLabel.text = "Valore massimo: "
             valoreMassimo = etree.Element("p")
-            valoreMassimo.text = vino[3].text
+            valoreMassimo.text = vino.find("ValoreMassimo").text
             valoreMassimo.set("itemprop", "haDescrizione")
             maxValueContainer.append(minValueLabel)
             maxValueContainer.append(valoreMinimo)
             
             infoDiv.append(minValueContainer)
         except:
-            print("Non esiste il valore minimo")
+            print("Non esiste il valore massimo")
 
         try:
             minValueContainer = etree.Element("div")
@@ -161,14 +161,14 @@ for vino in vine_dom:
             minValueLabel = etree.Element("strong")
             minValueLabel.text = "Valore minimo: "
             valoreMinimo = etree.Element("p")
-            valoreMinimo.text = vino[4].text
+            valoreMinimo.text = vino.find("ValoreMinimo").text
             valoreMinimo.set("itemprop", "haDescrizione")
             minValueContainer.append(maxValueLabel)
             minValueContainer.append(valoreMassimo)
             
             infoDiv.append(maxValueContainer)
         except:
-            print("Non esiste il valore massimo")
+            print("Non esiste il valore minimo")
 
         try:
             materiaPrimaContainer = etree.Element("div")
@@ -177,11 +177,10 @@ for vino in vine_dom:
             materiaPrimaLabel.text = "Materia prima: "
             materiaPrima = etree.Element("p")
             materiaPrima.set("itemprop", "haDescrizione")
-            materiaPrima.text = vino[5].text
+            materiaPrima.text = vino.find("MateriaPrima").text
             materiaPrimaContainer.append(materiaPrimaLabel)
             materiaPrimaContainer.append(materiaPrima)
             vinoDiv.append(materiaPrimaContainer)
-
             infoDiv.append(materiaPrimaContainer)
         except:
             print("Non esiste la materia prima")

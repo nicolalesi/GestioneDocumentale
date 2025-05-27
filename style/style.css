@@ -459,7 +459,28 @@ li {
 .bottone-link:hover {
     background-color: #c0392b;
 }
-  
+
+
+  /*parte download*/
+  .dataDownload {
+  color: #000000; 
+  font-family: 'SocheliaDEMO', sans-serif;
+  }
+  .dataDownload a {
+  color: #000000;
+  text-decoration: none;
+  font-weight: normal;
+  }
+  .dataDownload a:hover {
+  color: #8B0000; /* Rosso scuro */
+  text-decoration: underline;
+  }
+  .download-list {
+  list-style-position: inside;
+  padding-left: 0;
+  margin: 2%;
+  }
+
 @media (max-width: 768px) {
   /* Stili per schermi piccoli in questo caso regioni*/
   body {
@@ -513,25 +534,6 @@ li {
   .province,
   .citta {
     font-size: 0.85rem;
-  }
-  /*parte download*/
-  .dataDownload {
-  color: #000000; 
-  font-family: 'SocheliaDEMO', sans-serif;
-  }
-  .dataDownload a {
-  color: #000000;
-  text-decoration: none;
-  font-weight: normal;
-  }
-  .dataDownload a:hover {
-  color: red; /* Rosso scuro */
-  text-decoration: underline;
-  }
-  .download-list {
-  list-style-position: inside;
-  padding-left: 0;
-  margin: 0;
   }
 }
 

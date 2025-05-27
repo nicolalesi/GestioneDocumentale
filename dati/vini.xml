@@ -16039,9 +16039,9 @@
   <Tipologia>vino 'Rosato'</Tipologia>
   <Denominazione>DOC vino 'Savuto'</Denominazione>
   <Descrizione>Vitigno 'Gaglioppo', 'Malvasia', 'Greco Nero', 'Sangiovese'</Descrizione>
-  <MateriaPrima>Vitigno 'Gaglioppo', Vitigno 'Malvasia', Vitigno 'Greco Nero', Vitigno 'Sangiovese'</MateriaPrima>
   <ValoreMinimo>80%</ValoreMinimo>
   <ValoreMassimo>20%</ValoreMassimo>
+  <MateriaPrima>Vitigno 'Gaglioppo', Vitigno 'Malvasia', Vitigno 'Greco Nero', Vitigno 'Sangiovese'</MateriaPrima>
   <Luogo>
     <Regione nome="Calabria">
       <Provincia nome="Provincia di Cosenza">
@@ -16054,9 +16054,9 @@
   <Tipologia>vino 'Rosso'</Tipologia>
   <Denominazione>DOC vino 'Lamezia'</Denominazione>
   <Descrizione>Vitigno 'Nerello Cappuccio', 'Gaglioppo'</Descrizione>
-  <MateriaPrima>Vitigno 'Nerello Cappuccio', Vitigno 'Gaglioppo'</MateriaPrima>
   <ValoreMinimo>80%</ValoreMinimo>
   <ValoreMassimo>20%</ValoreMassimo>
+  <MateriaPrima>Vitigno 'Nerello Cappuccio', Vitigno 'Gaglioppo'</MateriaPrima>
   <Luogo>
     <Regione nome="Calabria">
       <Provincia nome="Provincia di Catanzaro">
@@ -16098,9 +16098,9 @@
   <Tipologia>vino 'Rosso'</Tipologia>
   <Denominazione>DOC vino 'Grottino di Roccanova'</Denominazione>
   <Descrizione>Vitigno 'Sangiovese': 60%, 'Montepulciano': 20%, 'Malvasia Nera': 20%</Descrizione>
-  <MateriaPrima>Vitigno 'Sangiovese', Vitigno 'Montepulciano', Vitigno 'Malvasia Nera'</MateriaPrima>
   <ValoreMinimo>80%</ValoreMinimo>
   <ValoreMassimo>20%</ValoreMassimo>
+  <MateriaPrima>Vitigno 'Sangiovese', Vitigno 'Montepulciano', Vitigno 'Malvasia Nera'</MateriaPrima>
   <Luogo><Regione nome="Basilicata">
     <Provincia nome="Provincia di Potenza">
       <Città nome="Roccanova" />
