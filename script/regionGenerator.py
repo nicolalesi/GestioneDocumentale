@@ -54,8 +54,18 @@ for vino in vine_dom:
         # Crea nuovo DOM per la regione se non esiste
         if nome_regione not in regioni_dom:
             html_dom = etree.fromstring(html_template)
-            html_dom[1][0].text = "Regione " + nome_regione
-            html_dom[1][0].set("class", "regionTitle")
+            titleDiv = etree.Element("div")
+            spanRegione = etree.Element("span")
+            spanRegione.text="Regione "
+            spanNomeRegione = etree.Element("span")
+            spanNomeRegione.text = nome_regione
+            spanNomeRegione.set("itemprop", "officialName")
+            titleDiv.append(spanRegione)
+            titleDiv.append(spanNomeRegione)
+            titleDiv.set("class", "regionTitle")
+            titleDiv.set("itemscope",'')
+            titleDiv.set("itemtype", "https://dbpedia.org/page/Regions_of_Italy")
+            html_dom[1][0].append(titleDiv)
             regioni_dom[nome_regione] = html_dom
         else:
             html_dom = regioni_dom[nome_regione]
@@ -64,22 +74,18 @@ for vino in vine_dom:
 
         vinoDiv = etree.Element("div")
         vinoDiv.set("class", "vino-card")
+        vinoDiv.set("itemscope",'')
+        vinoDiv.set("itemtype", "http://etna.istc.cnr.it/food-page/ontology/disciplinare-upper/html")
 
         h1 = etree.Element("h2")
         h1.text = vino.get("nome")
-        h1.set("class", "vino-title")
+        h1.set("itemprop", "label")
 
         # Ottieni il nome del vino e normalizzalo per file
         nome_vino = vino.get("nome")  # es: "Amarone della Valpolicella Classico Rosso Classico"
-
         nome_file = format_filename_hash(nome_vino)
-
         # Costruisci il path immagine
         img_path = f"../../img/immagini_vini/{nome_file}"
-
-
-        # Crea elemento immagine
-        # Crea elemento immagine
         img_element = etree.Element("img")
         img_element.set("src", img_path)
         img_element.set("alt", nome_vino)
@@ -91,10 +97,11 @@ for vino in vine_dom:
         img_div.append(img_element)
 
         # Inserisci imgDiv come primo figlio di vinoDiv
-
         infoDiv = etree.Element("div")
         infoDiv.set("class", "infoDiv")
         infoDiv.append(h1)
+        infoDiv.set("itemscope",'')
+        infoDiv.set("itemtype",'http://etna.istc.cnr.it/food-page/ontology/disciplinare-vino/Vino')
 
         tipologyContainer = etree.Element("div")
         tipologyContainer.set("class", "row-container")
@@ -102,6 +109,7 @@ for vino in vine_dom:
         tipologyLabel.text = "Tipologia: "
         tipologia = etree.Element("p")
         tipologia.text = vino[0].text
+        tipologia.set("itemprop", "haTipologia")
         tipologyContainer.append(tipologyLabel)
         tipologyContainer.append(tipologia)
 
@@ -113,6 +121,7 @@ for vino in vine_dom:
         denominationLabel.text = "Denominazione: "
         denominazione = etree.Element("p")
         denominazione.text = vino[1].text
+        denominazione.set("itemprop", "haDenominazione")
         denominationContainer.append(denominationLabel)
         denominationContainer.append(denominazione)
         
@@ -124,34 +133,38 @@ for vino in vine_dom:
         descriptionLabel.text = "Descrizione: "
         descrizione = etree.Element("p")
         descrizione.text = vino[2].text
+        descrizione.set("itemprop", "haDescrizione")
+        descrizione.set("itescope",'')
         descriptionContainer.append(descriptionLabel)
         descriptionContainer.append(descrizione)
         
         infoDiv.append(descriptionContainer)
 
         try:
-            minValueContainer = etree.Element("div")
-            minValueContainer.set("class", "row-container")
-            minValueLabel = etree.Element("strong")
-            minValueLabel.text = "Valore massimo: "
-            valoreMinimo = etree.Element("p")
-            valoreMinimo.text = vino[3].text
-            minValueContainer.append(minValueLabel)
-            minValueContainer.append(valoreMinimo)
+            maxValueContainer = etree.Element("div")
+            maxValueContainer.set("class", "row-container")
+            maxValueLabel = etree.Element("strong")
+            maxValueLabel.text = "Valore massimo: "
+            valoreMassimo = etree.Element("p")
+            valoreMassimo.text = vino[3].text
+            valoreMassimo.set("itemprop", "haDescrizione")
+            maxValueContainer.append(minValueLabel)
+            maxValueContainer.append(valoreMinimo)
             
             infoDiv.append(minValueContainer)
         except:
             print("Non esiste il valore minimo")
 
         try:
-            maxValueContainer = etree.Element("div")
-            maxValueContainer.set("class", "row-container")
-            maxValueLabel = etree.Element("strong")
-            maxValueLabel.text = "Valore minimo: "
-            valoreMassimo = etree.Element("p")
-            valoreMassimo.text = vino[4].text
-            maxValueContainer.append(maxValueLabel)
-            maxValueContainer.append(valoreMassimo)
+            minValueContainer = etree.Element("div")
+            minValueContainer.set("class", "row-container")
+            minValueLabel = etree.Element("strong")
+            minValueLabel.text = "Valore minimo: "
+            valoreMinimo = etree.Element("p")
+            valoreMinimo.text = vino[4].text
+            valoreMinimo.set("itemprop", "haDescrizione")
+            minValueContainer.append(maxValueLabel)
+            minValueContainer.append(valoreMassimo)
             
             infoDiv.append(maxValueContainer)
         except:
@@ -163,6 +176,7 @@ for vino in vine_dom:
             materiaPrimaLabel = etree.Element("strong")
             materiaPrimaLabel.text = "Materia prima: "
             materiaPrima = etree.Element("p")
+            materiaPrima.set("itemprop", "haDescrizione")
             materiaPrima.text = vino[5].text
             materiaPrimaContainer.append(materiaPrimaLabel)
             materiaPrimaContainer.append(materiaPrima)
@@ -179,6 +193,7 @@ for vino in vine_dom:
             provinceLabel = etree.Element("strong")
             provinceLabel.text = "Province e città di produzione:"
             provinceContainer.append(provinceLabel)
+
 
             province_to_citta = {}
 
@@ -199,16 +214,26 @@ for vino in vine_dom:
             for nome_provincia, lista_citta in province_to_citta.items():
                 singleProvinceContainer = etree.Element("div")
                 singleProvinceContainer.set("class", "single-province")
+                singleProvinceContainer.set("itemscope",'')
+                singleProvinceContainer.set("itemtype", "https://dbpedia.org/page/Provinces_of_Italy")
 
                 provinciaTesto = etree.Element("b")
+                provinciaTesto.set("itemprop", "name")
                 provinciaTesto.text = nome_provincia + " :"
                 singleProvinceContainer.append(provinciaTesto)
 
+                cityContainer = etree.Element("div")
+                cityContainer.set("class", "city-container")
+                cityContainer.set("itemscope",'')
+                cityContainer.set("itemtype", "https://dbpedia.org/ontology/City")
+
                 for nome_citta in lista_citta:
                     cittaTesto = etree.Element("span")
-                    cittaTesto.text = " " + nome_citta + ", "
-                    singleProvinceContainer.append(cittaTesto)
+                    cittaTesto.set("itemprop", "name")
+                    cittaTesto.text = " " + nome_citta + " "
+                    cityContainer.append(cittaTesto)
 
+                singleProvinceContainer.append(cityContainer)
                 provinceContainer.append(singleProvinceContainer)
 
             infoDiv.append(provinceContainer)
