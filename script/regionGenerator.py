@@ -133,7 +133,7 @@ for vino in vine_dom:
             minValueContainer = etree.Element("div")
             minValueContainer.set("class", "row-container")
             minValueLabel = etree.Element("strong")
-            minValueLabel.text = "Valore minimo: "
+            minValueLabel.text = "Valore massimo: "
             valoreMinimo = etree.Element("p")
             valoreMinimo.text = vino[3].text
             minValueContainer.append(minValueLabel)
@@ -147,7 +147,7 @@ for vino in vine_dom:
             maxValueContainer = etree.Element("div")
             maxValueContainer.set("class", "row-container")
             maxValueLabel = etree.Element("strong")
-            maxValueLabel.text = "Valore massimo: "
+            maxValueLabel.text = "Valore minimo: "
             valoreMassimo = etree.Element("p")
             valoreMassimo.text = vino[4].text
             maxValueContainer.append(maxValueLabel)
@@ -223,6 +223,6 @@ for vino in vine_dom:
 # Scrivi tutti i file dopo averli costruiti
 for nome_regione, html_dom in regioni_dom.items():
     OUTPUT_PATH = os.path.join(OUTPUT_DIR, nome_regione + ".html")
-    html_dom_S = etree.tostring(html_dom, pretty_print=True, method="html")
+    html_dom_S = etree.tostring(html_dom, pretty_print=True, encoding="utf-8", method="html")
     with open(OUTPUT_PATH, "w", encoding="utf-8") as file_html_w:
         file_html_w.write(html_dom_S.decode())

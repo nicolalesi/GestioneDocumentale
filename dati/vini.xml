@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE Vini SYSTEM "DTD_ViniXML.dtd">
 <Vini>
   <Vino nome="Vino 'Valdinievole' Bianco Superiore">
     <Tipologia>vino 'Bianco Superiore'</Tipologia>
