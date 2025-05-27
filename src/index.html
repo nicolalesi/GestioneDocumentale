@@ -16,7 +16,8 @@
     <div class='bottone-github-container'>
         <a class='bottone-github' href='home.html' target='_blank'>Vai al progetto</a>
         <a class='bottone-github' href='https://github.com/nicolalesi/GestioneDocumentale' target='_blank'>Accedi alla Repository GitHub</a>
-    </div>
+        <a class='bottone-github' href='LINK REPORT' target='_blank'>Leggi il Paper</a>
+      </div>
   </div>
 </div>
 <hr class='separatore'>
@@ -24,13 +25,13 @@
 <div class='card-container'>
   <div class='card'>
     <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='files/estrazione_immagini.py' target='_blank'><u>ESTRAZIONE DATI - QUERY SPARKLE</u> </a></h3>
+    <h3 class='card-heading'><a href='../script/dataDownload.py' target='_blank'><u>ESTRAZIONE DATI - QUERY SPARKLE</u> </a></h3>
     <p class='card-label'><u>Descrizione</u></p>
     <p class='card-desc'>Script che, tramite libreria '<b>SPARQLWrapper</b>', crea una query sparkl per estrazione dati tramite URI</p>
   </div>
   <div class='card'>
     <img src='../img/Loghi_INdex/8760470.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='../vini.xml' target='_blank'><u>XML ESTRATTO</u></a></h3>
+    <h3 class='card-heading'><a href='../dati/vini.xml' target='_blank'><u>XML ESTRATTO</u></a></h3>
     <p class='card-label'><u>Descrizione</u></p>
     <p class='card-desc'>File XML base estratto tramite query; sono stati creati con LLM 25 vini fittizzi per regioni mancanti</p>
   </div>
@@ -47,75 +48,42 @@
     <p class='card-desc'>Validazione dei file XML rispetto alla struttura DTD definita</p>
   </div>
   <div class='card'>
-    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='../EstrazioneFoto.py' target='_blank'><u>SCRIPT PYTHON ESTRAZIONE IMMAGINI</u></a></h3>
-    <p class='card-label'><u>Descrizione</u></p>
-    <p class='card-desc'>Tramite la libreria <b>'BingImageCrawler'</b> estrazione delle immagini in base all'attributo 'nome' del vino</p>
-  </div>
-  <div class='card'>
-    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='files/generazione_html.py' target='_blank'><u>GENERA HTML INDEX</u></a></h3>
-    <p class='card-label'><u>Descrizione</u></p>
-    <p class='card-desc'>Script, tramite utilizzo della librerie '<b>entree</b> 'per generare la qui presente pagina HTML</p>
-  </div>
-  <div class='card'>
     <img src='../img/Loghi_INdex/pngtree-vector-css-icon-code-black-button-vector-png-image_13830248.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='files/estrazione_immagini.py' target='_blank'><u>CSS INDEX</u></a></h3>
-    <p class='card-label'><u>Descrizione</u></p>
-    <p class='card-desc'>Struttura estetica della qui presente pagina HTML richiamata nello script python</p>
-  </div>
-  <div class='card'>
-    <img src='../img/Loghi_INdex/JavaScript-logo.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>MAPPA INTERATTIVA JAVA</u></a></h3>
-    <p class='card-label'><u>Descrizione</u></p>
-    <p class='card-desc'>Mappa interattiva presa dal sito ... INSERIRE SITO</p>
-  </div>
-  <div class='card'>
-    <img src='../img/Loghi_INdex/pngtree-vector-css-icon-code-black-button-vector-png-image_13830248.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>CSS MAPPA INTERATTIVA</u></a></h3>
+    <h3 class='card-heading'><a href='../style/style.css' target='_blank'><u>CSS GENERALE</u></a></h3>
     <p class='card-label'><u>Descrizione</u></p>
     <p class='card-desc'>Struttura estetica della mappa interattiva richiamata nella pagina HTML</p>
   </div>
   <div class='card'>
     <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>SCIPT CONVERSIONE DATI JSON</u></a></h3>
+    <h3 class='card-heading'><a href='../script/regionGenerator.py' target='_blank'><u>SCRIPT REGION GENERATOR HTML</u></a></h3>
+    <p class='card-label'><u>Descrizione</u></p>
+    <p class='card-desc'>Creazione tramite script python di singole pagine HTML per ogni regione</p>
+  </div>
+  <div class='card'>
+    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
+    <h3 class='card-heading'><a href='../script/Coversione_json.py' target='_blank'><u>SCIPT CONVERSIONE DATI JSON</u></a></h3>
     <p class='card-label'><u>Descrizione</u></p>
     <p class='card-desc'>Tramite libreria '<b>xmltodict</b>' conversione del file XML inziale in .Json</p>
   </div>
   <div class='card'>
     <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>SCRIPT CONVERSIONE DATI CSV</u></a></h3>
+    <h3 class='card-heading'><a href='../script/Conversione_CSV.py' target='_blank'><u>SCRIPT CONVERSIONE DATI CSV</u></a></h3>
     <p class='card-label'><u>Descrizione</u></p>
     <p class='card-desc'>Tramite libreria '<b>xmltodict</b>' conversione del file XML inziale in .CSV</p>
   </div>
   <div class='card'>
     <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='files/estrazione_immagini.py' target='_blank'><u>SCRIPT REGION GENERATOR HTML</u></a></h3>
+    <h3 class='card-heading'><a href='../script/Conversione_CSV_regioni.py' target='_blank'><u>SCRIPT CONVERSIONE DATI CSV, SINGOLE REGIONI</u></a></h3>
     <p class='card-label'><u>Descrizione</u></p>
-    <p class='card-desc'>Creazione tramite script python di singole pagine HTML per ogni regione</p>
-  </div>
-  <div class='card'>
-    <img src='../img/Loghi_INdex/pngtree-vector-css-icon-code-black-button-vector-png-image_13830248.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>CSS PAGINE REGIONI</u></a></h3>
-    <p class='card-label'><u>Descrizione</u></p>
-    <p class='card-desc'>Struttura estetica delle pagine HTML per ogni regione richiamata nel rispettivo script</p>
+    <p class='card-desc'>Tramite libreria '<b>xmltodict</b>' conversione del file XML inziale in .Json per singole regioni</p>
   </div>
   <div class='card'>
     <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>SCIPT CONVERSIONE DATI JSON REGIONI</u></a></h3>
+    <h3 class='card-heading'><a href='../script/Conversione_json_regioni.py' target='_blank'><u>SCRIPT CONVERSIONE DATI JSON, SINGOLE REGIONI</u></a></h3>
     <p class='card-label'><u>Descrizione</u></p>
-    <p class='card-desc'>Stessa struttura della conversione JSON ma per ogni singola regione iterando un ciclo</p>
+    <p class='card-desc'>Tramite libreria '<b>xmltodict</b>' conversione del file XML inziale in .CSV per singole regioni</p>
   </div>
-  <div class='card'>
-    <img src='../img/Loghi_INdex/python-logo-334x334.png' alt='icon' class='card-img'>
-    <h3 class='card-heading'><a href='files/mappa_italia.html' target='_blank'><u>SCRIPT CONVERSIONE DATI CSV REGIONI</u></a></h3>
-    <p class='card-label'><u>Descrizione</u></p>
-    <p class='card-desc'>Stessa struttura della conversione CSV ma per ogni singola regione iterando un ciclo</p>
-  </div>
-  </div>
-<hr class='separatore'>
-<div class='bottone-container'>
-    <a class='bottone-link' href='home.html'>Vai al progetto</a>
-</div>
+  
+  
 </body>
 </html>
