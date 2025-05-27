@@ -1,0 +1,519 @@
+@font-face {
+  font-family: 'SocheliaDEMO';
+  src: url('./font/SocheliaDEMO.woff2') format('woff2'),
+       url('./font/SocheliaDEMO.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Home Page Styles */
+
+.homePage{
+  font-style: italic;
+}
+
+body{
+  background-color: #F5EBDA;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.homePageBody {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  position: relative; /* serve per posizionamenti interni */
+  min-height: 100vh; /* assicurati che body prenda tutta l’altezza */
+  background-image: url('../img/Asset\ 2\ 1.png');
+  background-repeat: no-repeat;
+  background-position: bottom center; /* allinea in basso al centro */
+  background-size: contain; /* o cover, o dimensioni fisse */
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; /* spinge i figli agli estremi */
+  color: #482817;
+  padding: 20px;
+  font-size: 1.2rem;
+  text-align: left;;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; /* Centrare gli elementi orizzontalmente */
+  gap: 20px; /* spazio tra gli elementi */
+  padding: 2rem 10%;
+}
+
+.title-container {
+  color: #482817;
+  padding: 20px;
+  font-size: 2rem;
+  max-width: 600px;
+  text-align: center;
+  margin-top: 5%;
+  /* margin-left e margin-top tolti perché container ora gestisce il posizionamento */
+}
+
+
+.beginningHeader {
+  display: flex;
+  flex-direction: row;
+  text-align: left;  /* contenuto allineato a sinistra */
+}
+
+.beginningHeader img {
+  width: 50px;
+  height: 50px;
+}
+
+.beginningHeader p{
+  margin-left: 2%;
+  margin-top: 5%;
+}
+
+.endHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center; /* opzionale: allinea verticalmente al centro */
+  flex-wrap: nowrap;   /* evita che vadano a capo */
+}
+
+.endHeader p {
+  display: inline;       /* forza inline se necessario */
+  white-space: nowrap;   /* impedisce l'andata a capo */
+  margin-left: 15px;     /* se vuoi spaziarli */
+}
+
+.endHeader a {
+  color: #482817; /* colore marrone scuro come testo */
+  text-decoration: none; /* rimuove sottolineatura */
+  margin-left: 15px; /* spazio tra i link */
+  font-weight: 600;
+  font-style: italic;
+}
+
+.endHeader a:hover {
+  text-decoration: underline; /* sottolinea al passaggio del mouse */
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  margin-left: 15px;
+  font-style: italic;
+  color: #482817;
+  cursor: pointer;
+}
+
+.tooltip-text {
+  visibility: hidden;
+  background-color: #AF6900;
+  color: white;
+  text-align: center;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+
+  position: absolute;
+  bottom: -1.8em;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+
+  opacity: 0;
+  transition: opacity 0.3s;
+  z-index: 10;
+}
+
+.tooltip:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
+}
+
+#sovratitolo {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #AF6900;
+  margin-bottom: -0.8rem; /* Cambiato da -8% che è troppo aggressivo */
+}
+
+#sottotitolo {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #AF6900;
+  margin-top: -0.6rem; /* Anche questo più moderato */
+}
+
+/* Qui sistemiamo #dataDownload */
+.dataDownload {
+  margin-top: 2rem; /* Spazio corretto, evita margin-top enorme */
+  font-size: 1.5rem;
+  color: #482817;
+  font-weight: 600;
+  font-style: italic;
+  margin-top: 5rem;
+}
+
+.map-container {
+  width: 70%;
+  max-width: 800px;
+  padding: 20px;
+  position: relative;
+  font-family: 'SocheliaDEMO', sans-serif;
+  margin-top: 1%;
+}
+
+hr {
+  border: none;          /* togli il bordo di default */
+  border-top: 2px solid #AF6900;  /* linea alta 2px, colore */
+  width: 50%;            /* lunghezza linea */
+  margin: 20px auto;     /* centrata con margini */
+}
+
+.map-container svg {
+  width: 525px; /* o quanto vuoi */
+  height: auto;
+  display: block;
+  margin-left: 28%;
+  margin-top: -6%;
+}
+
+
+.map-container path {
+  cursor: pointer;
+  fill: #b16767;
+  transition: fill 0.3s ease;
+}
+
+.map-container path:hover {
+  fill: rgb(68, 16, 8);
+}
+
+/* Stili per le regioni*/
+
+.regionBody{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 2rem;
+  background-image: 
+    url('../img/Mask group.png'),   /* immagine a sinistra */
+    url('../img/Mask group 2.png');  /* immagine a destra */
+  background-repeat: repeat-y, repeat-y; /* ripetono verticalmente */
+  background-position: left bottom, right bottom;
+  background-size: 20% auto, 20% auto;
+}
+
+.regionTitle{
+  margin-top: 3%;
+  font-family: 'SocheliaDEMO', sans-serif;
+  text-align: center;
+  color: #8b0000;
+}
+
+.vino-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.vino-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgba(224, 209, 184, 0.7);
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  width: 100%;
+  padding: 1.5rem;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 2rem;
+  margin-top:2%;
+}
+
+.vino-title {
+  font-family: 'SocheliaDEMO', sans-serif;
+  color: #8b0000;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 80%;
+  z-index: 2;
+}
+
+.vino-card h2 {
+  font-family: 'SocheliaDEMO', sans-serif;
+  color: #8b0000;
+  margin-bottom: 0.5rem;
+}
+
+.infoDiv{
+  display: flex;
+  flex-direction: column;
+  flex: 50%
+}
+
+.imgDiv{
+  display: flex;
+  flex:50%;
+  justify-content: right;
+}
+
+.vino-body {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 100%;
+  gap: 2rem;
+  flex-wrap: nowrap; /* impedisce il wrap delle immagini */
+}
+
+.vino-image {
+  top: 1rem;
+  right: 1rem;
+  width: 50%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 10px;
+  background-color: #ddd;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+.vino-details {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin-top: 1rem;
+}
+
+.vino-details p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+  color: #333;
+}
+
+.vino-details strong {
+  color: #000;
+}
+
+.row-container{
+  color : #482817;
+}
+.single-province {
+  font-size: 0.9rem;
+}
+
+
+/* Stile per Index.css */
+
+.indexBody{
+  margin: 40px;
+  line-height: 1.5;
+}
+
+.indexSubtitles {
+    font-family: 'SocheliaDEMO', sans-serif;
+    text-align: center;
+    color: #8B0000;
+}
+
+ul {
+    margin-top: 10px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.intestazione {
+    background-color: #e0d1b8;
+    padding: 50px 0;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 20px;
+    align-items: center;
+    align-self: center;
+}
+
+.intestazione .contenuto {
+    text-align: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    width: 100%;
+}
+/* BOTTONE REPO GITHUB */
+.bottone-github-container {
+  display: flex;
+  justify-content: center;   /* Centra orizzontalmente */
+  align-items: center;       /* Centra verticalmente (se serve) */
+  flex-direction: column;
+  width: 100%;               /* Occupare l’intera larghezza */
+  margin-top: 30px;
+  padding: 20px;
+}
+  
+.bottone-github {
+    background-color:#F5EBDACC; 
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: normal;
+    display: inline-block;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.785);
+    margin-top: 1%;
+    width: 200px;
+}
+  
+.bottone-github:hover {
+    background-color: #8B0000;
+}
+  
+/* CARD DOCUMENTI */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+.card {
+    width: 240px;
+    border: 2px solid #000; /* Bordi neri */
+    border-radius: 12px;
+    padding: 15px;
+    background-color: #f8e8d8;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+  
+.card-img {
+    width: 80px;
+    height: auto;
+    margin-bottom: 10px;
+}
+  
+.card-heading {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #8b0000;
+    margin: 0.5rem 0 0.5rem;
+}
+  
+.card-heading a {
+    color: inherit;
+    text-decoration: none;
+}
+  
+.card-heading a:hover {
+    text-decoration: underline;
+}
+  
+.card-label {
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: #555;
+    text-align: left;
+    margin: 0.5rem 0 0.2rem;
+}
+  
+.card-desc {
+    font-size: 0.95rem;
+    color: #333;
+    text-align: left;
+    margin: 0;
+}
+
+.bottone-container {
+    width: 100%;
+    text-align: center;
+    margin: 60px 0 20px;
+  }
+
+.separatore {
+    border: none;
+    border-top: 1px solid #999;
+    margin: 40px auto;
+    width: 80%;
+    opacity: 0.6;
+  }
+  
+.bottone-link {
+    background-color: #8B0000;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    display: inline-block;
+}
+  
+.bottone-link:hover {
+    background-color: #c0392b;
+}
+  
+@media (max-width: 768px) {
+  /* Stili per schermi piccoli in questo caso regioni*/
+  body {
+    padding: 1rem;
+    background-size: 40% auto, 40% auto; /* sfondo più grande su mobile */
+  }
+
+  .vino-card {
+    flex-direction: column; /* da riga a colonna */
+    padding: 1rem;
+  }
+
+  .vino-body {
+    flex-direction: column; /* immagine sopra, dettagli sotto */
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap; /* permetti wrapping */
+  }
+
+  .vino-image {
+    position: static; /* rimuove absolute per non farla sovrapporre */
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    object-fit: contain;
+  }
+
+  .vino-image:not(img) {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    font-size: 1rem;
+  }
+
+  .vino-title {
+    max-width: 100%;
+    font-size: 1.3rem;
+  }
+
+  .vino-details {
+    margin-top: 0;
+    width: 100%;
+  }
+
+  .vino-details p {
+    font-size: 1rem;
+  }
+
+  .province,
+  .citta {
+    font-size: 0.85rem;
+  }
+}
+
+

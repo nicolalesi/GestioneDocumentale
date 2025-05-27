@@ -36,7 +36,7 @@ html_template = '''
 <html>
 <head>
 <meta charset="UTF-8"/>
-<link rel="stylesheet" href="../../style/regionWine.css"></link>
+<link rel="stylesheet" href="../../style/style.css"></link>
 </head>
 <body>
 <h1></h1>
@@ -55,6 +55,7 @@ for vino in vine_dom:
         if nome_regione not in regioni_dom:
             html_dom = etree.fromstring(html_template)
             html_dom[1][0].text = "Regione " + nome_regione
+            html_dom[1][0].set("class", "regionTitle")
             regioni_dom[nome_regione] = html_dom
         else:
             html_dom = regioni_dom[nome_regione]
@@ -216,11 +217,12 @@ for vino in vine_dom:
         except:
             print("Non esistono province/città")
 
+        body[1].set("class","regionbody")
         body[1].append(vinoDiv)
 
 # Scrivi tutti i file dopo averli costruiti
 for nome_regione, html_dom in regioni_dom.items():
     OUTPUT_PATH = os.path.join(OUTPUT_DIR, nome_regione + ".html")
-    html_dom_S = etree.tostring(html_dom, pretty_print=True)
+    html_dom_S = etree.tostring(html_dom, pretty_print=True, method="html")
     with open(OUTPUT_PATH, "w", encoding="utf-8") as file_html_w:
         file_html_w.write(html_dom_S.decode())

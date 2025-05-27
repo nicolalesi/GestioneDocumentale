@@ -1,6 +1,0 @@
-Nome,Tipologia,Denominazione,Descrizione,Valore minimo,Valore massimo,Materia prima,Regione,Province,Città
-Vino 'Tintilia del Molise' Rosso,vino 'Rosso',DOC vino 'Tintilia del Molise',"Vitigno 'Tintilia': minimo (>=) 95%, Vitigno 'Altri Autorizzati': massimo (<=) 5%",95%,5%,"Vitigno 'Tintilia', Vitigno 'Altri Autorizzati'",Molise,Provincia di Campobasso,"Campobasso, Campomarino"
-Vino 'Biferno Bianco',vino 'Bianco',DOC vino 'Biferno',Vitigno 'Trebbiano': 100%,100%,,Vitigno 'Trebbiano',Molise,Provincia di Campobasso,Termoli
-Vino 'Molise Trebbiano',vino 'Bianco',DOC vino 'Molise',Vitigno 'Trebbiano Toscano': 100%,100%,,Vitigno 'Trebbiano Toscano',Molise,Provincia di Isernia,Isernia
-Vino 'Pentro di Isernia Rosso',vino 'Rosso',DOC vino 'Pentro di Isernia',"Vitigno 'Montepulciano', 'Sangiovese'",,,"Vitigno 'Montepulciano', Vitigno 'Sangiovese'",Molise,Provincia di Isernia,Venafro
-Vino 'Molise Rosato',vino 'Rosato',DOC vino 'Molise',Vitigno 'Montepulciano': 100%,100%,,Vitigno 'Montepulciano',Molise,Provincia di Campobasso,Larino

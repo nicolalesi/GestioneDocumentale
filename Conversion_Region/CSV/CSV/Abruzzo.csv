@@ -1,6 +1,0 @@
-Nome,Tipologia,Denominazione,Descrizione,Valore minimo,Valore massimo,Materia prima,Regione,Province,Città
-Vino 'Montepulciano d'Abruzzo' Rosso Superiore,vino 'Rosso',DOC vino 'Montepulciano d'Abruzzo',"Vitigno 'Montepulciano': minimo (>=) 90%, Vitigno 'Altri': massimo (<=) 10%",90%,10%,"Vitigno 'Montepulciano', Vitigno 'Altri'",Abruzzo,Provincia di Chieti,"Ortona, Tollo"
-Vino 'Trebbiano d'Abruzzo',vino 'Bianco',DOC vino 'Trebbiano d'Abruzzo',Vitigno 'Trebbiano Toscano': 100%,100%,,Vitigno 'Trebbiano Toscano',Abruzzo,Provincia di Teramo,Atri
-Vino 'Cerasuolo d'Abruzzo',vino 'Rosato',DOC vino 'Cerasuolo d'Abruzzo',Vitigno 'Montepulciano': 100%,100%,,Vitigno 'Montepulciano',Abruzzo,Provincia di Pescara,Loreto Aprutino
-Vino 'Pecorino Terre di Chieti',vino 'Bianco',IGT vino 'Terre di Chieti',Vitigno 'Pecorino': 100%,100%,,Vitigno 'Pecorino',Abruzzo,Provincia di Chieti,San Salvo
-Vino 'Passerina Colline Teramane',vino 'Bianco',IGT vino 'Colline Teramane',Vitigno 'Passerina': 100%,100%,,Vitigno 'Passerina',Abruzzo,Provincia di Teramo,Controguerra
