@@ -501,6 +501,26 @@ li {
   margin-top:2%;
 }  
 
+  /*parte download*/
+.dataDownload {
+  color: #000000; 
+  font-family: 'SocheliaDEMO', sans-serif;
+  }
+.dataDownload a {
+  color: #000000;
+  text-decoration: none;
+  font-weight: normal;
+  }
+.dataDownload a:hover {
+  color: red; /* Rosso scuro */
+  text-decoration: underline;
+  }
+.download-list {
+  list-style-position: inside;
+  padding-left: 0;
+  margin: 1%;
+  }
+
 @media (max-width: 768px) {
   /* Stili per schermi piccoli in questo caso regioni*/
   body {
@@ -554,25 +574,6 @@ li {
   .province,
   .citta {
     font-size: 0.85rem;
-  }
-  /*parte download*/
-  .dataDownload {
-  color: #000000; 
-  font-family: 'SocheliaDEMO', sans-serif;
-  }
-  .dataDownload a {
-  color: #000000;
-  text-decoration: none;
-  font-weight: normal;
-  }
-  .dataDownload a:hover {
-  color: red; /* Rosso scuro */
-  text-decoration: underline;
-  }
-  .download-list {
-  list-style-position: inside;
-  padding-left: 0;
-  margin: 0;
   }
 }
 
