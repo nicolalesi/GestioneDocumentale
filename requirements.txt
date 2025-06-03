@@ -1,0 +1,5 @@
+icrawler==0.6.10
+lxml==5.3.1
+matplotlib==3.10.3
+SPARQLWrapper==2.0.0
+xmltodict==0.14.2

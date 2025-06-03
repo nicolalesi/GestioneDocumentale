@@ -1,6 +1,6 @@
 <!ELEMENT Vini (Vino+)> <!-- Radice -->
 <!-- Contenitore Vino, con tag -->
-<!ELEMENT Vino (Tipologia, Denominazione, Descrizione, ValoreMinimo?, ValoreMassimo?, MateriaPrima?, Luogo)>
+<!ELEMENT Vino (Tipologia, Denominazione, Descrizione, ValoreMassimo?, ValoreMinimo?,MateriaPrima?, Luogo)>
 <!-- "?"non in tutti ci sono-->
 <!ATTLIST Vino nome CDATA #REQUIRED>
 

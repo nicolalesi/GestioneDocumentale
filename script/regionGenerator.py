@@ -148,8 +148,8 @@ for vino in vine_dom:
             valoreMassimo = etree.Element("p")
             valoreMassimo.text = vino.find("ValoreMassimo").text
             valoreMassimo.set("itemprop", "haDescrizione")
-            maxValueContainer.append(minValueLabel)
-            maxValueContainer.append(valoreMinimo)
+            maxValueContainer.append(maxValueLabel)
+            maxValueContainer.append(valoreMassimo)
             
             infoDiv.append(minValueContainer)
         except:
@@ -163,8 +163,8 @@ for vino in vine_dom:
             valoreMinimo = etree.Element("p")
             valoreMinimo.text = vino.find("ValoreMinimo").text
             valoreMinimo.set("itemprop", "haDescrizione")
-            minValueContainer.append(maxValueLabel)
-            minValueContainer.append(valoreMassimo)
+            minValueContainer.append(minValueLabel)
+            minValueContainer.append(valoreMinimo)
             
             infoDiv.append(maxValueContainer)
         except:
