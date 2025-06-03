@@ -8,8 +8,7 @@ Questo repository contiene i file relativi al progetto "Vini", un sito web che p
 Contiene i file di dati utilizzati nel progetto:
 - `vini.xml`: file principale con le informazioni sui vini.
 - `*.zip`: archivi contenenti i dati scaricabili, disponibili sia in versione completa che suddivisi per regione.
-- `*.xml` per regione: versioni filtrate del file principale per ciascuna regione.
-- `vini.dtd`: definizione DTD utilizzata per la validazione del file XML.
+- `DTD_ViniXML`: definizione DTD utilizzata per la validazione del file XML.
 
 ---
 
