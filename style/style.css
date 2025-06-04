@@ -6,25 +6,10 @@
   font-style: normal;
 }
 
-/* Home Page Styles */
-
-.homePage{
-  font-style: italic;
-}
 
 body{
   background-color: #F5EBDA;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.homePageBody {
-  text-align: center;
-  position: relative; /* serve per posizionamenti interni */
-  min-height: 100vh; /* assicurati che body prenda tutta l’altezza */
-  background-image: url('../img/Asset\ 2\ 1.png');
-  background-repeat: no-repeat;
-  background-position: bottom center; /* allinea in basso al centro */
-  background-size: contain; /* o cover, o dimensioni fisse */
 }
 
 header {
@@ -35,6 +20,22 @@ header {
   padding: 20px;
   font-size: 1.2rem;
   text-align: left;;
+}
+
+/* Home Page Styles */
+
+.homePage{
+  font-style: italic;
+}
+
+.homePageBody {
+  text-align: center;
+  position: relative; /* serve per posizionamenti interni */
+  min-height: 100vh; /* assicurati che body prenda tutta l’altezza */
+  background-image: url('../img/Asset\ 2\ 1.png');
+  background-repeat: no-repeat;
+  background-position: bottom center; /* allinea in basso al centro */
+  background-size: contain; /* o cover, o dimensioni fisse */
 }
 
 .container {
@@ -54,7 +55,6 @@ header {
   margin-top: 5%;
   /* margin-left e margin-top tolti perché container ora gestisce il posizionamento */
 }
-
 
 .beginningHeader {
   display: flex;
@@ -144,16 +144,33 @@ header {
   color: #AF6900;
   margin-top: -0.6rem; /* Anche questo più moderato */
 }
+  /*HomepageDownload*/
 
 /* Qui sistemiamo #dataDownload */
 .dataDownload {
   margin-top: 2rem; /* Spazio corretto, evita margin-top enorme */
   font-size: 1.5rem;
-  color: #482817;
+  color: #000000; 
+  font-family: 'SocheliaDEMO', sans-serif;
   font-weight: 600;
   font-style: italic;
   margin-top: 5rem;
-}
+  }
+.dataDownload a {
+  color: #000000;
+  text-decoration: none;
+  font-weight: normal;
+  }
+.dataDownload a:hover {
+  color: #482817; /* Rosso scuro */
+  text-decoration: underline;
+  }
+
+.download-list {
+  list-style-position: inside;
+  padding-left: 0;
+  margin: 1%;
+  }
 
 .map-container {
   width: 70%;
@@ -172,7 +189,7 @@ hr {
 }
 
 .map-container svg {
-  width: 525px; /* o quanto vuoi */
+  width: 525px; 
   height: auto;
   display: block;
   margin-left: 28%;
@@ -298,7 +315,7 @@ hr {
   align-items: flex-start;
   width: 100%;
   gap: 2rem;
-  flex-wrap: nowrap; /* impedisce il wrap delle immagini */
+  flex-wrap: nowrap; /* impedisce alle immagini di andare a capo */
 }
 
 .vino-image {
@@ -508,29 +525,9 @@ li {
   background-color: #ddd;
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
 }
-
-  /*parte download*/
-.dataDownload {
-  color: #000000; 
-  font-family: 'SocheliaDEMO', sans-serif;
-  }
-.dataDownload a {
-  color: #000000;
-  text-decoration: none;
-  font-weight: normal;
-  }
-.dataDownload a:hover {
-  color: red; /* Rosso scuro */
-  text-decoration: underline;
-  }
-.download-list {
-  list-style-position: inside;
-  padding-left: 0;
-  margin: 1%;
-  }
-
-@media (max-width: 768px) {
   /* Stili per schermi piccoli in questo caso regioni*/
+@media (max-width: 768px) {
+
   body {
     padding: 1rem;
     background-size: 40% auto, 40% auto; /* sfondo più grande su mobile */
