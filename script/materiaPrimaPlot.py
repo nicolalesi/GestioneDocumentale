@@ -40,8 +40,12 @@ for vino in root:
                 materie_prime_generiche.append(item.strip())
 
         # Regione
-        regione = vino.find("Luogo")[0].get("nome")
-        conteggio_per_regione[regione].append(materia_prima.strip())
+        luogo = vino.find("Luogo")
+        if luogo is not None:
+            for regione_tag in luogo.findall("Regione"):
+                regione = regione_tag.get("nome")
+                if regione:
+                    conteggio_per_regione[regione].append(materia_prima.strip())
 
     except Exception as e:
         print(f"Errore su vino: {e}")
