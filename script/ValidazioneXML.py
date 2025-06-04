@@ -3,22 +3,19 @@ from lxml import etree
 dtd_filename = "../dati/DTD_ViniXML.dtd"
 xml_filename = "../dati/vini.xml"
 
-dtd_file = open(dtd_filename, 'r',encoding='utf-8')
-# Controlla se il file DTD esiste
-if dtd_file:
-    print("File DTD aperto correttamente")
-else:
-    print("File DTD non trovato")
-# Controlla se il file XML esiste
-if xml_filename:
-    print("File XML aperto correttamente")  
-else:
-    print("File XML non trovato")
+# Imposta il percorso del file DTD e XML
+try:
+    dtd_file = open(dtd_filename, 'r',encoding='utf-8')
+except FileNotFoundError:
+    dtd_file = None
+    print("File DTD non trovato, assicurati che il percorso sia corretto.")
 
-xml_file = open(xml_filename, 'r', encoding='utf-8')
-
-xml_root = etree.parse(xml_filename)
-
+try:
+    xml_file = open(xml_filename, 'r', encoding='utf-8')
+    xml_root = etree.parse(xml_filename)
+except FileNotFoundError:
+    xml_file = None
+    print("File XML non trovato, assicurati che il percorso sia corretto.")
 
 try:
     # Carica DTD se sintatticamente corretto
